@@ -1,0 +1,5508 @@
+{
+  "fecha": "2024-06-12T12-12-24",
+  "cursos": 
+  [
+    {
+      "IdCurso": "ENAUD250/01",
+      "CodCatedra": "ENAUD250",
+      "CodSeccion": "01",
+      "NombreCatedra": "AUDITORÍA I",
+      "Profesores": "CHRISTIAN FERRADA KRAUSE",
+      "Clases": "2/3  CAT, 2/6  AYU, 4/3  CAT",
+      "cod": "ENAUD250",
+      "sección": "01",
+      "profesor": "CHRISTIAN FERRADA KRAUSE",
+      "nombre_curso": "AUDITORÍA I",
+      "horario": [
+        "CAT: Mar 11:00 - 12:20",
+        "AYU: Mar 15:30 - 16:50",
+        "CAT: Jue 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENAUD350/01",
+      "CodCatedra": "ENAUD350",
+      "CodSeccion": "01",
+      "NombreCatedra": "AUDITORÍA DE RIESGO EMPRESARIAL",
+      "Profesores": "JOSE LUIS CARREÑO GOMEZ",
+      "Clases": "1/1  CAT, 1/5  AYU, 3/1  CAT",
+      "cod": "ENAUD350",
+      "sección": "01",
+      "profesor": "JOSE LUIS CARREÑO GOMEZ",
+      "nombre_curso": "AUDITORÍA DE RIESGO EMPRESARIAL",
+      "horario": [
+        "CAT: Lun 08:00 - 09:20",
+        "AYU: Lun 14:00 - 15:20",
+        "CAT: Mie 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENAUD357/01",
+      "CodCatedra": "ENAUD357",
+      "CodSeccion": "01",
+      "NombreCatedra": "CIBERSEGURIDAD Y TRANSFORMACIÓN DIGITAL",
+      "Profesores": "JOSÉ ANTONIO LAGOS MELO",
+      "Clases": "1/2  CAT, 3/2  CAT",
+      "cod": "ENAUD357",
+      "sección": "01",
+      "profesor": "JOSÉ ANTONIO LAGOS MELO",
+      "nombre_curso": "CIBERSEGURIDAD Y TRANSFORMACIÓN DIGITAL",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "CAT: Mie 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENAUD360/01",
+      "CodCatedra": "ENAUD360",
+      "CodSeccion": "01",
+      "NombreCatedra": "AUDITORÍA III",
+      "Profesores": "ESTEBAN DAVID OLIVARES ARELLANO",
+      "Clases": "1/5  AYU, 2/2  CAT, 4/2  CAT",
+      "cod": "ENAUD360",
+      "sección": "01",
+      "profesor": "ESTEBAN DAVID OLIVARES ARELLANO",
+      "nombre_curso": "AUDITORÍA III",
+      "horario": [
+        "AYU: Lun 14:00 - 15:20",
+        "CAT: Mar 09:30 - 10:50",
+        "CAT: Jue 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENAUD453/01",
+      "CodCatedra": "ENAUD453",
+      "CodSeccion": "01",
+      "NombreCatedra": "TECNOLOGÍA Y BASE DE DATOS PARA AUDITORÍA",
+      "Profesores": "SARA SOFIA HERRERA PARRAGUEZ",
+      "Clases": "1/8  CAT, 3/7  AYU, 3/8  CAT",
+      "cod": "ENAUD453",
+      "sección": "01",
+      "profesor": "SARA SOFIA HERRERA PARRAGUEZ",
+      "nombre_curso": "TECNOLOGÍA Y BASE DE DATOS PARA AUDITORÍA",
+      "horario": [
+        "CAT: Lun 18:30 - 19:50",
+        "AYU: Mie 17:00 - 18:20",
+        "CAT: Mie 18:30 - 19:50"
+      ]
+    },
+    {
+      "IdCurso": "ENAUD454/01",
+      "CodCatedra": "ENAUD454",
+      "CodSeccion": "01",
+      "NombreCatedra": "AUDITORÍA DE FRAUDES Y DELITOS ECONÓMICOS",
+      "Profesores": "CHRISTIAN ALBERTO CAAMAÑO SOTO, PABLO ELÍAS ALFARO NAVIA",
+      "Clases": "2/1  CAT, 4/1  CAT",
+      "cod": "ENAUD454",
+      "sección": "01",
+      "profesor": "CHRISTIAN ALBERTO CAAMAÑO SOTO, PABLO ELÍAS ALFARO NAVIA",
+      "nombre_curso": "AUDITORÍA DE FRAUDES Y DELITOS ECONÓMICOS",
+      "horario": [
+        "CAT: Mar 08:00 - 09:20",
+        "CAT: Jue 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENAUD460/01",
+      "CodCatedra": "ENAUD460",
+      "CodSeccion": "01",
+      "NombreCatedra": "CONTROL INTERNO",
+      "Profesores": "OSCAR PATRICIO LORCA JAMETT",
+      "Clases": "1/5  CAT, 3/5  CAT, 4/7  AYU",
+      "cod": "ENAUD460",
+      "sección": "01",
+      "profesor": "OSCAR PATRICIO LORCA JAMETT",
+      "nombre_curso": "CONTROL INTERNO",
+      "horario": [
+        "CAT: Lun 14:00 - 15:20",
+        "CAT: Mie 14:00 - 15:20",
+        "AYU: Jue 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENAUD485/01",
+      "CodCatedra": "ENAUD485",
+      "CodSeccion": "01",
+      "NombreCatedra": "TALLER DE CONTABILIDAD Y AUDITORIA",
+      "Profesores": "GUILLERMO PATRICIO REBOLLEDO SANCHEZ, RAUL ALEJANDRO PUERTO MENDOZA",
+      "Clases": "1/5  CAT, 2/7  CAT, 4/7  CAT",
+      "cod": "ENAUD485",
+      "sección": "01",
+      "profesor": "GUILLERMO PATRICIO REBOLLEDO SANCHEZ, RAUL ALEJANDRO PUERTO MENDOZA",
+      "nombre_curso": "TALLER DE CONTABILIDAD Y AUDITORIA",
+      "horario": [
+        "CAT: Lun 14:00 - 15:20",
+        "CAT: Mar 17:00 - 18:20",
+        "CAT: Jue 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENAUD500/01",
+      "CodCatedra": "ENAUD500",
+      "CodSeccion": "01",
+      "NombreCatedra": "AUDITORÍA IV",
+      "Profesores": "CAROLINA ANDREA MENA IGLESIAS",
+      "Clases": "1/8  CAT, 2/6  AYU, 3/8  CAT",
+      "cod": "ENAUD500",
+      "sección": "01",
+      "profesor": "CAROLINA ANDREA MENA IGLESIAS",
+      "nombre_curso": "AUDITORÍA IV",
+      "horario": [
+        "CAT: Lun 18:30 - 19:50",
+        "AYU: Mar 15:30 - 16:50",
+        "CAT: Mie 18:30 - 19:50"
+      ]
+    },
+    {
+      "IdCurso": "ENCGE350/01",
+      "CodCatedra": "ENCGE350",
+      "CodSeccion": "01",
+      "NombreCatedra": "CONTROL DE GESTIÓN",
+      "Profesores": "ANTONIO DEL CARMEN FARIAS LANDABUR",
+      "Clases": "2/4  CAT, 4/4  CAT, 5/1  AYU",
+      "cod": "ENCGE350",
+      "sección": "01",
+      "profesor": "ANTONIO DEL CARMEN FARIAS LANDABUR",
+      "nombre_curso": "CONTROL DE GESTIÓN",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "CAT: Jue 12:30 - 13:50",
+        "AYU: Vie 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCGE355/03",
+      "CodCatedra": "ENCGE355",
+      "CodSeccion": "03",
+      "NombreCatedra": "CONTROL DE GESTIÓN",
+      "Profesores": "ALDO ALBERTO CAPRILE ROJAS, ANTONIO DEL CARMEN FARIAS LANDABUR",
+      "Clases": "1/2  CAT, 3/2  CAT, 5/1  AYU",
+      "cod": "ENCGE355",
+      "sección": "03",
+      "profesor": "ALDO ALBERTO CAPRILE ROJAS, ANTONIO DEL CARMEN FARIAS LANDABUR",
+      "nombre_curso": "CONTROL DE GESTIÓN",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "CAT: Mie 09:30 - 10:50",
+        "AYU: Vie 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCGE355/01",
+      "CodCatedra": "ENCGE355",
+      "CodSeccion": "01",
+      "NombreCatedra": "CONTROL DE GESTIÓN",
+      "Profesores": "ALDO ALBERTO CAPRILE ROJAS, ANTONIO DEL CARMEN FARIAS LANDABUR",
+      "Clases": "1/3  CAT, 3/3  CAT, 5/1  AYU",
+      "cod": "ENCGE355",
+      "sección": "01",
+      "profesor": "ALDO ALBERTO CAPRILE ROJAS, ANTONIO DEL CARMEN FARIAS LANDABUR",
+      "nombre_curso": "CONTROL DE GESTIÓN",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20",
+        "AYU: Vie 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCGE355/02",
+      "CodCatedra": "ENCGE355",
+      "CodSeccion": "02",
+      "NombreCatedra": "CONTROL DE GESTIÓN",
+      "Profesores": "ALDO ALBERTO CAPRILE ROJAS, ANTONIO DEL CARMEN FARIAS LANDABUR",
+      "Clases": "1/4  CAT, 3/4  CAT, 5/1  AYU",
+      "cod": "ENCGE355",
+      "sección": "02",
+      "profesor": "ALDO ALBERTO CAPRILE ROJAS, ANTONIO DEL CARMEN FARIAS LANDABUR",
+      "nombre_curso": "CONTROL DE GESTIÓN",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "CAT: Mie 12:30 - 13:50",
+        "AYU: Vie 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCGE405/01",
+      "CodCatedra": "ENCGE405",
+      "CodSeccion": "01",
+      "NombreCatedra": "CONTROL DE GESTIÓN II",
+      "Profesores": "ALDO ALBERTO CAPRILE ROJAS",
+      "Clases": "1/5  CAT, 3/5  CAT, 5/2  AYU",
+      "cod": "ENCGE405",
+      "sección": "01",
+      "profesor": "ALDO ALBERTO CAPRILE ROJAS",
+      "nombre_curso": "CONTROL DE GESTIÓN II",
+      "horario": [
+        "CAT: Lun 14:00 - 15:20",
+        "CAT: Mie 14:00 - 15:20",
+        "AYU: Vie 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENCGE500/01",
+      "CodCatedra": "ENCGE500",
+      "CodSeccion": "01",
+      "NombreCatedra": "TALLER DE CONTROL DE GESTIÓN Y COSTOS",
+      "Profesores": "ALICIA LORENA NUÑEZ MONDACA",
+      "Clases": "2/2  CAT, 4/2  CAT, 5/3  AYU, 5/4  AYU",
+      "cod": "ENCGE500",
+      "sección": "01",
+      "profesor": "ALICIA LORENA NUÑEZ MONDACA",
+      "nombre_curso": "TALLER DE CONTROL DE GESTIÓN Y COSTOS",
+      "horario": [
+        "CAT: Mar 09:30 - 10:50",
+        "CAT: Jue 09:30 - 10:50",
+        "AYU: Vie 11:00 - 12:20",
+        "AYU: Vie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENCGE606/01",
+      "CodCatedra": "ENCGE606",
+      "CodSeccion": "01",
+      "NombreCatedra": "PLANIFICACIÓN ESTRATÉGICA Y GESTIÓN DE PROCESOS",
+      "Profesores": "CHRISTIAN ALEXANDER CANCINO DEL CASTILLO",
+      "Clases": "1/6  CAT, 3/6  CAT",
+      "cod": "ENCGE606",
+      "sección": "01",
+      "profesor": "CHRISTIAN ALEXANDER CANCINO DEL CASTILLO",
+      "nombre_curso": "PLANIFICACIÓN ESTRATÉGICA Y GESTIÓN DE PROCESOS",
+      "horario": [
+        "CAT: Lun 15:30 - 16:50",
+        "CAT: Mie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENCGE623/01",
+      "CodCatedra": "ENCGE623",
+      "CodSeccion": "01",
+      "NombreCatedra": "COMPENSACIÓN EJECUTIVA Y GOBIERNOS CORPORATIVOS",
+      "Profesores": "GINO GUSTAVO LOYOLA FUENTES",
+      "Clases": "1/4  CAT, 3/4  CAT",
+      "cod": "ENCGE623",
+      "sección": "01",
+      "profesor": "GINO GUSTAVO LOYOLA FUENTES",
+      "nombre_curso": "COMPENSACIÓN EJECUTIVA Y GOBIERNOS CORPORATIVOS",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "CAT: Mie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENCOM150/01",
+      "CodCatedra": "ENCOM150",
+      "CodSeccion": "01",
+      "NombreCatedra": "ENTORNO SOCIAL Y PROFESIONAL",
+      "Profesores": "MAXIMILIANO ANDRÉS ROMO MARÍN",
+      "Clases": "1/1  CAT, 3/1  CAT",
+      "cod": "ENCOM150",
+      "sección": "01",
+      "profesor": "MAXIMILIANO ANDRÉS ROMO MARÍN",
+      "nombre_curso": "ENTORNO SOCIAL Y PROFESIONAL",
+      "horario": [
+        "CAT: Lun 08:00 - 09:20",
+        "CAT: Mie 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCOM150/04",
+      "CodCatedra": "ENCOM150",
+      "CodSeccion": "04",
+      "NombreCatedra": "ENTORNO SOCIAL Y PROFESIONAL",
+      "Profesores": "MAYTE DANIELA FUENTES CORTÉS",
+      "Clases": "1/7  CAT, 3/7  CAT",
+      "cod": "ENCOM150",
+      "sección": "04",
+      "profesor": "MAYTE DANIELA FUENTES CORTÉS",
+      "nombre_curso": "ENTORNO SOCIAL Y PROFESIONAL",
+      "horario": [
+        "CAT: Lun 17:00 - 18:20",
+        "CAT: Mie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCOM150/02",
+      "CodCatedra": "ENCOM150",
+      "CodSeccion": "02",
+      "NombreCatedra": "ENTORNO SOCIAL Y PROFESIONAL",
+      "Profesores": "FERNANDO JOSE GUALDA DE LA CERDA",
+      "Clases": "2/1  CAT, 4/1  CAT",
+      "cod": "ENCOM150",
+      "sección": "02",
+      "profesor": "FERNANDO JOSE GUALDA DE LA CERDA",
+      "nombre_curso": "ENTORNO SOCIAL Y PROFESIONAL",
+      "horario": [
+        "CAT: Mar 08:00 - 09:20",
+        "CAT: Jue 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCOM150/03",
+      "CodCatedra": "ENCOM150",
+      "CodSeccion": "03",
+      "NombreCatedra": "ENTORNO SOCIAL Y PROFESIONAL",
+      "Profesores": "FERNANDO JOSE GUALDA DE LA CERDA",
+      "Clases": "2/2  CAT, 4/2  CAT",
+      "cod": "ENCOM150",
+      "sección": "03",
+      "profesor": "FERNANDO JOSE GUALDA DE LA CERDA",
+      "nombre_curso": "ENTORNO SOCIAL Y PROFESIONAL",
+      "horario": [
+        "CAT: Mar 09:30 - 10:50",
+        "CAT: Jue 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENCOM200/03",
+      "CodCatedra": "ENCOM200",
+      "CodSeccion": "03",
+      "NombreCatedra": "COMUNICACIÓN I",
+      "Profesores": "ROCÍO ALEJANDRA ÁVILA VERGARA",
+      "Clases": "2/1  CAT",
+      "cod": "ENCOM200",
+      "sección": "03",
+      "profesor": "ROCÍO ALEJANDRA ÁVILA VERGARA",
+      "nombre_curso": "COMUNICACIÓN I",
+      "horario": [
+        "CAT: Mar 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCOM200/01",
+      "CodCatedra": "ENCOM200",
+      "CodSeccion": "01",
+      "NombreCatedra": "COMUNICACIÓN I",
+      "Profesores": "TAMARA VICTORIA CABRERA ESCUDERO",
+      "Clases": "2/7  CAT",
+      "cod": "ENCOM200",
+      "sección": "01",
+      "profesor": "TAMARA VICTORIA CABRERA ESCUDERO",
+      "nombre_curso": "COMUNICACIÓN I",
+      "horario": [
+        "CAT: Mar 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCOM200/02",
+      "CodCatedra": "ENCOM200",
+      "CodSeccion": "02",
+      "NombreCatedra": "COMUNICACIÓN I",
+      "Profesores": "TAMARA VICTORIA CABRERA ESCUDERO",
+      "Clases": "2/8  CAT",
+      "cod": "ENCOM200",
+      "sección": "02",
+      "profesor": "TAMARA VICTORIA CABRERA ESCUDERO",
+      "nombre_curso": "COMUNICACIÓN I",
+      "horario": [
+        "CAT: Mar 18:30 - 19:50"
+      ]
+    },
+    {
+      "IdCurso": "ENCOM300/01",
+      "CodCatedra": "ENCOM300",
+      "CodSeccion": "01",
+      "NombreCatedra": "COMUNICACIÓN II",
+      "Profesores": "MARÍA JOSÉ PINARES ALVARADO",
+      "Clases": "3/1  CAT",
+      "cod": "ENCOM300",
+      "sección": "01",
+      "profesor": "MARÍA JOSÉ PINARES ALVARADO",
+      "nombre_curso": "COMUNICACIÓN II",
+      "horario": [
+        "CAT: Mie 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCOM300/02",
+      "CodCatedra": "ENCOM300",
+      "CodSeccion": "02",
+      "NombreCatedra": "COMUNICACIÓN II",
+      "Profesores": "PAULO ANTONIO HENRIQUEZ MUNITA",
+      "Clases": "3/3  CAT",
+      "cod": "ENCOM300",
+      "sección": "02",
+      "profesor": "PAULO ANTONIO HENRIQUEZ MUNITA",
+      "nombre_curso": "COMUNICACIÓN II",
+      "horario": [
+        "CAT: Mie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCOM300/03",
+      "CodCatedra": "ENCOM300",
+      "CodSeccion": "03",
+      "NombreCatedra": "COMUNICACIÓN II",
+      "Profesores": "FABIÁN ANDRÉS SANTIBÁÑEZ VÁSQUEZ",
+      "Clases": "4/1  CAT",
+      "cod": "ENCOM300",
+      "sección": "03",
+      "profesor": "FABIÁN ANDRÉS SANTIBÁÑEZ VÁSQUEZ",
+      "nombre_curso": "COMUNICACIÓN II",
+      "horario": [
+        "CAT: Jue 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCON155/02",
+      "CodCatedra": "ENCON155",
+      "CodSeccion": "02",
+      "NombreCatedra": "CONTABILIDAD I",
+      "Profesores": "LORETO JASMILY GONZÁLEZ LARA",
+      "Clases": "1/1  CAT, 2/7  AYU, 3/1  CAT",
+      "cod": "ENCON155",
+      "sección": "02",
+      "profesor": "LORETO JASMILY GONZÁLEZ LARA",
+      "nombre_curso": "CONTABILIDAD I",
+      "horario": [
+        "CAT: Lun 08:00 - 09:20",
+        "AYU: Mar 17:00 - 18:20",
+        "CAT: Mie 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCON155/03",
+      "CodCatedra": "ENCON155",
+      "CodSeccion": "03",
+      "NombreCatedra": "CONTABILIDAD I",
+      "Profesores": "VERONICA ANDREA PIZARRO TORRES",
+      "Clases": "2/1  CAT, 2/7  AYU, 4/1  CAT",
+      "cod": "ENCON155",
+      "sección": "03",
+      "profesor": "VERONICA ANDREA PIZARRO TORRES",
+      "nombre_curso": "CONTABILIDAD I",
+      "horario": [
+        "CAT: Mar 08:00 - 09:20",
+        "AYU: Mar 17:00 - 18:20",
+        "CAT: Jue 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCON155/01",
+      "CodCatedra": "ENCON155",
+      "CodSeccion": "01",
+      "NombreCatedra": "CONTABILIDAD I",
+      "Profesores": "HAROLD MICHEL LOPEZ ARAYA",
+      "Clases": "2/2  CAT, 2/7  AYU, 4/2  CAT",
+      "cod": "ENCON155",
+      "sección": "01",
+      "profesor": "HAROLD MICHEL LOPEZ ARAYA",
+      "nombre_curso": "CONTABILIDAD I",
+      "horario": [
+        "CAT: Mar 09:30 - 10:50",
+        "AYU: Mar 17:00 - 18:20",
+        "CAT: Jue 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENCON205/01",
+      "CodCatedra": "ENCON205",
+      "CodSeccion": "01",
+      "NombreCatedra": "CONTABILIDAD II",
+      "Profesores": "ADRIANA ANDREA CABELLO CERNA",
+      "Clases": "2/2  CAT, 2/8  AYU, 4/2  CAT",
+      "cod": "ENCON205",
+      "sección": "01",
+      "profesor": "ADRIANA ANDREA CABELLO CERNA",
+      "nombre_curso": "CONTABILIDAD II",
+      "horario": [
+        "CAT: Mar 09:30 - 10:50",
+        "AYU: Mar 18:30 - 19:50",
+        "CAT: Jue 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENCON210/06",
+      "CodCatedra": "ENCON210",
+      "CodSeccion": "06",
+      "NombreCatedra": "CONTABILIDAD",
+      "Profesores": "DANIELA ESTEFANÍA SILVA BUSTOS",
+      "Clases": "1/1  CAT, 3/1  CAT, 3/7  AYU",
+      "cod": "ENCON210",
+      "sección": "06",
+      "profesor": "DANIELA ESTEFANÍA SILVA BUSTOS",
+      "nombre_curso": "CONTABILIDAD",
+      "horario": [
+        "CAT: Lun 08:00 - 09:20",
+        "CAT: Mie 08:00 - 09:20",
+        "AYU: Mie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCON210/04",
+      "CodCatedra": "ENCON210",
+      "CodSeccion": "04",
+      "NombreCatedra": "CONTABILIDAD",
+      "Profesores": "JOSE ALEJANDRO OLIVARES ROJAS",
+      "Clases": "1/2  CAT, 3/2  CAT, 3/7  AYU",
+      "cod": "ENCON210",
+      "sección": "04",
+      "profesor": "JOSE ALEJANDRO OLIVARES ROJAS",
+      "nombre_curso": "CONTABILIDAD",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "CAT: Mie 09:30 - 10:50",
+        "AYU: Mie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCON210/03",
+      "CodCatedra": "ENCON210",
+      "CodSeccion": "03",
+      "NombreCatedra": "CONTABILIDAD",
+      "Profesores": "FRANCISCO ESTEBAN SANCHEZ MORALES",
+      "Clases": "1/3  CAT, 3/3  CAT, 3/7  AYU",
+      "cod": "ENCON210",
+      "sección": "03",
+      "profesor": "FRANCISCO ESTEBAN SANCHEZ MORALES",
+      "nombre_curso": "CONTABILIDAD",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20",
+        "AYU: Mie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCON210/05",
+      "CodCatedra": "ENCON210",
+      "CodSeccion": "05",
+      "NombreCatedra": "CONTABILIDAD",
+      "Profesores": "JOSE ALEJANDRO OLIVARES ROJAS",
+      "Clases": "1/4  CAT, 3/4  CAT, 3/7  AYU",
+      "cod": "ENCON210",
+      "sección": "05",
+      "profesor": "JOSE ALEJANDRO OLIVARES ROJAS",
+      "nombre_curso": "CONTABILIDAD",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "CAT: Mie 12:30 - 13:50",
+        "AYU: Mie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCON210/07",
+      "CodCatedra": "ENCON210",
+      "CodSeccion": "07",
+      "NombreCatedra": "CONTABILIDAD",
+      "Profesores": "MARCO ANTONIO SAAVEDRA ITURRIETA",
+      "Clases": "2/1  CAT, 3/7  AYU, 4/1  CAT",
+      "cod": "ENCON210",
+      "sección": "07",
+      "profesor": "MARCO ANTONIO SAAVEDRA ITURRIETA",
+      "nombre_curso": "CONTABILIDAD",
+      "horario": [
+        "CAT: Mar 08:00 - 09:20",
+        "AYU: Mie 17:00 - 18:20",
+        "CAT: Jue 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCON210/01",
+      "CodCatedra": "ENCON210",
+      "CodSeccion": "01",
+      "NombreCatedra": "CONTABILIDAD",
+      "Profesores": "FRANCISCO ESTEBAN SANCHEZ MORALES",
+      "Clases": "2/2  CAT, 3/7  AYU, 4/2  CAT",
+      "cod": "ENCON210",
+      "sección": "01",
+      "profesor": "FRANCISCO ESTEBAN SANCHEZ MORALES",
+      "nombre_curso": "CONTABILIDAD",
+      "horario": [
+        "CAT: Mar 09:30 - 10:50",
+        "AYU: Mie 17:00 - 18:20",
+        "CAT: Jue 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENCON210/02",
+      "CodCatedra": "ENCON210",
+      "CodSeccion": "02",
+      "NombreCatedra": "CONTABILIDAD",
+      "Profesores": "FRANCISCO ESTEBAN SANCHEZ MORALES",
+      "Clases": "2/4  CAT, 3/7  AYU, 4/4  CAT",
+      "cod": "ENCON210",
+      "sección": "02",
+      "profesor": "FRANCISCO ESTEBAN SANCHEZ MORALES",
+      "nombre_curso": "CONTABILIDAD",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "AYU: Mie 17:00 - 18:20",
+        "CAT: Jue 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENCON255/01",
+      "CodCatedra": "ENCON255",
+      "CodSeccion": "01",
+      "NombreCatedra": "FUNDAMENTOS DE COSTOS",
+      "Profesores": "VERONICA ANDREA PIZARRO TORRES",
+      "Clases": "2/2  CAT, 4/2  CAT, 5/4  AYU",
+      "cod": "ENCON255",
+      "sección": "01",
+      "profesor": "VERONICA ANDREA PIZARRO TORRES",
+      "nombre_curso": "FUNDAMENTOS DE COSTOS",
+      "horario": [
+        "CAT: Mar 09:30 - 10:50",
+        "CAT: Jue 09:30 - 10:50",
+        "AYU: Vie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENCON255/02",
+      "CodCatedra": "ENCON255",
+      "CodSeccion": "02",
+      "NombreCatedra": "FUNDAMENTOS DE COSTOS",
+      "Profesores": "VERONICA ANDREA PIZARRO TORRES",
+      "Clases": "2/4  CAT, 4/4  CAT, 5/4  AYU",
+      "cod": "ENCON255",
+      "sección": "02",
+      "profesor": "VERONICA ANDREA PIZARRO TORRES",
+      "nombre_curso": "FUNDAMENTOS DE COSTOS",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "CAT: Jue 12:30 - 13:50",
+        "AYU: Vie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENCON305/01",
+      "CodCatedra": "ENCON305",
+      "CodSeccion": "01",
+      "NombreCatedra": "COSTOS Y PRESUPUESTOS",
+      "Profesores": "CARMEN GLORIA RIQUELME ROBLEDO",
+      "Clases": "2/1  CAT, 4/1  CAT, 5/3  AYU",
+      "cod": "ENCON305",
+      "sección": "01",
+      "profesor": "CARMEN GLORIA RIQUELME ROBLEDO",
+      "nombre_curso": "COSTOS Y PRESUPUESTOS",
+      "horario": [
+        "CAT: Mar 08:00 - 09:20",
+        "CAT: Jue 08:00 - 09:20",
+        "AYU: Vie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCON305/03",
+      "CodCatedra": "ENCON305",
+      "CodSeccion": "03",
+      "NombreCatedra": "COSTOS Y PRESUPUESTOS",
+      "Profesores": "DORA LUZ HERNÁNDEZ RIVERA, JORGE LUIS LEYTON DIAZ",
+      "Clases": "2/1  CAT, 4/1  CAT, 5/3  AYU",
+      "cod": "ENCON305",
+      "sección": "03",
+      "profesor": "DORA LUZ HERNÁNDEZ RIVERA, JORGE LUIS LEYTON DIAZ",
+      "nombre_curso": "COSTOS Y PRESUPUESTOS",
+      "horario": [
+        "CAT: Mar 08:00 - 09:20",
+        "CAT: Jue 08:00 - 09:20",
+        "AYU: Vie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCON305/02",
+      "CodCatedra": "ENCON305",
+      "CodSeccion": "02",
+      "NombreCatedra": "COSTOS Y PRESUPUESTOS",
+      "Profesores": "ALICIA LORENA NUÑEZ MONDACA",
+      "Clases": "2/4  CAT, 4/4  CAT, 5/3  AYU",
+      "cod": "ENCON305",
+      "sección": "02",
+      "profesor": "ALICIA LORENA NUÑEZ MONDACA",
+      "nombre_curso": "COSTOS Y PRESUPUESTOS",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "CAT: Jue 12:30 - 13:50",
+        "AYU: Vie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCON310/01",
+      "CodCatedra": "ENCON310",
+      "CodSeccion": "01",
+      "NombreCatedra": "ANALISIS CONTABLE",
+      "Profesores": "ELIZABETH FRANCISCA GUTIERREZ CARO",
+      "Clases": "1/7  AYU, 2/2  CAT, 4/2  CAT",
+      "cod": "ENCON310",
+      "sección": "01",
+      "profesor": "ELIZABETH FRANCISCA GUTIERREZ CARO",
+      "nombre_curso": "ANALISIS CONTABLE",
+      "horario": [
+        "AYU: Lun 17:00 - 18:20",
+        "CAT: Mar 09:30 - 10:50",
+        "CAT: Jue 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENCON314/01",
+      "CodCatedra": "ENCON314",
+      "CodSeccion": "01",
+      "NombreCatedra": "PREVENCIÓN DE FRAUDES A ESTADOS FINANCIEROS",
+      "Profesores": "LEONARDO ERNESTO TORRES HUECHUCOY",
+      "Clases": "1/3  CAT, 3/3  CAT",
+      "cod": "ENCON314",
+      "sección": "01",
+      "profesor": "LEONARDO ERNESTO TORRES HUECHUCOY",
+      "nombre_curso": "PREVENCIÓN DE FRAUDES A ESTADOS FINANCIEROS",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCON340/01",
+      "CodCatedra": "ENCON340",
+      "CodSeccion": "01",
+      "NombreCatedra": "CONTABILIDAD EMPRESARIAL",
+      "Profesores": "JOSE ALEJANDRO OLIVARES ROJAS",
+      "Clases": "1/5  CAT, 1/8  AYU, 3/5  CAT",
+      "cod": "ENCON340",
+      "sección": "01",
+      "profesor": "JOSE ALEJANDRO OLIVARES ROJAS",
+      "nombre_curso": "CONTABILIDAD EMPRESARIAL",
+      "horario": [
+        "CAT: Lun 14:00 - 15:20",
+        "AYU: Lun 18:30 - 19:50",
+        "CAT: Mie 14:00 - 15:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCON340/02",
+      "CodCatedra": "ENCON340",
+      "CodSeccion": "02",
+      "NombreCatedra": "CONTABILIDAD EMPRESARIAL",
+      "Profesores": "MARIANA MERCEDES MUÑOZ FAÚNDEZ",
+      "Clases": "1/8  AYU, 2/6  CAT, 4/6  CAT",
+      "cod": "ENCON340",
+      "sección": "02",
+      "profesor": "MARIANA MERCEDES MUÑOZ FAÚNDEZ",
+      "nombre_curso": "CONTABILIDAD EMPRESARIAL",
+      "horario": [
+        "AYU: Lun 18:30 - 19:50",
+        "CAT: Mar 15:30 - 16:50",
+        "CAT: Jue 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENCON360/04",
+      "CodCatedra": "ENCON360",
+      "CodSeccion": "04",
+      "NombreCatedra": "CONTABILIDAD EMPRESARIAL II",
+      "Profesores": "MARCO ANTONIO SAAVEDRA ITURRIETA",
+      "Clases": "1/2  CAT, 3/2  CAT, 5/6  AYU",
+      "cod": "ENCON360",
+      "sección": "04",
+      "profesor": "MARCO ANTONIO SAAVEDRA ITURRIETA",
+      "nombre_curso": "CONTABILIDAD EMPRESARIAL II",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "CAT: Mie 09:30 - 10:50",
+        "AYU: Vie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENCON360/03",
+      "CodCatedra": "ENCON360",
+      "CodSeccion": "03",
+      "NombreCatedra": "CONTABILIDAD EMPRESARIAL II",
+      "Profesores": "JAIME SEBASTIÁN VERGARA GAETE",
+      "Clases": "2/1  CAT, 4/1  CAT, 5/6  AYU",
+      "cod": "ENCON360",
+      "sección": "03",
+      "profesor": "JAIME SEBASTIÁN VERGARA GAETE",
+      "nombre_curso": "CONTABILIDAD EMPRESARIAL II",
+      "horario": [
+        "CAT: Mar 08:00 - 09:20",
+        "CAT: Jue 08:00 - 09:20",
+        "AYU: Vie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENCON360/02",
+      "CodCatedra": "ENCON360",
+      "CodSeccion": "02",
+      "NombreCatedra": "CONTABILIDAD EMPRESARIAL II",
+      "Profesores": "MARCO ANTONIO SAAVEDRA ITURRIETA",
+      "Clases": "2/2  CAT, 4/2  CAT, 5/6  AYU",
+      "cod": "ENCON360",
+      "sección": "02",
+      "profesor": "MARCO ANTONIO SAAVEDRA ITURRIETA",
+      "nombre_curso": "CONTABILIDAD EMPRESARIAL II",
+      "horario": [
+        "CAT: Mar 09:30 - 10:50",
+        "CAT: Jue 09:30 - 10:50",
+        "AYU: Vie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENCON360/01",
+      "CodCatedra": "ENCON360",
+      "CodSeccion": "01",
+      "NombreCatedra": "CONTABILIDAD EMPRESARIAL II",
+      "Profesores": "FRANCISCO ESTEBAN SANCHEZ MORALES",
+      "Clases": "2/3  CAT, 4/3  CAT, 5/6  AYU",
+      "cod": "ENCON360",
+      "sección": "01",
+      "profesor": "FRANCISCO ESTEBAN SANCHEZ MORALES",
+      "nombre_curso": "CONTABILIDAD EMPRESARIAL II",
+      "horario": [
+        "CAT: Mar 11:00 - 12:20",
+        "CAT: Jue 11:00 - 12:20",
+        "AYU: Vie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENCON405/01",
+      "CodCatedra": "ENCON405",
+      "CodSeccion": "01",
+      "NombreCatedra": "CONTABILIDAD AVANZADA",
+      "Profesores": "ELIZABETH FRANCISCA GUTIERREZ CARO",
+      "Clases": "2/4  CAT, 4/4  CAT, 5/4  AYU",
+      "cod": "ENCON405",
+      "sección": "01",
+      "profesor": "ELIZABETH FRANCISCA GUTIERREZ CARO",
+      "nombre_curso": "CONTABILIDAD AVANZADA",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "CAT: Jue 12:30 - 13:50",
+        "AYU: Vie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENCON415/01",
+      "CodCatedra": "ENCON415",
+      "CodSeccion": "01",
+      "NombreCatedra": "COSTOS AVANZADOS",
+      "Profesores": "VERONICA ALEJANDRA FUENTES CACERES",
+      "Clases": "2/3  CAT, 4/3  CAT, 5/3  AYU",
+      "cod": "ENCON415",
+      "sección": "01",
+      "profesor": "VERONICA ALEJANDRA FUENTES CACERES",
+      "nombre_curso": "COSTOS AVANZADOS",
+      "horario": [
+        "CAT: Mar 11:00 - 12:20",
+        "CAT: Jue 11:00 - 12:20",
+        "AYU: Vie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCON415/02",
+      "CodCatedra": "ENCON415",
+      "CodSeccion": "02",
+      "NombreCatedra": "COSTOS AVANZADOS",
+      "Profesores": "VERONICA ALEJANDRA FUENTES CACERES",
+      "Clases": "2/4  CAT, 4/4  CAT, 5/3  AYU",
+      "cod": "ENCON415",
+      "sección": "02",
+      "profesor": "VERONICA ALEJANDRA FUENTES CACERES",
+      "nombre_curso": "COSTOS AVANZADOS",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "CAT: Jue 12:30 - 13:50",
+        "AYU: Vie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCON455/01",
+      "CodCatedra": "ENCON455",
+      "CodSeccion": "01",
+      "NombreCatedra": "CONTABILIDAD PARA LAS DECISIONES",
+      "Profesores": "GUILLERMO PATRICIO REBOLLEDO SANCHEZ",
+      "Clases": "2/1  CAT, 2/4  AYU, 4/1  CAT",
+      "cod": "ENCON455",
+      "sección": "01",
+      "profesor": "GUILLERMO PATRICIO REBOLLEDO SANCHEZ",
+      "nombre_curso": "CONTABILIDAD PARA LAS DECISIONES",
+      "horario": [
+        "CAT: Mar 08:00 - 09:20",
+        "AYU: Mar 12:30 - 13:50",
+        "CAT: Jue 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCSH150/01",
+      "CodCatedra": "ENCSH150",
+      "CodSeccion": "01",
+      "NombreCatedra": "INTRODUCCIÓN AL PENSAMIENTO ECONÓMICO Y POLÍTICO",
+      "Profesores": "OSCAR MANUEL LANDERRETCHE MORENO",
+      "Clases": "2/6 Aula Magna CAT",
+      "cod": "ENCSH150",
+      "sección": "01",
+      "profesor": "OSCAR MANUEL LANDERRETCHE MORENO",
+      "nombre_curso": "INTRODUCCIÓN AL PENSAMIENTO ECONÓMICO Y POLÍTICO",
+      "horario": [
+        "CAT: Mar 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENCSH150/02",
+      "CodCatedra": "ENCSH150",
+      "CodSeccion": "02",
+      "NombreCatedra": "INTRODUCCIÓN AL PENSAMIENTO ECONÓMICO Y POLÍTICO",
+      "Profesores": "OSCAR MANUEL LANDERRETCHE MORENO",
+      "Clases": "2/7 Aula Magna CAT",
+      "cod": "ENCSH150",
+      "sección": "02",
+      "profesor": "OSCAR MANUEL LANDERRETCHE MORENO",
+      "nombre_curso": "INTRODUCCIÓN AL PENSAMIENTO ECONÓMICO Y POLÍTICO",
+      "horario": [
+        "CAT: Mar 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENCSH150/03",
+      "CodCatedra": "ENCSH150",
+      "CodSeccion": "03",
+      "NombreCatedra": "INTRODUCCIÓN AL PENSAMIENTO ECONÓMICO Y POLÍTICO",
+      "Profesores": "OSCAR MANUEL LANDERRETCHE MORENO",
+      "Clases": "4/6 Aula Magna CAT",
+      "cod": "ENCSH150",
+      "sección": "03",
+      "profesor": "OSCAR MANUEL LANDERRETCHE MORENO",
+      "nombre_curso": "INTRODUCCIÓN AL PENSAMIENTO ECONÓMICO Y POLÍTICO",
+      "horario": [
+        "CAT: Jue 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENCSH150/04",
+      "CodCatedra": "ENCSH150",
+      "CodSeccion": "04",
+      "NombreCatedra": "INTRODUCCIÓN AL PENSAMIENTO ECONÓMICO Y POLÍTICO",
+      "Profesores": "OSCAR MANUEL LANDERRETCHE MORENO",
+      "Clases": "4/7 Aula Magna CAT",
+      "cod": "ENCSH150",
+      "sección": "04",
+      "profesor": "OSCAR MANUEL LANDERRETCHE MORENO",
+      "nombre_curso": "INTRODUCCIÓN AL PENSAMIENTO ECONÓMICO Y POLÍTICO",
+      "horario": [
+        "CAT: Jue 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENECO105/01",
+      "CodCatedra": "ENECO105",
+      "CodSeccion": "01",
+      "NombreCatedra": "INTRODUCCION A LA ECONOMIA",
+      "Profesores": "DANTE CONTRERAS GUAJARDO",
+      "Clases": "1/3  CAT, 3/3  CAT, 5/4  AYU",
+      "cod": "ENECO105",
+      "sección": "01",
+      "profesor": "DANTE CONTRERAS GUAJARDO",
+      "nombre_curso": "INTRODUCCION A LA ECONOMIA",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20",
+        "AYU: Vie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENECO105/02",
+      "CodCatedra": "ENECO105",
+      "CodSeccion": "02",
+      "NombreCatedra": "INTRODUCCION A LA ECONOMIA",
+      "Profesores": "JAIME ANDRES RUIZ-TAGLE VENERO",
+      "Clases": "1/3  CAT, 3/3  CAT, 5/4  AYU",
+      "cod": "ENECO105",
+      "sección": "02",
+      "profesor": "JAIME ANDRES RUIZ-TAGLE VENERO",
+      "nombre_curso": "INTRODUCCION A LA ECONOMIA",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20",
+        "AYU: Vie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENECO250/02",
+      "CodCatedra": "ENECO250",
+      "CodSeccion": "02",
+      "NombreCatedra": "ECONOMÍA APLICADA",
+      "Profesores": "PABLO ANTONIO MUÑOZ HENRÍQUEZ",
+      "Clases": "1/5  CAT, 3/5  CAT, 3/8  AYU",
+      "cod": "ENECO250",
+      "sección": "02",
+      "profesor": "PABLO ANTONIO MUÑOZ HENRÍQUEZ",
+      "nombre_curso": "ECONOMÍA APLICADA",
+      "horario": [
+        "CAT: Lun 14:00 - 15:20",
+        "CAT: Mie 14:00 - 15:20",
+        "AYU: Mie 18:30 - 19:50"
+      ]
+    },
+    {
+      "IdCurso": "ENECO250/03",
+      "CodCatedra": "ENECO250",
+      "CodSeccion": "03",
+      "NombreCatedra": "ECONOMÍA APLICADA",
+      "Profesores": "PABLO ANTONIO MUÑOZ HENRÍQUEZ",
+      "Clases": "1/6  CAT, 3/6  CAT, 3/8  AYU",
+      "cod": "ENECO250",
+      "sección": "03",
+      "profesor": "PABLO ANTONIO MUÑOZ HENRÍQUEZ",
+      "nombre_curso": "ECONOMÍA APLICADA",
+      "horario": [
+        "CAT: Lun 15:30 - 16:50",
+        "CAT: Mie 15:30 - 16:50",
+        "AYU: Mie 18:30 - 19:50"
+      ]
+    },
+    {
+      "IdCurso": "ENECO250/05",
+      "CodCatedra": "ENECO250",
+      "CodSeccion": "05",
+      "NombreCatedra": "ECONOMÍA APLICADA",
+      "Profesores": "JAVIER NUNEZ ERRAZURIZ, JOSE MANUEL SEBASTIAN PAZ Y MIÑO LAY",
+      "Clases": "2/1  CAT, 3/8  AYU, 4/1  CAT",
+      "cod": "ENECO250",
+      "sección": "05",
+      "profesor": "JAVIER NUNEZ ERRAZURIZ, JOSE MANUEL SEBASTIAN PAZ Y MIÑO LAY",
+      "nombre_curso": "ECONOMÍA APLICADA",
+      "horario": [
+        "CAT: Mar 08:00 - 09:20",
+        "AYU: Mie 18:30 - 19:50",
+        "CAT: Jue 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENECO250/04",
+      "CodCatedra": "ENECO250",
+      "CodSeccion": "04",
+      "NombreCatedra": "ECONOMÍA APLICADA",
+      "Profesores": "JAVIER NUNEZ ERRAZURIZ",
+      "Clases": "2/2  CAT, 3/8  AYU, 4/2  CAT",
+      "cod": "ENECO250",
+      "sección": "04",
+      "profesor": "JAVIER NUNEZ ERRAZURIZ",
+      "nombre_curso": "ECONOMÍA APLICADA",
+      "horario": [
+        "CAT: Mar 09:30 - 10:50",
+        "AYU: Mie 18:30 - 19:50",
+        "CAT: Jue 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENECO250/01",
+      "CodCatedra": "ENECO250",
+      "CodSeccion": "01",
+      "NombreCatedra": "ECONOMÍA APLICADA",
+      "Profesores": "OSCAR MANUEL LANDERRETCHE MORENO",
+      "Clases": "2/3  CAT, 3/8  AYU, 4/3  CAT",
+      "cod": "ENECO250",
+      "sección": "01",
+      "profesor": "OSCAR MANUEL LANDERRETCHE MORENO",
+      "nombre_curso": "ECONOMÍA APLICADA",
+      "horario": [
+        "CAT: Mar 11:00 - 12:20",
+        "AYU: Mie 18:30 - 19:50",
+        "CAT: Jue 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENECO265/02",
+      "CodCatedra": "ENECO265",
+      "CodSeccion": "02",
+      "NombreCatedra": "TALLER DE POLITICA PUBLICA",
+      "Profesores": "OSCAR MANUEL LANDERRETCHE MORENO",
+      "Clases": "2/4  CAT, 4/6  AYU",
+      "cod": "ENECO265",
+      "sección": "02",
+      "profesor": "OSCAR MANUEL LANDERRETCHE MORENO",
+      "nombre_curso": "TALLER DE POLITICA PUBLICA",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "AYU: Jue 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENECO265/01",
+      "CodCatedra": "ENECO265",
+      "CodSeccion": "01",
+      "NombreCatedra": "TALLER DE POLITICA PUBLICA",
+      "Profesores": "OSCAR MANUEL LANDERRETCHE MORENO",
+      "Clases": "4/2  CAT, 4/6  AYU",
+      "cod": "ENECO265",
+      "sección": "01",
+      "profesor": "OSCAR MANUEL LANDERRETCHE MORENO",
+      "nombre_curso": "TALLER DE POLITICA PUBLICA",
+      "horario": [
+        "CAT: Jue 09:30 - 10:50",
+        "AYU: Jue 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENECO265/03",
+      "CodCatedra": "ENECO265",
+      "CodSeccion": "03",
+      "NombreCatedra": "TALLER DE POLITICA PUBLICA",
+      "Profesores": "OSCAR MANUEL LANDERRETCHE MORENO",
+      "Clases": "4/4  CAT, 4/6  AYU",
+      "cod": "ENECO265",
+      "sección": "03",
+      "profesor": "OSCAR MANUEL LANDERRETCHE MORENO",
+      "nombre_curso": "TALLER DE POLITICA PUBLICA",
+      "horario": [
+        "CAT: Jue 12:30 - 13:50",
+        "AYU: Jue 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENECO309/01",
+      "CodCatedra": "ENECO309",
+      "CodSeccion": "01",
+      "NombreCatedra": "DESAFÍOS PARA EL DESARROLLO DE CHILE EN LOS INICIOS DEL S XXI",
+      "Profesores": "JOSE PABLO ARELLANO MARIN, RAUL EDUARDO SAEZ CONTRERAS, ROBERTO JAIME ALVAREZ ESPINOZA",
+      "Clases": "1/4  CAT, 3/4  CAT",
+      "cod": "ENECO309",
+      "sección": "01",
+      "profesor": "JOSE PABLO ARELLANO MARIN, RAUL EDUARDO SAEZ CONTRERAS, ROBERTO JAIME ALVAREZ ESPINOZA",
+      "nombre_curso": "DESAFÍOS PARA EL DESARROLLO DE CHILE EN LOS INICIOS DEL S XXI",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "CAT: Mie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENECO314/01",
+      "CodCatedra": "ENECO314",
+      "CodSeccion": "01",
+      "NombreCatedra": "THE ECONOMIC WAY OF THINKING",
+      "Profesores": "ROMULO AUGUSTO FELIX CHUMACERO ESCUDERO",
+      "Clases": "2/1  CAT, 4/1  CAT",
+      "cod": "ENECO314",
+      "sección": "01",
+      "profesor": "ROMULO AUGUSTO FELIX CHUMACERO ESCUDERO",
+      "nombre_curso": "THE ECONOMIC WAY OF THINKING",
+      "horario": [
+        "CAT: Mar 08:00 - 09:20",
+        "CAT: Jue 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENECO327/01",
+      "CodCatedra": "ENECO327",
+      "CodSeccion": "01",
+      "NombreCatedra": "ESTABILIDAD DEL CONTRATO SOCIAL EN CHILE Y EL MUNDO",
+      "Profesores": "GUILLERMO ANDRES LARRAIN RIOS",
+      "Clases": "2/4  CAT, 4/4  CAT",
+      "cod": "ENECO327",
+      "sección": "01",
+      "profesor": "GUILLERMO ANDRES LARRAIN RIOS",
+      "nombre_curso": "ESTABILIDAD DEL CONTRATO SOCIAL EN CHILE Y EL MUNDO",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "CAT: Jue 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENECO332/01",
+      "CodCatedra": "ENECO332",
+      "CodSeccion": "01",
+      "NombreCatedra": "URBAN ECONOMICS",
+      "Profesores": "MARIA TERESA RUIZ-TAGLE VENERO",
+      "Clases": "1/5  CAT, 3/5  CAT",
+      "cod": "ENECO332",
+      "sección": "01",
+      "profesor": "MARIA TERESA RUIZ-TAGLE VENERO",
+      "nombre_curso": "URBAN ECONOMICS",
+      "horario": [
+        "CAT: Lun 14:00 - 15:20",
+        "CAT: Mie 14:00 - 15:20"
+      ]
+    },
+    {
+      "IdCurso": "ENECO341/01",
+      "CodCatedra": "ENECO341",
+      "CodSeccion": "01",
+      "NombreCatedra": "INNOVACIÓN CON BASE CIENTÍFICO-TECNOLÓGICA",
+      "Profesores": "KATIA LEANDRA SOTO LIEBE, ROBERTO JAIME ALVAREZ ESPINOZA",
+      "Clases": "1/3  CAT, 3/3  CAT",
+      "cod": "ENECO341",
+      "sección": "01",
+      "profesor": "KATIA LEANDRA SOTO LIEBE, ROBERTO JAIME ALVAREZ ESPINOZA",
+      "nombre_curso": "INNOVACIÓN CON BASE CIENTÍFICO-TECNOLÓGICA",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENECO430/01",
+      "CodCatedra": "ENECO430",
+      "CodSeccion": "01",
+      "NombreCatedra": "JUEGOS Y ESTRATEGIA",
+      "Profesores": "GINO GUSTAVO LOYOLA FUENTES",
+      "Clases": "1/3  CAT, 1/8  AYU, 3/3  CAT",
+      "cod": "ENECO430",
+      "sección": "01",
+      "profesor": "GINO GUSTAVO LOYOLA FUENTES",
+      "nombre_curso": "JUEGOS Y ESTRATEGIA",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "AYU: Lun 18:30 - 19:50",
+        "CAT: Mie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENECO451/01",
+      "CodCatedra": "ENECO451",
+      "CodSeccion": "01",
+      "NombreCatedra": "ECONOMÍA PARA LOS NEGOCIOS",
+      "Profesores": "JORGE ANTONIO SEPÚLVEDA VELÁSQUEZ",
+      "Clases": "1/2  CAT, 3/2  CAT, 3/8  AYU",
+      "cod": "ENECO451",
+      "sección": "01",
+      "profesor": "JORGE ANTONIO SEPÚLVEDA VELÁSQUEZ",
+      "nombre_curso": "ECONOMÍA PARA LOS NEGOCIOS",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "CAT: Mie 09:30 - 10:50",
+        "AYU: Mie 18:30 - 19:50"
+      ]
+    },
+    {
+      "IdCurso": "ENECO451/02",
+      "CodCatedra": "ENECO451",
+      "CodSeccion": "02",
+      "NombreCatedra": "ECONOMÍA PARA LOS NEGOCIOS",
+      "Profesores": "MARCELO OSVALDO OLIVARES ACUÑA",
+      "Clases": "2/2  CAT, 3/8  AYU, 4/2  CAT",
+      "cod": "ENECO451",
+      "sección": "02",
+      "profesor": "MARCELO OSVALDO OLIVARES ACUÑA",
+      "nombre_curso": "ECONOMÍA PARA LOS NEGOCIOS",
+      "horario": [
+        "CAT: Mar 09:30 - 10:50",
+        "AYU: Mie 18:30 - 19:50",
+        "CAT: Jue 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENECO492/01",
+      "CodCatedra": "ENECO492",
+      "CodSeccion": "01",
+      "NombreCatedra": "LIMITES PLANETARIOS Y DESARROLLO ECONÓMICO",
+      "Profesores": "ELIAS ALBAGLI ",
+      "Clases": "1/7  CAT, 3/7  CAT",
+      "cod": "ENECO492",
+      "sección": "01",
+      "profesor": "ELIAS ALBAGLI ",
+      "nombre_curso": "LIMITES PLANETARIOS Y DESARROLLO ECONÓMICO",
+      "horario": [
+        "CAT: Lun 17:00 - 18:20",
+        "CAT: Mie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENECO529/01",
+      "CodCatedra": "ENECO529",
+      "CodSeccion": "01",
+      "NombreCatedra": "INTRODUCCIÓN A LA ECONOMIA AMBIENTAL",
+      "Profesores": "NATHALY MACARENA RIVERA CASANOBA",
+      "Clases": "2/6  CAT, 4/6  CAT",
+      "cod": "ENECO529",
+      "sección": "01",
+      "profesor": "NATHALY MACARENA RIVERA CASANOBA",
+      "nombre_curso": "INTRODUCCIÓN A LA ECONOMIA AMBIENTAL",
+      "horario": [
+        "CAT: Mar 15:30 - 16:50",
+        "CAT: Jue 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENECO620/01",
+      "CodCatedra": "ENECO620",
+      "CodSeccion": "01",
+      "NombreCatedra": "MICROECONOMIA II",
+      "Profesores": "JUAN PABLO TORRES MARTÍNEZ",
+      "Clases": "2/5  CAT, 4/5  CAT, 4/6  AYU",
+      "cod": "ENECO620",
+      "sección": "01",
+      "profesor": "JUAN PABLO TORRES MARTÍNEZ",
+      "nombre_curso": "MICROECONOMIA II",
+      "horario": [
+        "CAT: Mar 14:00 - 15:20",
+        "CAT: Jue 14:00 - 15:20",
+        "AYU: Jue 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENECO670/01",
+      "CodCatedra": "ENECO670",
+      "CodSeccion": "01",
+      "NombreCatedra": "MACROECONOMIA II",
+      "Profesores": "EUGENIA PAULA ANDREASEN , HUMBERTO MARTÍNEZ BELTRÁN",
+      "Clases": "1/4  CAT, 1/7  AYU, 3/4  CAT",
+      "cod": "ENECO670",
+      "sección": "01",
+      "profesor": "EUGENIA PAULA ANDREASEN , HUMBERTO MARTÍNEZ BELTRÁN",
+      "nombre_curso": "MACROECONOMIA II",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "AYU: Lun 17:00 - 18:20",
+        "CAT: Mie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENECO757/01",
+      "CodCatedra": "ENECO757",
+      "CodSeccion": "01",
+      "NombreCatedra": "ECONOMETRÍA APLICADA II",
+      "Profesores": "JORGE SALVADOR BRAVO TAMAYO",
+      "Clases": "2/2  CAT, 4/2  CAT",
+      "cod": "ENECO757",
+      "sección": "01",
+      "profesor": "JORGE SALVADOR BRAVO TAMAYO",
+      "nombre_curso": "ECONOMETRÍA APLICADA II",
+      "horario": [
+        "CAT: Mar 09:30 - 10:50",
+        "CAT: Jue 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENECO761/01",
+      "CodCatedra": "ENECO761",
+      "CodSeccion": "01",
+      "NombreCatedra": "REGULACIÓN Y COMPETENCIA EN MERCADOS IMPERFECTOS",
+      "Profesores": "ALDO PATRICIO GONZALEZ TISSINETTI",
+      "Clases": "1/4  CAT, 3/4  CAT",
+      "cod": "ENECO761",
+      "sección": "01",
+      "profesor": "ALDO PATRICIO GONZALEZ TISSINETTI",
+      "nombre_curso": "REGULACIÓN Y COMPETENCIA EN MERCADOS IMPERFECTOS",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "CAT: Mie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENECO822/01",
+      "CodCatedra": "ENECO822",
+      "CodSeccion": "01",
+      "NombreCatedra": "CRECIMIENTO ECONOMICO, INTEGRACION ECONOMICA Y DESARROLLO Y ADOPCIÓN DE TECNOLOGÍAS",
+      "Profesores": "MANUEL RODOLFO AGOSIN TRUMPER",
+      "Clases": "1/6  CAT, 3/6  CAT",
+      "cod": "ENECO822",
+      "sección": "01",
+      "profesor": "MANUEL RODOLFO AGOSIN TRUMPER",
+      "nombre_curso": "CRECIMIENTO ECONOMICO, INTEGRACION ECONOMICA Y DESARROLLO Y ADOPCIÓN DE TECNOLOGÍAS",
+      "horario": [
+        "CAT: Lun 15:30 - 16:50",
+        "CAT: Mie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENECO863/01",
+      "CodCatedra": "ENECO863",
+      "CodSeccion": "01",
+      "NombreCatedra": "MÉTODOS AVANZADOS DE ORGANIZACIÓN INDUSTRIAL EMPÍRICA",
+      "Profesores": "JOSE MANUEL SEBASTIAN PAZ Y MIÑO LAY, PAOLA MONSERRAT BORDON TAPIA",
+      "Clases": "1/3  CAT, 3/3  CAT",
+      "cod": "ENECO863",
+      "sección": "01",
+      "profesor": "JOSE MANUEL SEBASTIAN PAZ Y MIÑO LAY, PAOLA MONSERRAT BORDON TAPIA",
+      "nombre_curso": "MÉTODOS AVANZADOS DE ORGANIZACIÓN INDUSTRIAL EMPÍRICA",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENECO864/01",
+      "CodCatedra": "ENECO864",
+      "CodSeccion": "01",
+      "NombreCatedra": "LO MACRO Y LO MICRO EN EL DESARROLLO ECONÓMICO LATINOAMERICANO",
+      "Profesores": "JORGE MIGUEL KATZ SLIAPNIC, OSVALDO CRISTIAN URZUA WINKLER",
+      "Clases": "2/3  CAT, 4/3  CAT",
+      "cod": "ENECO864",
+      "sección": "01",
+      "profesor": "JORGE MIGUEL KATZ SLIAPNIC, OSVALDO CRISTIAN URZUA WINKLER",
+      "nombre_curso": "LO MACRO Y LO MICRO EN EL DESARROLLO ECONÓMICO LATINOAMERICANO",
+      "horario": [
+        "CAT: Mar 11:00 - 12:20",
+        "CAT: Jue 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENECO880/01",
+      "CodCatedra": "ENECO880",
+      "CodSeccion": "01",
+      "NombreCatedra": "TÓPICOS EN HISTORIA ECONÓMICA",
+      "Profesores": "ARIADNA JOU FUYA",
+      "Clases": "2/6  CAT, 2/7  CAT",
+      "cod": "ENECO880",
+      "sección": "01",
+      "profesor": "ARIADNA JOU FUYA",
+      "nombre_curso": "TÓPICOS EN HISTORIA ECONÓMICA",
+      "horario": [
+        "CAT: Mar 15:30 - 16:50",
+        "CAT: Mar 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENELE100/00",
+      "CodCatedra": "ENELE100",
+      "CodSeccion": "00",
+      "NombreCatedra": "ELECTIVO I",
+      "Profesores": "",
+      "Clases": "",
+      "cod": "ENELE100",
+      "sección": "00",
+      "profesor": "Sin Profesor",
+      "nombre_curso": "ELECTIVO I",
+      "horario": [
+        "Sin horario"
+      ]
+    },
+    {
+      "IdCurso": "ENELE150/00",
+      "CodCatedra": "ENELE150",
+      "CodSeccion": "00",
+      "NombreCatedra": "ELECTIVO II",
+      "Profesores": "",
+      "Clases": "",
+      "cod": "ENELE150",
+      "sección": "00",
+      "profesor": "Sin Profesor",
+      "nombre_curso": "ELECTIVO II",
+      "horario": [
+        "Sin horario"
+      ]
+    },
+    {
+      "IdCurso": "ENELE200/00",
+      "CodCatedra": "ENELE200",
+      "CodSeccion": "00",
+      "NombreCatedra": "ELECTIVO III",
+      "Profesores": "",
+      "Clases": "",
+      "cod": "ENELE200",
+      "sección": "00",
+      "profesor": "Sin Profesor",
+      "nombre_curso": "ELECTIVO III",
+      "horario": [
+        "Sin horario"
+      ]
+    },
+    {
+      "IdCurso": "ENELE250/00",
+      "CodCatedra": "ENELE250",
+      "CodSeccion": "00",
+      "NombreCatedra": "ELECTIVO IV",
+      "Profesores": "",
+      "Clases": "",
+      "cod": "ENELE250",
+      "sección": "00",
+      "profesor": "Sin Profesor",
+      "nombre_curso": "ELECTIVO IV",
+      "horario": [
+        "Sin horario"
+      ]
+    },
+    {
+      "IdCurso": "ENELE300/00",
+      "CodCatedra": "ENELE300",
+      "CodSeccion": "00",
+      "NombreCatedra": "ELECTIVO V",
+      "Profesores": "",
+      "Clases": "",
+      "cod": "ENELE300",
+      "sección": "00",
+      "profesor": "Sin Profesor",
+      "nombre_curso": "ELECTIVO V",
+      "horario": [
+        "Sin horario"
+      ]
+    },
+    {
+      "IdCurso": "ENELE350/00",
+      "CodCatedra": "ENELE350",
+      "CodSeccion": "00",
+      "NombreCatedra": "ELECTIVO VI",
+      "Profesores": "",
+      "Clases": "",
+      "cod": "ENELE350",
+      "sección": "00",
+      "profesor": "Sin Profesor",
+      "nombre_curso": "ELECTIVO VI",
+      "horario": [
+        "Sin horario"
+      ]
+    },
+    {
+      "IdCurso": "ENELE400/00",
+      "CodCatedra": "ENELE400",
+      "CodSeccion": "00",
+      "NombreCatedra": "ELECTIVO VII",
+      "Profesores": "",
+      "Clases": "",
+      "cod": "ENELE400",
+      "sección": "00",
+      "profesor": "Sin Profesor",
+      "nombre_curso": "ELECTIVO VII",
+      "horario": [
+        "Sin horario"
+      ]
+    },
+    {
+      "IdCurso": "ENESO100/00",
+      "CodCatedra": "ENESO100",
+      "CodSeccion": "00",
+      "NombreCatedra": "ELECTIVO ENTORNO SOCIAL Y CIENTIFICO I",
+      "Profesores": "",
+      "Clases": "",
+      "cod": "ENESO100",
+      "sección": "00",
+      "profesor": "Sin Profesor",
+      "nombre_curso": "ELECTIVO ENTORNO SOCIAL Y CIENTIFICO I",
+      "horario": [
+        "Sin horario"
+      ]
+    },
+    {
+      "IdCurso": "ENESO101/01",
+      "CodCatedra": "ENESO101",
+      "CodSeccion": "01",
+      "NombreCatedra": "INTRODUCCIÓN A LAS RELACIONES INTERNACIONALES Y A LA GLOBALIZACIÓN",
+      "Profesores": "CAROLINA DEL PILAR SANCHO HIRANE",
+      "Clases": "3/5  CAT",
+      "cod": "ENESO101",
+      "sección": "01",
+      "profesor": "CAROLINA DEL PILAR SANCHO HIRANE",
+      "nombre_curso": "INTRODUCCIÓN A LAS RELACIONES INTERNACIONALES Y A LA GLOBALIZACIÓN",
+      "horario": [
+        "CAT: Mie 14:00 - 15:20"
+      ]
+    },
+    {
+      "IdCurso": "ENESO108/01",
+      "CodCatedra": "ENESO108",
+      "CodSeccion": "01",
+      "NombreCatedra": "INTRODUCCIÓN A LA ECOLOGÍA",
+      "Profesores": "MATIAS ANDRES GUERRERO GATICA",
+      "Clases": "3/5  CAT",
+      "cod": "ENESO108",
+      "sección": "01",
+      "profesor": "MATIAS ANDRES GUERRERO GATICA",
+      "nombre_curso": "INTRODUCCIÓN A LA ECOLOGÍA",
+      "horario": [
+        "CAT: Mie 14:00 - 15:20"
+      ]
+    },
+    {
+      "IdCurso": "ENESO110/01",
+      "CodCatedra": "ENESO110",
+      "CodSeccion": "01",
+      "NombreCatedra": "INTRODUCCIÓN A LA PSICOLOGÍA",
+      "Profesores": "AMANDA CAMILA GUAJARDO GUZMAN",
+      "Clases": "3/7  CAT",
+      "cod": "ENESO110",
+      "sección": "01",
+      "profesor": "AMANDA CAMILA GUAJARDO GUZMAN",
+      "nombre_curso": "INTRODUCCIÓN A LA PSICOLOGÍA",
+      "horario": [
+        "CAT: Mie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENESO111/01",
+      "CodCatedra": "ENESO111",
+      "CodSeccion": "01",
+      "NombreCatedra": "INTRODUCCIÓN A LA ANTROPOLOGÍA",
+      "Profesores": "MATIAS JOSE FLEISCHMANN GONZALEZ",
+      "Clases": "4/2  CAT",
+      "cod": "ENESO111",
+      "sección": "01",
+      "profesor": "MATIAS JOSE FLEISCHMANN GONZALEZ",
+      "nombre_curso": "INTRODUCCIÓN A LA ANTROPOLOGÍA",
+      "horario": [
+        "CAT: Jue 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENESO113/01",
+      "CodCatedra": "ENESO113",
+      "CodSeccion": "01",
+      "NombreCatedra": "INTRODUCCIÓN A LA TECNOLOGÍA",
+      "Profesores": "KATIA LEANDRA SOTO LIEBE",
+      "Clases": "4/2  CAT",
+      "cod": "ENESO113",
+      "sección": "01",
+      "profesor": "KATIA LEANDRA SOTO LIEBE",
+      "nombre_curso": "INTRODUCCIÓN A LA TECNOLOGÍA",
+      "horario": [
+        "CAT: Jue 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENESO117/01",
+      "CodCatedra": "ENESO117",
+      "CodSeccion": "01",
+      "NombreCatedra": "INTRODUCCIÓN A LA POLÍTICA PÚBLICA BASADA EN EVIDENCIA",
+      "Profesores": "ANGEL LLATIRI ALLENDES CARO",
+      "Clases": "3/6  CAT",
+      "cod": "ENESO117",
+      "sección": "01",
+      "profesor": "ANGEL LLATIRI ALLENDES CARO",
+      "nombre_curso": "INTRODUCCIÓN A LA POLÍTICA PÚBLICA BASADA EN EVIDENCIA",
+      "horario": [
+        "CAT: Mie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN205/01",
+      "CodCatedra": "ENFIN205",
+      "CodSeccion": "01",
+      "NombreCatedra": "FINANZAS I (N) / VALUACION / EVAL.INVERS",
+      "Profesores": "CLAUDIO RADDATZ KIEFER",
+      "Clases": "1/3  CAT, 1/7  AYU, 3/3  CAT",
+      "cod": "ENFIN205",
+      "sección": "01",
+      "profesor": "CLAUDIO RADDATZ KIEFER",
+      "nombre_curso": "FINANZAS I (N) / VALUACION / EVAL.INVERS",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "AYU: Lun 17:00 - 18:20",
+        "CAT: Mie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN205/08",
+      "CodCatedra": "ENFIN205",
+      "CodSeccion": "08",
+      "NombreCatedra": "FINANZAS I (N) / VALUACION / EVAL.INVERS",
+      "Profesores": "PAULA MARGARETIC ",
+      "Clases": "1/3  CAT, 1/7  AYU, 3/3  CAT",
+      "cod": "ENFIN205",
+      "sección": "08",
+      "profesor": "PAULA MARGARETIC ",
+      "nombre_curso": "FINANZAS I (N) / VALUACION / EVAL.INVERS",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "AYU: Lun 17:00 - 18:20",
+        "CAT: Mie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN205/05",
+      "CodCatedra": "ENFIN205",
+      "CodSeccion": "05",
+      "NombreCatedra": "FINANZAS I (N) / VALUACION / EVAL.INVERS",
+      "Profesores": "DIANA VALENTINA BUSTAMANTE GARRIDO",
+      "Clases": "1/4  CAT, 1/7  AYU, 3/4  CAT",
+      "cod": "ENFIN205",
+      "sección": "05",
+      "profesor": "DIANA VALENTINA BUSTAMANTE GARRIDO",
+      "nombre_curso": "FINANZAS I (N) / VALUACION / EVAL.INVERS",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "AYU: Lun 17:00 - 18:20",
+        "CAT: Mie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN205/07",
+      "CodCatedra": "ENFIN205",
+      "CodSeccion": "07",
+      "NombreCatedra": "FINANZAS I (N) / VALUACION / EVAL.INVERS",
+      "Profesores": "JAIME EDUARDO BASTÍAS CHIAN",
+      "Clases": "1/4  CAT, 1/7  AYU, 3/4  CAT",
+      "cod": "ENFIN205",
+      "sección": "07",
+      "profesor": "JAIME EDUARDO BASTÍAS CHIAN",
+      "nombre_curso": "FINANZAS I (N) / VALUACION / EVAL.INVERS",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "AYU: Lun 17:00 - 18:20",
+        "CAT: Mie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN205/09",
+      "CodCatedra": "ENFIN205",
+      "CodSeccion": "09",
+      "NombreCatedra": "FINANZAS I (N) / VALUACION / EVAL.INVERS",
+      "Profesores": "PAULA MARGARETIC ",
+      "Clases": "1/4  CAT, 1/7  AYU, 3/4  CAT",
+      "cod": "ENFIN205",
+      "sección": "09",
+      "profesor": "PAULA MARGARETIC ",
+      "nombre_curso": "FINANZAS I (N) / VALUACION / EVAL.INVERS",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "AYU: Lun 17:00 - 18:20",
+        "CAT: Mie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN205/02",
+      "CodCatedra": "ENFIN205",
+      "CodSeccion": "02",
+      "NombreCatedra": "FINANZAS I (N) / VALUACION / EVAL.INVERS",
+      "Profesores": "CLAUDIO ANDRES BONILLA MELENDEZ",
+      "Clases": "1/6  CAT, 1/7  AYU, 3/6  CAT",
+      "cod": "ENFIN205",
+      "sección": "02",
+      "profesor": "CLAUDIO ANDRES BONILLA MELENDEZ",
+      "nombre_curso": "FINANZAS I (N) / VALUACION / EVAL.INVERS",
+      "horario": [
+        "CAT: Lun 15:30 - 16:50",
+        "AYU: Lun 17:00 - 18:20",
+        "CAT: Mie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN205/03",
+      "CodCatedra": "ENFIN205",
+      "CodSeccion": "03",
+      "NombreCatedra": "FINANZAS I (N) / VALUACION / EVAL.INVERS",
+      "Profesores": "HAROLD MICHEL LOPEZ ARAYA",
+      "Clases": "1/7  AYU, 2/1  CAT, 4/1  CAT",
+      "cod": "ENFIN205",
+      "sección": "03",
+      "profesor": "HAROLD MICHEL LOPEZ ARAYA",
+      "nombre_curso": "FINANZAS I (N) / VALUACION / EVAL.INVERS",
+      "horario": [
+        "AYU: Lun 17:00 - 18:20",
+        "CAT: Mar 08:00 - 09:20",
+        "CAT: Jue 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN205/04",
+      "CodCatedra": "ENFIN205",
+      "CodSeccion": "04",
+      "NombreCatedra": "FINANZAS I (N) / VALUACION / EVAL.INVERS",
+      "Profesores": "ALDO BOMBARDIERE ROZAS",
+      "Clases": "1/7  AYU, 2/6  CAT, 4/6  CAT",
+      "cod": "ENFIN205",
+      "sección": "04",
+      "profesor": "ALDO BOMBARDIERE ROZAS",
+      "nombre_curso": "FINANZAS I (N) / VALUACION / EVAL.INVERS",
+      "horario": [
+        "AYU: Lun 17:00 - 18:20",
+        "CAT: Mar 15:30 - 16:50",
+        "CAT: Jue 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN205/06",
+      "CodCatedra": "ENFIN205",
+      "CodSeccion": "06",
+      "NombreCatedra": "FINANZAS I (N) / VALUACION / EVAL.INVERS",
+      "Profesores": "FERNANDO GUILLERMO MEJIDO MUÑOZ",
+      "Clases": "1/7  AYU, 2/7  CAT, 4/7  CAT",
+      "cod": "ENFIN205",
+      "sección": "06",
+      "profesor": "FERNANDO GUILLERMO MEJIDO MUÑOZ",
+      "nombre_curso": "FINANZAS I (N) / VALUACION / EVAL.INVERS",
+      "horario": [
+        "AYU: Lun 17:00 - 18:20",
+        "CAT: Mar 17:00 - 18:20",
+        "CAT: Jue 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN355/02",
+      "CodCatedra": "ENFIN355",
+      "CodSeccion": "02",
+      "NombreCatedra": "ANALISIS Y PLANIF. FINAN./CONTAB.FINAN.",
+      "Profesores": "HAROLD ENRIQUE CONTRERAS MUÑOZ",
+      "Clases": "1/3  CAT, 3/3  CAT, 5/7  AYU",
+      "cod": "ENFIN355",
+      "sección": "02",
+      "profesor": "HAROLD ENRIQUE CONTRERAS MUÑOZ",
+      "nombre_curso": "ANALISIS Y PLANIF. FINAN./CONTAB.FINAN.",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20",
+        "AYU: Vie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN355/01",
+      "CodCatedra": "ENFIN355",
+      "CodSeccion": "01",
+      "NombreCatedra": "ANALISIS Y PLANIF. FINAN./CONTAB.FINAN.",
+      "Profesores": "GIOVANNI RODRIGO MALATESTA CARRASCO",
+      "Clases": "1/4  CAT, 3/4  CAT, 5/7  AYU",
+      "cod": "ENFIN355",
+      "sección": "01",
+      "profesor": "GIOVANNI RODRIGO MALATESTA CARRASCO",
+      "nombre_curso": "ANALISIS Y PLANIF. FINAN./CONTAB.FINAN.",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "CAT: Mie 12:30 - 13:50",
+        "AYU: Vie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN408/01",
+      "CodCatedra": "ENFIN408",
+      "CodSeccion": "01",
+      "NombreCatedra": "PREPARAC. Y EVALUAC. PROYECTOS",
+      "Profesores": "JOSÉ MANUEL SAPAG PUELMA, PEDRO RODRIGO FUENTES DÍAZ",
+      "Clases": "1/5  CAT, 3/5  CAT",
+      "cod": "ENFIN408",
+      "sección": "01",
+      "profesor": "JOSÉ MANUEL SAPAG PUELMA, PEDRO RODRIGO FUENTES DÍAZ",
+      "nombre_curso": "PREPARAC. Y EVALUAC. PROYECTOS",
+      "horario": [
+        "CAT: Lun 14:00 - 15:20",
+        "CAT: Mie 14:00 - 15:20"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN415/00",
+      "CodCatedra": "ENFIN415",
+      "CodSeccion": "00",
+      "NombreCatedra": "FINANZAS I",
+      "Profesores": "",
+      "Clases": "",
+      "cod": "ENFIN415",
+      "sección": "00",
+      "profesor": "Sin Profesor",
+      "nombre_curso": "FINANZAS I",
+      "horario": [
+        "Sin horario"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN415/04",
+      "CodCatedra": "ENFIN415",
+      "CodSeccion": "04",
+      "NombreCatedra": "FINANZAS I",
+      "Profesores": "ERWIN GUILLERMO HANSEN SILVA",
+      "Clases": "1/4  CAT, 1/7  AYU, 3/4  CAT",
+      "cod": "ENFIN415",
+      "sección": "04",
+      "profesor": "ERWIN GUILLERMO HANSEN SILVA",
+      "nombre_curso": "FINANZAS I",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "AYU: Lun 17:00 - 18:20",
+        "CAT: Mie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN415/05",
+      "CodCatedra": "ENFIN415",
+      "CodSeccion": "05",
+      "NombreCatedra": "FINANZAS I",
+      "Profesores": "ERWIN GUILLERMO HANSEN SILVA",
+      "Clases": "1/5  CAT, 1/7  AYU, 3/5  CAT",
+      "cod": "ENFIN415",
+      "sección": "05",
+      "profesor": "ERWIN GUILLERMO HANSEN SILVA",
+      "nombre_curso": "FINANZAS I",
+      "horario": [
+        "CAT: Lun 14:00 - 15:20",
+        "AYU: Lun 17:00 - 18:20",
+        "CAT: Mie 14:00 - 15:20"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN415/02",
+      "CodCatedra": "ENFIN415",
+      "CodSeccion": "02",
+      "NombreCatedra": "FINANZAS I",
+      "Profesores": "ALEJANDRO ADRIÁN BERNALES SILVA",
+      "Clases": "1/7  AYU, 2/2  CAT, 4/2  CAT",
+      "cod": "ENFIN415",
+      "sección": "02",
+      "profesor": "ALEJANDRO ADRIÁN BERNALES SILVA",
+      "nombre_curso": "FINANZAS I",
+      "horario": [
+        "AYU: Lun 17:00 - 18:20",
+        "CAT: Mar 09:30 - 10:50",
+        "CAT: Jue 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN415/01",
+      "CodCatedra": "ENFIN415",
+      "CodSeccion": "01",
+      "NombreCatedra": "FINANZAS I",
+      "Profesores": "ALEJANDRO ADRIÁN BERNALES SILVA",
+      "Clases": "1/7  AYU, 2/3  CAT, 4/3  CAT",
+      "cod": "ENFIN415",
+      "sección": "01",
+      "profesor": "ALEJANDRO ADRIÁN BERNALES SILVA",
+      "nombre_curso": "FINANZAS I",
+      "horario": [
+        "AYU: Lun 17:00 - 18:20",
+        "CAT: Mar 11:00 - 12:20",
+        "CAT: Jue 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN415/03",
+      "CodCatedra": "ENFIN415",
+      "CodSeccion": "03",
+      "NombreCatedra": "FINANZAS I",
+      "Profesores": "JOSÉ LUIS RUIZ VERGARA",
+      "Clases": "1/7  AYU, 2/3  CAT, 4/3  CAT",
+      "cod": "ENFIN415",
+      "sección": "03",
+      "profesor": "JOSÉ LUIS RUIZ VERGARA",
+      "nombre_curso": "FINANZAS I",
+      "horario": [
+        "AYU: Lun 17:00 - 18:20",
+        "CAT: Mar 11:00 - 12:20",
+        "CAT: Jue 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN425/01",
+      "CodCatedra": "ENFIN425",
+      "CodSeccion": "01",
+      "NombreCatedra": "FINANZAS",
+      "Profesores": "HAROLD ENRIQUE CONTRERAS MUÑOZ",
+      "Clases": "1/4  CAT, 3/4  CAT, 5/7  AYU",
+      "cod": "ENFIN425",
+      "sección": "01",
+      "profesor": "HAROLD ENRIQUE CONTRERAS MUÑOZ",
+      "nombre_curso": "FINANZAS",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "CAT: Mie 12:30 - 13:50",
+        "AYU: Vie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN433/01",
+      "CodCatedra": "ENFIN433",
+      "CodSeccion": "01",
+      "NombreCatedra": "DATA ANALYTICS CON INFORMACIÓN FINANCIERA",
+      "Profesores": "IVÁN ALEJANDRO ABARCA VIDAL",
+      "Clases": "1/4  CAT, 3/4  CAT",
+      "cod": "ENFIN433",
+      "sección": "01",
+      "profesor": "IVÁN ALEJANDRO ABARCA VIDAL",
+      "nombre_curso": "DATA ANALYTICS CON INFORMACIÓN FINANCIERA",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "CAT: Mie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN460/00",
+      "CodCatedra": "ENFIN460",
+      "CodSeccion": "00",
+      "NombreCatedra": "FINANZAS II",
+      "Profesores": "",
+      "Clases": "",
+      "cod": "ENFIN460",
+      "sección": "00",
+      "profesor": "Sin Profesor",
+      "nombre_curso": "FINANZAS II",
+      "horario": [
+        "Sin horario"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN460/02",
+      "CodCatedra": "ENFIN460",
+      "CodSeccion": "02",
+      "NombreCatedra": "FINANZAS II",
+      "Profesores": "JAIME EDUARDO BASTÍAS CHIAN",
+      "Clases": "1/5  CAT, 2/7  AYU, 3/5  CAT",
+      "cod": "ENFIN460",
+      "sección": "02",
+      "profesor": "JAIME EDUARDO BASTÍAS CHIAN",
+      "nombre_curso": "FINANZAS II",
+      "horario": [
+        "CAT: Lun 14:00 - 15:20",
+        "AYU: Mar 17:00 - 18:20",
+        "CAT: Mie 14:00 - 15:20"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN460/03",
+      "CodCatedra": "ENFIN460",
+      "CodSeccion": "03",
+      "NombreCatedra": "FINANZAS II",
+      "Profesores": "JULIO CESAR REBOLLEDO DIAZ",
+      "Clases": "2/4  CAT, 2/7  AYU, 4/4  CAT",
+      "cod": "ENFIN460",
+      "sección": "03",
+      "profesor": "JULIO CESAR REBOLLEDO DIAZ",
+      "nombre_curso": "FINANZAS II",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "AYU: Mar 17:00 - 18:20",
+        "CAT: Jue 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN460/01",
+      "CodCatedra": "ENFIN460",
+      "CodSeccion": "01",
+      "NombreCatedra": "FINANZAS II",
+      "Profesores": "MAURICIO ALEJANDRO JARA BERTIN",
+      "Clases": "2/6  CAT, 2/7  AYU, 4/6  CAT",
+      "cod": "ENFIN460",
+      "sección": "01",
+      "profesor": "MAURICIO ALEJANDRO JARA BERTIN",
+      "nombre_curso": "FINANZAS II",
+      "horario": [
+        "CAT: Mar 15:30 - 16:50",
+        "AYU: Mar 17:00 - 18:20",
+        "CAT: Jue 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN600/01",
+      "CodCatedra": "ENFIN600",
+      "CodSeccion": "01",
+      "NombreCatedra": "BANCA E INTERMEDIACIÓN FINANCIERA",
+      "Profesores": "CLAUDIO RADDATZ KIEFER",
+      "Clases": "1/2  CAT, 3/2  CAT",
+      "cod": "ENFIN600",
+      "sección": "01",
+      "profesor": "CLAUDIO RADDATZ KIEFER",
+      "nombre_curso": "BANCA E INTERMEDIACIÓN FINANCIERA",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "CAT: Mie 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN608/01",
+      "CodCatedra": "ENFIN608",
+      "CodSeccion": "01",
+      "NombreCatedra": "FINANZAS CORPORATIVAS",
+      "Profesores": "HERVE ROCHE ",
+      "Clases": "1/6  CAT, 3/6  CAT",
+      "cod": "ENFIN608",
+      "sección": "01",
+      "profesor": "HERVE ROCHE ",
+      "nombre_curso": "FINANZAS CORPORATIVAS",
+      "horario": [
+        "CAT: Lun 15:30 - 16:50",
+        "CAT: Mie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN650/01",
+      "CodCatedra": "ENFIN650",
+      "CodSeccion": "01",
+      "NombreCatedra": "ACTIVOS DERIVADOS",
+      "Profesores": "ALEJANDRO ADRIÁN BERNALES SILVA",
+      "Clases": "2/7  CAT, 4/7  CAT",
+      "cod": "ENFIN650",
+      "sección": "01",
+      "profesor": "ALEJANDRO ADRIÁN BERNALES SILVA",
+      "nombre_curso": "ACTIVOS DERIVADOS",
+      "horario": [
+        "CAT: Mar 17:00 - 18:20",
+        "CAT: Jue 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN680/01",
+      "CodCatedra": "ENFIN680",
+      "CodSeccion": "01",
+      "NombreCatedra": "MERCADO DE CAPITALES",
+      "Profesores": "JOSÉ LUIS RUIZ VERGARA",
+      "Clases": "2/2  CAT, 4/2  CAT",
+      "cod": "ENFIN680",
+      "sección": "01",
+      "profesor": "JOSÉ LUIS RUIZ VERGARA",
+      "nombre_curso": "MERCADO DE CAPITALES",
+      "horario": [
+        "CAT: Mar 09:30 - 10:50",
+        "CAT: Jue 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN761/01",
+      "CodCatedra": "ENFIN761",
+      "CodSeccion": "01",
+      "NombreCatedra": "BUSINESS INTELLIGENCE PARA LAS FINANZAS",
+      "Profesores": "DAVID ALEJANDRO DÍAZ SOLÍS",
+      "Clases": "2/4  CAT, 4/4  CAT",
+      "cod": "ENFIN761",
+      "sección": "01",
+      "profesor": "DAVID ALEJANDRO DÍAZ SOLÍS",
+      "nombre_curso": "BUSINESS INTELLIGENCE PARA LAS FINANZAS",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "CAT: Jue 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN790/01",
+      "CodCatedra": "ENFIN790",
+      "CodSeccion": "01",
+      "NombreCatedra": "INSTRUMENTOS DE RENTA FIJA",
+      "Profesores": "JULIO CESAR REBOLLEDO DIAZ",
+      "Clases": "2/6 Sala Bloomberg CAT, 4/6 Sala Bloomberg CAT",
+      "cod": "ENFIN790",
+      "sección": "01",
+      "profesor": "JULIO CESAR REBOLLEDO DIAZ",
+      "nombre_curso": "INSTRUMENTOS DE RENTA FIJA",
+      "horario": [
+        "CAT: Mar 15:30 - 16:50",
+        "CAT: Jue 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN799/01",
+      "CodCatedra": "ENFIN799",
+      "CodSeccion": "01",
+      "NombreCatedra": "INVERSIONES",
+      "Profesores": "ERWIN GUILLERMO HANSEN SILVA",
+      "Clases": "1/3  CAT, 3/3  CAT",
+      "cod": "ENFIN799",
+      "sección": "01",
+      "profesor": "ERWIN GUILLERMO HANSEN SILVA",
+      "nombre_curso": "INVERSIONES",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN820/01",
+      "CodCatedra": "ENFIN820",
+      "CodSeccion": "01",
+      "NombreCatedra": "FINANZAS PÚBLICAS Y DESIGUALDAD",
+      "Profesores": "PABLO ANTONIO GUTIÉRREZ CUBILLOS",
+      "Clases": "1/2  CAT, 3/2  CAT",
+      "cod": "ENFIN820",
+      "sección": "01",
+      "profesor": "PABLO ANTONIO GUTIÉRREZ CUBILLOS",
+      "nombre_curso": "FINANZAS PÚBLICAS Y DESIGUALDAD",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "CAT: Mie 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENFIN828/01",
+      "CodCatedra": "ENFIN828",
+      "CodSeccion": "01",
+      "NombreCatedra": "TRADING Y MICROESTRUCTURA DE MERCADO",
+      "Profesores": "RODRIGO ENRIQUE SANTIBAÑEZ ORREGO",
+      "Clases": "3/1 Sala Bloomberg CAT, 5/1 Sala Bloomberg CAT",
+      "cod": "ENFIN828",
+      "sección": "01",
+      "profesor": "RODRIGO ENRIQUE SANTIBAÑEZ ORREGO",
+      "nombre_curso": "TRADING Y MICROESTRUCTURA DE MERCADO",
+      "horario": [
+        "CAT: Mie 08:00 - 09:20",
+        "CAT: Vie 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENGEP155/01",
+      "CodCatedra": "ENGEP155",
+      "CodSeccion": "01",
+      "NombreCatedra": "INTRODUCCIÓN A LA GESTIÓN DE PERSONAS",
+      "Profesores": "ROBERTO JOSÉ CARVALHO ",
+      "Clases": "1/4  CAT, 3/4  CAT, 5/7  AYU",
+      "cod": "ENGEP155",
+      "sección": "01",
+      "profesor": "ROBERTO JOSÉ CARVALHO ",
+      "nombre_curso": "INTRODUCCIÓN A LA GESTIÓN DE PERSONAS",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "CAT: Mie 12:30 - 13:50",
+        "AYU: Vie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENGEP155/05",
+      "CodCatedra": "ENGEP155",
+      "CodSeccion": "05",
+      "NombreCatedra": "INTRODUCCIÓN A LA GESTIÓN DE PERSONAS",
+      "Profesores": "VALENTINA GABRIELA REYES AHUMADA",
+      "Clases": "1/5  CAT, 3/5  CAT, 5/7  AYU",
+      "cod": "ENGEP155",
+      "sección": "05",
+      "profesor": "VALENTINA GABRIELA REYES AHUMADA",
+      "nombre_curso": "INTRODUCCIÓN A LA GESTIÓN DE PERSONAS",
+      "horario": [
+        "CAT: Lun 14:00 - 15:20",
+        "CAT: Mie 14:00 - 15:20",
+        "AYU: Vie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENGEP155/06",
+      "CodCatedra": "ENGEP155",
+      "CodSeccion": "06",
+      "NombreCatedra": "INTRODUCCIÓN A LA GESTIÓN DE PERSONAS",
+      "Profesores": "VALENTINA GABRIELA REYES AHUMADA",
+      "Clases": "1/6  CAT, 3/6  CAT, 5/7  AYU",
+      "cod": "ENGEP155",
+      "sección": "06",
+      "profesor": "VALENTINA GABRIELA REYES AHUMADA",
+      "nombre_curso": "INTRODUCCIÓN A LA GESTIÓN DE PERSONAS",
+      "horario": [
+        "CAT: Lun 15:30 - 16:50",
+        "CAT: Mie 15:30 - 16:50",
+        "AYU: Vie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENGEP155/07",
+      "CodCatedra": "ENGEP155",
+      "CodSeccion": "07",
+      "NombreCatedra": "INTRODUCCIÓN A LA GESTIÓN DE PERSONAS",
+      "Profesores": "MARCO ANTONIO MUÑOZ ZÚÑIGA",
+      "Clases": "2/1  CAT, 4/1  CAT, 5/7  AYU",
+      "cod": "ENGEP155",
+      "sección": "07",
+      "profesor": "MARCO ANTONIO MUÑOZ ZÚÑIGA",
+      "nombre_curso": "INTRODUCCIÓN A LA GESTIÓN DE PERSONAS",
+      "horario": [
+        "CAT: Mar 08:00 - 09:20",
+        "CAT: Jue 08:00 - 09:20",
+        "AYU: Vie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENGEP155/03",
+      "CodCatedra": "ENGEP155",
+      "CodSeccion": "03",
+      "NombreCatedra": "INTRODUCCIÓN A LA GESTIÓN DE PERSONAS",
+      "Profesores": "",
+      "Clases": "2/3  CAT, 4/3  CAT, 5/7  AYU",
+      "cod": "ENGEP155",
+      "sección": "03",
+      "profesor": "Sin Profesor",
+      "nombre_curso": "INTRODUCCIÓN A LA GESTIÓN DE PERSONAS",
+      "horario": [
+        "CAT: Mar 11:00 - 12:20",
+        "CAT: Jue 11:00 - 12:20",
+        "AYU: Vie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENGEP155/02",
+      "CodCatedra": "ENGEP155",
+      "CodSeccion": "02",
+      "NombreCatedra": "INTRODUCCIÓN A LA GESTIÓN DE PERSONAS",
+      "Profesores": "ROBERTO JOSÉ CARVALHO ",
+      "Clases": "2/4  CAT, 4/4  CAT, 5/7  AYU",
+      "cod": "ENGEP155",
+      "sección": "02",
+      "profesor": "ROBERTO JOSÉ CARVALHO ",
+      "nombre_curso": "INTRODUCCIÓN A LA GESTIÓN DE PERSONAS",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "CAT: Jue 12:30 - 13:50",
+        "AYU: Vie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENGEP155/04",
+      "CodCatedra": "ENGEP155",
+      "CodSeccion": "04",
+      "NombreCatedra": "INTRODUCCIÓN A LA GESTIÓN DE PERSONAS",
+      "Profesores": "PEDRO IGNACIO LEIVA NEUENSCHWANDER",
+      "Clases": "2/4  CAT, 4/4  CAT, 5/7  AYU",
+      "cod": "ENGEP155",
+      "sección": "04",
+      "profesor": "PEDRO IGNACIO LEIVA NEUENSCHWANDER",
+      "nombre_curso": "INTRODUCCIÓN A LA GESTIÓN DE PERSONAS",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "CAT: Jue 12:30 - 13:50",
+        "AYU: Vie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENGEP305/01",
+      "CodCatedra": "ENGEP305",
+      "CodSeccion": "01",
+      "NombreCatedra": "GESTIÓN DE PERSONAS I",
+      "Profesores": "LYONEL LAULIE CERDA",
+      "Clases": "2/3  CAT, 4/3  CAT, 5/4  AYU",
+      "cod": "ENGEP305",
+      "sección": "01",
+      "profesor": "LYONEL LAULIE CERDA",
+      "nombre_curso": "GESTIÓN DE PERSONAS I",
+      "horario": [
+        "CAT: Mar 11:00 - 12:20",
+        "CAT: Jue 11:00 - 12:20",
+        "AYU: Vie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENGEP305/02",
+      "CodCatedra": "ENGEP305",
+      "CodSeccion": "02",
+      "NombreCatedra": "GESTIÓN DE PERSONAS I",
+      "Profesores": "LYONEL LAULIE CERDA",
+      "Clases": "2/4  CAT, 4/4  CAT, 5/4  AYU",
+      "cod": "ENGEP305",
+      "sección": "02",
+      "profesor": "LYONEL LAULIE CERDA",
+      "nombre_curso": "GESTIÓN DE PERSONAS I",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "CAT: Jue 12:30 - 13:50",
+        "AYU: Vie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENGEP306/01",
+      "CodCatedra": "ENGEP306",
+      "CodSeccion": "01",
+      "NombreCatedra": "GESTIÓN Y EQUIDAD DE GÉNERO",
+      "Profesores": "CARLA PATRICIA ROJAS NECULHUAL",
+      "Clases": "2/4  CAT, 4/4  CAT",
+      "cod": "ENGEP306",
+      "sección": "01",
+      "profesor": "CARLA PATRICIA ROJAS NECULHUAL",
+      "nombre_curso": "GESTIÓN Y EQUIDAD DE GÉNERO",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "CAT: Jue 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENGEP355/02",
+      "CodCatedra": "ENGEP355",
+      "CodSeccion": "02",
+      "NombreCatedra": "GESTIÓN DE PERSONAS II",
+      "Profesores": "MATIAS MOISES SANFUENTES ASTABURUAGA",
+      "Clases": "1/3  CAT, 3/3  CAT, 5/6  AYU",
+      "cod": "ENGEP355",
+      "sección": "02",
+      "profesor": "MATIAS MOISES SANFUENTES ASTABURUAGA",
+      "nombre_curso": "GESTIÓN DE PERSONAS II",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20",
+        "AYU: Vie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENGEP355/03",
+      "CodCatedra": "ENGEP355",
+      "CodSeccion": "03",
+      "NombreCatedra": "GESTIÓN DE PERSONAS II",
+      "Profesores": "MATIAS MOISES SANFUENTES ASTABURUAGA",
+      "Clases": "1/4  CAT, 3/4  CAT, 5/6  AYU",
+      "cod": "ENGEP355",
+      "sección": "03",
+      "profesor": "MATIAS MOISES SANFUENTES ASTABURUAGA",
+      "nombre_curso": "GESTIÓN DE PERSONAS II",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "CAT: Mie 12:30 - 13:50",
+        "AYU: Vie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENGEP355/01",
+      "CodCatedra": "ENGEP355",
+      "CodSeccion": "01",
+      "NombreCatedra": "GESTIÓN DE PERSONAS II",
+      "Profesores": "FRANCISCO JAVIER VALENZUELA DIAZ",
+      "Clases": "2/3  CAT, 4/3  CAT, 5/6  AYU",
+      "cod": "ENGEP355",
+      "sección": "01",
+      "profesor": "FRANCISCO JAVIER VALENZUELA DIAZ",
+      "nombre_curso": "GESTIÓN DE PERSONAS II",
+      "horario": [
+        "CAT: Mar 11:00 - 12:20",
+        "CAT: Jue 11:00 - 12:20",
+        "AYU: Vie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENGEP406/01",
+      "CodCatedra": "ENGEP406",
+      "CodSeccion": "01",
+      "NombreCatedra": "COMPETENCIAS LABORALES",
+      "Profesores": "ROBERTO JOSÉ CARVALHO ",
+      "Clases": "1/3  CAT, 3/3  CAT",
+      "cod": "ENGEP406",
+      "sección": "01",
+      "profesor": "ROBERTO JOSÉ CARVALHO ",
+      "nombre_curso": "COMPETENCIAS LABORALES",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENGEP407/01",
+      "CodCatedra": "ENGEP407",
+      "CodSeccion": "01",
+      "NombreCatedra": "NOCIONES DEL DERECHO COLECTIVO",
+      "Profesores": "LUIS GARCÍA SOLÁ",
+      "Clases": "1/5  CAT, 3/5  CAT",
+      "cod": "ENGEP407",
+      "sección": "01",
+      "profesor": "LUIS GARCÍA SOLÁ",
+      "nombre_curso": "NOCIONES DEL DERECHO COLECTIVO",
+      "horario": [
+        "CAT: Lun 14:00 - 15:20",
+        "CAT: Mie 14:00 - 15:20"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN100/04",
+      "CodCatedra": "ENGIN100",
+      "CodSeccion": "04",
+      "NombreCatedra": "APLICACIONES DE MANEJO DE DATOS",
+      "Profesores": "DANIELA ANDREA TORREALBA MORAGA",
+      "Clases": "1/1  CAT, 3/1  CAT, 5/2  AYU",
+      "cod": "ENGIN100",
+      "sección": "04",
+      "profesor": "DANIELA ANDREA TORREALBA MORAGA",
+      "nombre_curso": "APLICACIONES DE MANEJO DE DATOS",
+      "horario": [
+        "CAT: Lun 08:00 - 09:20",
+        "CAT: Mie 08:00 - 09:20",
+        "AYU: Vie 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN100/05",
+      "CodCatedra": "ENGIN100",
+      "CodSeccion": "05",
+      "NombreCatedra": "APLICACIONES DE MANEJO DE DATOS",
+      "Profesores": "DANIELA ANDREA TORREALBA MORAGA",
+      "Clases": "1/2  CAT, 3/2  CAT, 5/6  AYU",
+      "cod": "ENGIN100",
+      "sección": "05",
+      "profesor": "DANIELA ANDREA TORREALBA MORAGA",
+      "nombre_curso": "APLICACIONES DE MANEJO DE DATOS",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "CAT: Mie 09:30 - 10:50",
+        "AYU: Vie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN100/01",
+      "CodCatedra": "ENGIN100",
+      "CodSeccion": "01",
+      "NombreCatedra": "APLICACIONES DE MANEJO DE DATOS",
+      "Profesores": "FELIX PATRICIO LIZAMA GARRIDO",
+      "Clases": "1/3  CAT, 3/3  CAT, 5/2  AYU",
+      "cod": "ENGIN100",
+      "sección": "01",
+      "profesor": "FELIX PATRICIO LIZAMA GARRIDO",
+      "nombre_curso": "APLICACIONES DE MANEJO DE DATOS",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20",
+        "AYU: Vie 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN100/06",
+      "CodCatedra": "ENGIN100",
+      "CodSeccion": "06",
+      "NombreCatedra": "APLICACIONES DE MANEJO DE DATOS",
+      "Profesores": "FELIPE RODRIGO HORTA JAQUES, GUILLERMO BRUCE VÁSQUEZ ERRICKSON",
+      "Clases": "1/4  CAT, 3/4  CAT, 5/6  AYU",
+      "cod": "ENGIN100",
+      "sección": "06",
+      "profesor": "FELIPE RODRIGO HORTA JAQUES, GUILLERMO BRUCE VÁSQUEZ ERRICKSON",
+      "nombre_curso": "APLICACIONES DE MANEJO DE DATOS",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "CAT: Mie 12:30 - 13:50",
+        "AYU: Vie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN100/07",
+      "CodCatedra": "ENGIN100",
+      "CodSeccion": "07",
+      "NombreCatedra": "APLICACIONES DE MANEJO DE DATOS",
+      "Profesores": "FELIPE RODRIGO HORTA JAQUES, GUILLERMO BRUCE VÁSQUEZ ERRICKSON",
+      "Clases": "1/5  CAT, 3/5  CAT, 5/6  AYU",
+      "cod": "ENGIN100",
+      "sección": "07",
+      "profesor": "FELIPE RODRIGO HORTA JAQUES, GUILLERMO BRUCE VÁSQUEZ ERRICKSON",
+      "nombre_curso": "APLICACIONES DE MANEJO DE DATOS",
+      "horario": [
+        "CAT: Lun 14:00 - 15:20",
+        "CAT: Mie 14:00 - 15:20",
+        "AYU: Vie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN100/08",
+      "CodCatedra": "ENGIN100",
+      "CodSeccion": "08",
+      "NombreCatedra": "APLICACIONES DE MANEJO DE DATOS",
+      "Profesores": "GABRIEL ESTEBAN SAN MARTIN CARDENAS",
+      "Clases": "1/5  CAT, 3/5  CAT, 5/6  AYU",
+      "cod": "ENGIN100",
+      "sección": "08",
+      "profesor": "GABRIEL ESTEBAN SAN MARTIN CARDENAS",
+      "nombre_curso": "APLICACIONES DE MANEJO DE DATOS",
+      "horario": [
+        "CAT: Lun 14:00 - 15:20",
+        "CAT: Mie 14:00 - 15:20",
+        "AYU: Vie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN100/02",
+      "CodCatedra": "ENGIN100",
+      "CodSeccion": "02",
+      "NombreCatedra": "APLICACIONES DE MANEJO DE DATOS",
+      "Profesores": "NOLAN RAÚL GAETE AGUILERA",
+      "Clases": "2/1  CAT, 4/1  CAT, 5/2  AYU",
+      "cod": "ENGIN100",
+      "sección": "02",
+      "profesor": "NOLAN RAÚL GAETE AGUILERA",
+      "nombre_curso": "APLICACIONES DE MANEJO DE DATOS",
+      "horario": [
+        "CAT: Mar 08:00 - 09:20",
+        "CAT: Jue 08:00 - 09:20",
+        "AYU: Vie 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN100/03",
+      "CodCatedra": "ENGIN100",
+      "CodSeccion": "03",
+      "NombreCatedra": "APLICACIONES DE MANEJO DE DATOS",
+      "Profesores": "MIGUEL ANGEL PINO TEJIAS",
+      "Clases": "2/6  CAT, 4/6  CAT, 5/2  AYU",
+      "cod": "ENGIN100",
+      "sección": "03",
+      "profesor": "MIGUEL ANGEL PINO TEJIAS",
+      "nombre_curso": "APLICACIONES DE MANEJO DE DATOS",
+      "horario": [
+        "CAT: Mar 15:30 - 16:50",
+        "CAT: Jue 15:30 - 16:50",
+        "AYU: Vie 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN110/02",
+      "CodCatedra": "ENGIN110",
+      "CodSeccion": "02",
+      "NombreCatedra": "TECNOLOGÍAS Y SISTEMAS DE INFORMACION",
+      "Profesores": "MARCOS IGNACIO MUÑOZ BORNAND",
+      "Clases": "1/1  CAT, 3/1  CAT, 3/7  AYU",
+      "cod": "ENGIN110",
+      "sección": "02",
+      "profesor": "MARCOS IGNACIO MUÑOZ BORNAND",
+      "nombre_curso": "TECNOLOGÍAS Y SISTEMAS DE INFORMACION",
+      "horario": [
+        "CAT: Lun 08:00 - 09:20",
+        "CAT: Mie 08:00 - 09:20",
+        "AYU: Mie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN110/04",
+      "CodCatedra": "ENGIN110",
+      "CodSeccion": "04",
+      "NombreCatedra": "TECNOLOGÍAS Y SISTEMAS DE INFORMACION",
+      "Profesores": "RODRIGO NICOLÁS ROJO PIZARRO",
+      "Clases": "1/2  CAT, 3/2  CAT, 3/7  AYU",
+      "cod": "ENGIN110",
+      "sección": "04",
+      "profesor": "RODRIGO NICOLÁS ROJO PIZARRO",
+      "nombre_curso": "TECNOLOGÍAS Y SISTEMAS DE INFORMACION",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "CAT: Mie 09:30 - 10:50",
+        "AYU: Mie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN110/06",
+      "CodCatedra": "ENGIN110",
+      "CodSeccion": "06",
+      "NombreCatedra": "TECNOLOGÍAS Y SISTEMAS DE INFORMACION",
+      "Profesores": "IGNACIO JAVIER ALARCÓN CONTARDO, SEBASTIÁN IGNACIO CISTERNA ARAUS",
+      "Clases": "1/2  CAT, 3/2  CAT, 3/7  AYU",
+      "cod": "ENGIN110",
+      "sección": "06",
+      "profesor": "IGNACIO JAVIER ALARCÓN CONTARDO, SEBASTIÁN IGNACIO CISTERNA ARAUS",
+      "nombre_curso": "TECNOLOGÍAS Y SISTEMAS DE INFORMACION",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "CAT: Mie 09:30 - 10:50",
+        "AYU: Mie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN110/01",
+      "CodCatedra": "ENGIN110",
+      "CodSeccion": "01",
+      "NombreCatedra": "TECNOLOGÍAS Y SISTEMAS DE INFORMACION",
+      "Profesores": "DANIELA ANDREA TORREALBA MORAGA",
+      "Clases": "1/3  CAT, 3/3  CAT, 3/7  AYU",
+      "cod": "ENGIN110",
+      "sección": "01",
+      "profesor": "DANIELA ANDREA TORREALBA MORAGA",
+      "nombre_curso": "TECNOLOGÍAS Y SISTEMAS DE INFORMACION",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20",
+        "AYU: Mie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN110/05",
+      "CodCatedra": "ENGIN110",
+      "CodSeccion": "05",
+      "NombreCatedra": "TECNOLOGÍAS Y SISTEMAS DE INFORMACION",
+      "Profesores": "RODRIGO NICOLÁS ROJO PIZARRO",
+      "Clases": "1/3  CAT, 3/3  CAT, 3/7  AYU",
+      "cod": "ENGIN110",
+      "sección": "05",
+      "profesor": "RODRIGO NICOLÁS ROJO PIZARRO",
+      "nombre_curso": "TECNOLOGÍAS Y SISTEMAS DE INFORMACION",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20",
+        "AYU: Mie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN110/07",
+      "CodCatedra": "ENGIN110",
+      "CodSeccion": "07",
+      "NombreCatedra": "TECNOLOGÍAS Y SISTEMAS DE INFORMACION",
+      "Profesores": "IGNACIO JAVIER ALARCÓN CONTARDO, SEBASTIÁN IGNACIO CISTERNA ARAUS",
+      "Clases": "1/3  CAT, 3/3  CAT, 3/7  AYU",
+      "cod": "ENGIN110",
+      "sección": "07",
+      "profesor": "IGNACIO JAVIER ALARCÓN CONTARDO, SEBASTIÁN IGNACIO CISTERNA ARAUS",
+      "nombre_curso": "TECNOLOGÍAS Y SISTEMAS DE INFORMACION",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20",
+        "AYU: Mie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN110/08",
+      "CodCatedra": "ENGIN110",
+      "CodSeccion": "08",
+      "NombreCatedra": "TECNOLOGÍAS Y SISTEMAS DE INFORMACION",
+      "Profesores": "JOSE EMILIO MEDINA MORAGA",
+      "Clases": "2/1  CAT, 3/7  AYU, 4/1  CAT",
+      "cod": "ENGIN110",
+      "sección": "08",
+      "profesor": "JOSE EMILIO MEDINA MORAGA",
+      "nombre_curso": "TECNOLOGÍAS Y SISTEMAS DE INFORMACION",
+      "horario": [
+        "CAT: Mar 08:00 - 09:20",
+        "AYU: Mie 17:00 - 18:20",
+        "CAT: Jue 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN110/03",
+      "CodCatedra": "ENGIN110",
+      "CodSeccion": "03",
+      "NombreCatedra": "TECNOLOGÍAS Y SISTEMAS DE INFORMACION",
+      "Profesores": "OSCAR PATRICIO MANCISIDOR STRANGE",
+      "Clases": "2/4  CAT, 3/7  AYU, 4/4  CAT",
+      "cod": "ENGIN110",
+      "sección": "03",
+      "profesor": "OSCAR PATRICIO MANCISIDOR STRANGE",
+      "nombre_curso": "TECNOLOGÍAS Y SISTEMAS DE INFORMACION",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "AYU: Mie 17:00 - 18:20",
+        "CAT: Jue 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN305/01",
+      "CodCatedra": "ENGIN305",
+      "CodSeccion": "01",
+      "NombreCatedra": "BASE DE DATOS",
+      "Profesores": "JULIO PATRICIO ACEVEDO HUERTA",
+      "Clases": "1/7  CAT, 3/7  CAT, 5/4  AYU",
+      "cod": "ENGIN305",
+      "sección": "01",
+      "profesor": "JULIO PATRICIO ACEVEDO HUERTA",
+      "nombre_curso": "BASE DE DATOS",
+      "horario": [
+        "CAT: Lun 17:00 - 18:20",
+        "CAT: Mie 17:00 - 18:20",
+        "AYU: Vie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN310/02",
+      "CodCatedra": "ENGIN310",
+      "CodSeccion": "02",
+      "NombreCatedra": "PROGRAMACION Y ALGORITMO",
+      "Profesores": "JOSE ANDRES URZUA REINOSO",
+      "Clases": "1/1  CAT, 3/1  CAT, 5/7  AYU",
+      "cod": "ENGIN310",
+      "sección": "02",
+      "profesor": "JOSE ANDRES URZUA REINOSO",
+      "nombre_curso": "PROGRAMACION Y ALGORITMO",
+      "horario": [
+        "CAT: Lun 08:00 - 09:20",
+        "CAT: Mie 08:00 - 09:20",
+        "AYU: Vie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN310/03",
+      "CodCatedra": "ENGIN310",
+      "CodSeccion": "03",
+      "NombreCatedra": "PROGRAMACION Y ALGORITMO",
+      "Profesores": "JOSE ANDRES URZUA REINOSO",
+      "Clases": "1/4  CAT, 3/4  CAT, 5/7  AYU",
+      "cod": "ENGIN310",
+      "sección": "03",
+      "profesor": "JOSE ANDRES URZUA REINOSO",
+      "nombre_curso": "PROGRAMACION Y ALGORITMO",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "CAT: Mie 12:30 - 13:50",
+        "AYU: Vie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN310/01",
+      "CodCatedra": "ENGIN310",
+      "CodSeccion": "01",
+      "NombreCatedra": "PROGRAMACION Y ALGORITMO",
+      "Profesores": "JUAN FERNANDO ALVAREZ RUBIO",
+      "Clases": "1/6  CAT, 3/6  CAT, 5/7  AYU",
+      "cod": "ENGIN310",
+      "sección": "01",
+      "profesor": "JUAN FERNANDO ALVAREZ RUBIO",
+      "nombre_curso": "PROGRAMACION Y ALGORITMO",
+      "horario": [
+        "CAT: Lun 15:30 - 16:50",
+        "CAT: Mie 15:30 - 16:50",
+        "AYU: Vie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN315/01",
+      "CodCatedra": "ENGIN315",
+      "CodSeccion": "01",
+      "NombreCatedra": "SISTEMAS DE APLICACIONES",
+      "Profesores": "MARTHA LILIANA SIERRA GONZALEZ",
+      "Clases": "1/1  CAT, 3/1  CAT, 3/8  AYU",
+      "cod": "ENGIN315",
+      "sección": "01",
+      "profesor": "MARTHA LILIANA SIERRA GONZALEZ",
+      "nombre_curso": "SISTEMAS DE APLICACIONES",
+      "horario": [
+        "CAT: Lun 08:00 - 09:20",
+        "CAT: Mie 08:00 - 09:20",
+        "AYU: Mie 18:30 - 19:50"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN410/01",
+      "CodCatedra": "ENGIN410",
+      "CodSeccion": "01",
+      "NombreCatedra": "DESARROLLO DE SIST. DE INFORM. / SIA I ",
+      "Profesores": "ARIEL ISAAC LA PAZ LILLO",
+      "Clases": "1/2  CAT, 3/2  CAT, 5/2  AYU",
+      "cod": "ENGIN410",
+      "sección": "01",
+      "profesor": "ARIEL ISAAC LA PAZ LILLO",
+      "nombre_curso": "DESARROLLO DE SIST. DE INFORM. / SIA I ",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "CAT: Mie 09:30 - 10:50",
+        "AYU: Vie 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN415/01",
+      "CodCatedra": "ENGIN415",
+      "CodSeccion": "01",
+      "NombreCatedra": "BUSINESS INTELLIGENCE AND ANALYTICS",
+      "Profesores": "SEBASTIÁN IGNACIO CISTERNA ARAUS",
+      "Clases": "1/1  CAT, 3/1  CAT",
+      "cod": "ENGIN415",
+      "sección": "01",
+      "profesor": "SEBASTIÁN IGNACIO CISTERNA ARAUS",
+      "nombre_curso": "BUSINESS INTELLIGENCE AND ANALYTICS",
+      "horario": [
+        "CAT: Lun 08:00 - 09:20",
+        "CAT: Mie 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN420/01",
+      "CodCatedra": "ENGIN420",
+      "CodSeccion": "01",
+      "NombreCatedra": "BUSINESS INTELLIGENCE AND DATABASE APPLICATIONS",
+      "Profesores": "FELIX PATRICIO LIZAMA GARRIDO",
+      "Clases": "1/4  CAT, 3/4  CAT, 5/1  AYU",
+      "cod": "ENGIN420",
+      "sección": "01",
+      "profesor": "FELIX PATRICIO LIZAMA GARRIDO",
+      "nombre_curso": "BUSINESS INTELLIGENCE AND DATABASE APPLICATIONS",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "CAT: Mie 12:30 - 13:50",
+        "AYU: Vie 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN420/02",
+      "CodCatedra": "ENGIN420",
+      "CodSeccion": "02",
+      "NombreCatedra": "BUSINESS INTELLIGENCE AND DATABASE APPLICATIONS",
+      "Profesores": "FELIX PATRICIO LIZAMA GARRIDO",
+      "Clases": "1/5  CAT, 3/5  CAT, 5/1  AYU",
+      "cod": "ENGIN420",
+      "sección": "02",
+      "profesor": "FELIX PATRICIO LIZAMA GARRIDO",
+      "nombre_curso": "BUSINESS INTELLIGENCE AND DATABASE APPLICATIONS",
+      "horario": [
+        "CAT: Lun 14:00 - 15:20",
+        "CAT: Mie 14:00 - 15:20",
+        "AYU: Vie 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN425/01",
+      "CodCatedra": "ENGIN425",
+      "CodSeccion": "01",
+      "NombreCatedra": "GESTIÓN DE PROCESOS DE NEGOCIOS",
+      "Profesores": "SIGIFREDO LAENGLE SCARLAZETTA",
+      "Clases": "1/4  CAT, 3/4  CAT, 4/6  AYU",
+      "cod": "ENGIN425",
+      "sección": "01",
+      "profesor": "SIGIFREDO LAENGLE SCARLAZETTA",
+      "nombre_curso": "GESTIÓN DE PROCESOS DE NEGOCIOS",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "CAT: Mie 12:30 - 13:50",
+        "AYU: Jue 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN425/02",
+      "CodCatedra": "ENGIN425",
+      "CodSeccion": "02",
+      "NombreCatedra": "GESTIÓN DE PROCESOS DE NEGOCIOS",
+      "Profesores": "SIGIFREDO LAENGLE SCARLAZETTA",
+      "Clases": "1/6  CAT, 3/6  CAT, 4/6  AYU",
+      "cod": "ENGIN425",
+      "sección": "02",
+      "profesor": "SIGIFREDO LAENGLE SCARLAZETTA",
+      "nombre_curso": "GESTIÓN DE PROCESOS DE NEGOCIOS",
+      "horario": [
+        "CAT: Lun 15:30 - 16:50",
+        "CAT: Mie 15:30 - 16:50",
+        "AYU: Jue 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN450/01",
+      "CodCatedra": "ENGIN450",
+      "CodSeccion": "01",
+      "NombreCatedra": "INFRAESTRUCTURA DE TECNOLOGÍA INFORMÁTICA",
+      "Profesores": "GUSTAVO NYLES ZURITA ALARCON",
+      "Clases": "1/2  CAT, 3/2  CAT, 5/4  AYU",
+      "cod": "ENGIN450",
+      "sección": "01",
+      "profesor": "GUSTAVO NYLES ZURITA ALARCON",
+      "nombre_curso": "INFRAESTRUCTURA DE TECNOLOGÍA INFORMÁTICA",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "CAT: Mie 09:30 - 10:50",
+        "AYU: Vie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN450/02",
+      "CodCatedra": "ENGIN450",
+      "CodSeccion": "02",
+      "NombreCatedra": "INFRAESTRUCTURA DE TECNOLOGÍA INFORMÁTICA",
+      "Profesores": "GUSTAVO NYLES ZURITA ALARCON",
+      "Clases": "1/3  CAT, 3/3  CAT, 5/4  AYU",
+      "cod": "ENGIN450",
+      "sección": "02",
+      "profesor": "GUSTAVO NYLES ZURITA ALARCON",
+      "nombre_curso": "INFRAESTRUCTURA DE TECNOLOGÍA INFORMÁTICA",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20",
+        "AYU: Vie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN460/01",
+      "CodCatedra": "ENGIN460",
+      "CodSeccion": "01",
+      "NombreCatedra": "BUSINESS INTELLIGENCE",
+      "Profesores": "SEBASTIAN ALEJANDRO MALDONADO ALARCON",
+      "Clases": "2/3  CAT, 2/7  AYU, 4/3  CAT",
+      "cod": "ENGIN460",
+      "sección": "01",
+      "profesor": "SEBASTIAN ALEJANDRO MALDONADO ALARCON",
+      "nombre_curso": "BUSINESS INTELLIGENCE",
+      "horario": [
+        "CAT: Mar 11:00 - 12:20",
+        "AYU: Mar 17:00 - 18:20",
+        "CAT: Jue 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN460/02",
+      "CodCatedra": "ENGIN460",
+      "CodSeccion": "02",
+      "NombreCatedra": "BUSINESS INTELLIGENCE",
+      "Profesores": "SEBASTIAN ALEJANDRO MALDONADO ALARCON",
+      "Clases": "2/4  CAT, 2/7  AYU, 4/4  CAT",
+      "cod": "ENGIN460",
+      "sección": "02",
+      "profesor": "SEBASTIAN ALEJANDRO MALDONADO ALARCON",
+      "nombre_curso": "BUSINESS INTELLIGENCE",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "AYU: Mar 17:00 - 18:20",
+        "CAT: Jue 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENGIN462/01",
+      "CodCatedra": "ENGIN462",
+      "CodSeccion": "01",
+      "NombreCatedra": "APLICACIONES PRÁCTICAS DE SISTEMAS DE INFORMACIÓN PARA LOS NEGOCIOS",
+      "Profesores": "CHRISTIAN ALEXANDER CANCINO DEL CASTILLO, GUSTAVO NYLES ZURITA ALARCON, SIGIFREDO LAENGLE SCARLAZETTA",
+      "Clases": "1/5  CAT, 3/5  CAT",
+      "cod": "ENGIN462",
+      "sección": "01",
+      "profesor": "CHRISTIAN ALEXANDER CANCINO DEL CASTILLO, GUSTAVO NYLES ZURITA ALARCON, SIGIFREDO LAENGLE SCARLAZETTA",
+      "nombre_curso": "APLICACIONES PRÁCTICAS DE SISTEMAS DE INFORMACIÓN PARA LOS NEGOCIOS",
+      "horario": [
+        "CAT: Lun 14:00 - 15:20",
+        "CAT: Mie 14:00 - 15:20"
+      ]
+    },
+    {
+      "IdCurso": "ENHEC300/01",
+      "CodCatedra": "ENHEC300",
+      "CodSeccion": "01",
+      "NombreCatedra": "HISTORIA ECONOMICA I",
+      "Profesores": "JUAN IGNACIO PEREZ EYZAGUIRRE",
+      "Clases": "1/2  CAT, 1/8  AYU, 3/2  CAT",
+      "cod": "ENHEC300",
+      "sección": "01",
+      "profesor": "JUAN IGNACIO PEREZ EYZAGUIRRE",
+      "nombre_curso": "HISTORIA ECONOMICA I",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "AYU: Lun 18:30 - 19:50",
+        "CAT: Mie 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENHEC416/01",
+      "CodCatedra": "ENHEC416",
+      "CodSeccion": "01",
+      "NombreCatedra": "CHILEAN ECONOMIC DEVELOPMENT",
+      "Profesores": "ROBERTO JAIME ALVAREZ ESPINOZA",
+      "Clases": "2/6  CAT, 4/6  CAT",
+      "cod": "ENHEC416",
+      "sección": "01",
+      "profesor": "ROBERTO JAIME ALVAREZ ESPINOZA",
+      "nombre_curso": "CHILEAN ECONOMIC DEVELOPMENT",
+      "horario": [
+        "CAT: Mar 15:30 - 16:50",
+        "CAT: Jue 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENHEC417/01",
+      "CodCatedra": "ENHEC417",
+      "CodSeccion": "01",
+      "NombreCatedra": "INTRODUCCION A LA FILOSOFIA POLITICA",
+      "Profesores": "ALAN SERGIO MARTIN MENENDEZ",
+      "Clases": "1/4  CAT, 3/4  CAT",
+      "cod": "ENHEC417",
+      "sección": "01",
+      "profesor": "ALAN SERGIO MARTIN MENENDEZ",
+      "nombre_curso": "INTRODUCCION A LA FILOSOFIA POLITICA",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "CAT: Mie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENIMP300/01",
+      "CodCatedra": "ENIMP300",
+      "CodSeccion": "01",
+      "NombreCatedra": "ECONOMIA DE LOS IMPUESTOS",
+      "Profesores": "PABLO ANTONIO GUTIÉRREZ CUBILLOS",
+      "Clases": "1/6  CAT, 3/5  AYU, 3/6  CAT",
+      "cod": "ENIMP300",
+      "sección": "01",
+      "profesor": "PABLO ANTONIO GUTIÉRREZ CUBILLOS",
+      "nombre_curso": "ECONOMIA DE LOS IMPUESTOS",
+      "horario": [
+        "CAT: Lun 15:30 - 16:50",
+        "AYU: Mie 14:00 - 15:20",
+        "CAT: Mie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENIMP350/01",
+      "CodCatedra": "ENIMP350",
+      "CodSeccion": "01",
+      "NombreCatedra": "DERECHO TRIBUTARIO",
+      "Profesores": "GONZALO TOMÁS POLANCO ZAMORA",
+      "Clases": "2/3  CAT, 4/3  CAT, 5/6  AYU",
+      "cod": "ENIMP350",
+      "sección": "01",
+      "profesor": "GONZALO TOMÁS POLANCO ZAMORA",
+      "nombre_curso": "DERECHO TRIBUTARIO",
+      "horario": [
+        "CAT: Mar 11:00 - 12:20",
+        "CAT: Jue 11:00 - 12:20",
+        "AYU: Vie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENIMP410/01",
+      "CodCatedra": "ENIMP410",
+      "CodSeccion": "01",
+      "NombreCatedra": "IMPUESTO TIPO CONSUMO",
+      "Profesores": "GUSTAVO ALFREDO PEREZ PEREZ",
+      "Clases": "1/1  CAT, 1/7  AYU, 3/1  CAT",
+      "cod": "ENIMP410",
+      "sección": "01",
+      "profesor": "GUSTAVO ALFREDO PEREZ PEREZ",
+      "nombre_curso": "IMPUESTO TIPO CONSUMO",
+      "horario": [
+        "CAT: Lun 08:00 - 09:20",
+        "AYU: Lun 17:00 - 18:20",
+        "CAT: Mie 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENIMP450/01",
+      "CodCatedra": "ENIMP450",
+      "CodSeccion": "01",
+      "NombreCatedra": "RENTA PERSONAL",
+      "Profesores": "VÍCTOR VILLALÓN MENDEZ",
+      "Clases": "2/2  CAT, 3/5  AYU, 4/2  CAT",
+      "cod": "ENIMP450",
+      "sección": "01",
+      "profesor": "VÍCTOR VILLALÓN MENDEZ",
+      "nombre_curso": "RENTA PERSONAL",
+      "horario": [
+        "CAT: Mar 09:30 - 10:50",
+        "AYU: Mie 14:00 - 15:20",
+        "CAT: Jue 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENIMP463/01",
+      "CodCatedra": "ENIMP463",
+      "CodSeccion": "01",
+      "NombreCatedra": "RENTA EMPRESARIAL",
+      "Profesores": "RODRIGO ANDRES ORMEÑO PEREZ",
+      "Clases": "1/2  CAT, 3/2  CAT, 5/6  AYU",
+      "cod": "ENIMP463",
+      "sección": "01",
+      "profesor": "RODRIGO ANDRES ORMEÑO PEREZ",
+      "nombre_curso": "RENTA EMPRESARIAL",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "CAT: Mie 09:30 - 10:50",
+        "AYU: Vie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENIMP500/01",
+      "CodCatedra": "ENIMP500",
+      "CodSeccion": "01",
+      "NombreCatedra": "TRIBUTACIÓN VI",
+      "Profesores": "LEYLA ROMINA REYES PALMA, RODRIGO ANDRES ORMEÑO PEREZ",
+      "Clases": "2/8  CAT, 4/4  AYU, 4/8  CAT",
+      "cod": "ENIMP500",
+      "sección": "01",
+      "profesor": "LEYLA ROMINA REYES PALMA, RODRIGO ANDRES ORMEÑO PEREZ",
+      "nombre_curso": "TRIBUTACIÓN VI",
+      "horario": [
+        "CAT: Mar 18:30 - 19:50",
+        "AYU: Jue 12:30 - 13:50",
+        "CAT: Jue 18:30 - 19:50"
+      ]
+    },
+    {
+      "IdCurso": "ENLEG300/01",
+      "CodCatedra": "ENLEG300",
+      "CodSeccion": "01",
+      "NombreCatedra": "ENTORNO LEGAL",
+      "Profesores": "GONZALO TOMÁS POLANCO ZAMORA",
+      "Clases": "2/6  CAT, 3/7  AYU, 4/6  CAT",
+      "cod": "ENLEG300",
+      "sección": "01",
+      "profesor": "GONZALO TOMÁS POLANCO ZAMORA",
+      "nombre_curso": "ENTORNO LEGAL",
+      "horario": [
+        "CAT: Mar 15:30 - 16:50",
+        "AYU: Mie 17:00 - 18:20",
+        "CAT: Jue 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB100/00",
+      "CodCatedra": "ENLIB100",
+      "CodSeccion": "00",
+      "NombreCatedra": "LIBRE I",
+      "Profesores": "",
+      "Clases": "",
+      "cod": "ENLIB100",
+      "sección": "00",
+      "profesor": "Sin Profesor",
+      "nombre_curso": "LIBRE I",
+      "horario": [
+        "Sin horario"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB200/00",
+      "CodCatedra": "ENLIB200",
+      "CodSeccion": "00",
+      "NombreCatedra": "LIBRE II",
+      "Profesores": "",
+      "Clases": "",
+      "cod": "ENLIB200",
+      "sección": "00",
+      "profesor": "Sin Profesor",
+      "nombre_curso": "LIBRE II",
+      "horario": [
+        "Sin horario"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB300/00",
+      "CodCatedra": "ENLIB300",
+      "CodSeccion": "00",
+      "NombreCatedra": "LIBRE III",
+      "Profesores": "",
+      "Clases": "",
+      "cod": "ENLIB300",
+      "sección": "00",
+      "profesor": "Sin Profesor",
+      "nombre_curso": "LIBRE III",
+      "horario": [
+        "Sin horario"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB321/01",
+      "CodCatedra": "ENLIB321",
+      "CodSeccion": "01",
+      "NombreCatedra": "ACONDIC.FISICO CON SOBRECARGA",
+      "Profesores": "MAURICIO VERDUGO MALDONADO",
+      "Clases": "1/7 GIM FEN CAT, 3/7 GIM FEN CAT",
+      "cod": "ENLIB321",
+      "sección": "01",
+      "profesor": "MAURICIO VERDUGO MALDONADO",
+      "nombre_curso": "ACONDIC.FISICO CON SOBRECARGA",
+      "horario": [
+        "CAT: Lun 17:00 - 18:20",
+        "CAT: Mie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB321/02",
+      "CodCatedra": "ENLIB321",
+      "CodSeccion": "02",
+      "NombreCatedra": "ACONDIC.FISICO CON SOBRECARGA",
+      "Profesores": "MAURICIO VERDUGO MALDONADO",
+      "Clases": "2/6 GIM FEN CAT, 4/6 GIM FEN CAT",
+      "cod": "ENLIB321",
+      "sección": "02",
+      "profesor": "MAURICIO VERDUGO MALDONADO",
+      "nombre_curso": "ACONDIC.FISICO CON SOBRECARGA",
+      "horario": [
+        "CAT: Mar 15:30 - 16:50",
+        "CAT: Jue 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB321/03",
+      "CodCatedra": "ENLIB321",
+      "CodSeccion": "03",
+      "NombreCatedra": "ACONDIC.FISICO CON SOBRECARGA",
+      "Profesores": "MAURICIO VERDUGO MALDONADO",
+      "Clases": "2/7 GIM FEN CAT, 4/7 GIM FEN CAT",
+      "cod": "ENLIB321",
+      "sección": "03",
+      "profesor": "MAURICIO VERDUGO MALDONADO",
+      "nombre_curso": "ACONDIC.FISICO CON SOBRECARGA",
+      "horario": [
+        "CAT: Mar 17:00 - 18:20",
+        "CAT: Jue 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB323/01",
+      "CodCatedra": "ENLIB323",
+      "CodSeccion": "01",
+      "NombreCatedra": "AJEDREZ I",
+      "Profesores": "ROBINSON ALEXIS PEREZ MOLINA",
+      "Clases": "2/6 H-309 CAT, 4/6 H-309 CAT",
+      "cod": "ENLIB323",
+      "sección": "01",
+      "profesor": "ROBINSON ALEXIS PEREZ MOLINA",
+      "nombre_curso": "AJEDREZ I",
+      "horario": [
+        "CAT: Mar 15:30 - 16:50",
+        "CAT: Jue 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB324/01",
+      "CodCatedra": "ENLIB324",
+      "CodSeccion": "01",
+      "NombreCatedra": "BASQUETBOL MIXTO",
+      "Profesores": "FELIPE PAUL MORALES GACITUA",
+      "Clases": "2/1 MULTICANCHA CAT, 4/1 MULTICANCHA CAT",
+      "cod": "ENLIB324",
+      "sección": "01",
+      "profesor": "FELIPE PAUL MORALES GACITUA",
+      "nombre_curso": "BASQUETBOL MIXTO",
+      "horario": [
+        "CAT: Mar 08:00 - 09:20",
+        "CAT: Jue 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB325/01",
+      "CodCatedra": "ENLIB325",
+      "CodSeccion": "01",
+      "NombreCatedra": "ESCALADA DEPORTIVA I",
+      "Profesores": "JAIME FLORES ROJAS",
+      "Clases": "1/2 MURO ESCALADA CAT, 3/2 MURO ESCALADA CAT",
+      "cod": "ENLIB325",
+      "sección": "01",
+      "profesor": "JAIME FLORES ROJAS",
+      "nombre_curso": "ESCALADA DEPORTIVA I",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "CAT: Mie 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB326/01",
+      "CodCatedra": "ENLIB326",
+      "CodSeccion": "01",
+      "NombreCatedra": "FUTBOL DAMAS I",
+      "Profesores": "RICARDO CHAVEZ PEREZ",
+      "Clases": "2/4 CANCHA FUTBOLIT CAT, 4/4 CANCHA FUTBOLIT CAT",
+      "cod": "ENLIB326",
+      "sección": "01",
+      "profesor": "RICARDO CHAVEZ PEREZ",
+      "nombre_curso": "FUTBOL DAMAS I",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "CAT: Jue 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB327/01",
+      "CodCatedra": "ENLIB327",
+      "CodSeccion": "01",
+      "NombreCatedra": "FUTBOL I",
+      "Profesores": "JOSE ANTONIO PINO TORRES",
+      "Clases": "1/3 CANCHA FUTBOLIT CAT, 3/3 CANCHA FUTBOLIT CAT",
+      "cod": "ENLIB327",
+      "sección": "01",
+      "profesor": "JOSE ANTONIO PINO TORRES",
+      "nombre_curso": "FUTBOL I",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB327/02",
+      "CodCatedra": "ENLIB327",
+      "CodSeccion": "02",
+      "NombreCatedra": "FUTBOL I",
+      "Profesores": "JOSE ANTONIO PINO TORRES",
+      "Clases": "2/1 CANCHA FUTBOLIT CAT, 4/1 CANCHA FUTBOLIT CAT",
+      "cod": "ENLIB327",
+      "sección": "02",
+      "profesor": "JOSE ANTONIO PINO TORRES",
+      "nombre_curso": "FUTBOL I",
+      "horario": [
+        "CAT: Mar 08:00 - 09:20",
+        "CAT: Jue 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB327/03",
+      "CodCatedra": "ENLIB327",
+      "CodSeccion": "03",
+      "NombreCatedra": "FUTBOL I",
+      "Profesores": "JOSE ANTONIO PINO TORRES",
+      "Clases": "2/3 CANCHA FUTBOLIT CAT, 4/3 CANCHA FUTBOLIT CAT",
+      "cod": "ENLIB327",
+      "sección": "03",
+      "profesor": "JOSE ANTONIO PINO TORRES",
+      "nombre_curso": "FUTBOL I",
+      "horario": [
+        "CAT: Mar 11:00 - 12:20",
+        "CAT: Jue 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB328/01",
+      "CodCatedra": "ENLIB328",
+      "CodSeccion": "01",
+      "NombreCatedra": "FUTSAL VARONES",
+      "Profesores": "JOSE ANTONIO PINO TORRES",
+      "Clases": "1/1 MULTICANCHA CAT, 3/1 MULTICANCHA CAT",
+      "cod": "ENLIB328",
+      "sección": "01",
+      "profesor": "JOSE ANTONIO PINO TORRES",
+      "nombre_curso": "FUTSAL VARONES",
+      "horario": [
+        "CAT: Lun 08:00 - 09:20",
+        "CAT: Mie 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB329/01",
+      "CodCatedra": "ENLIB329",
+      "CodSeccion": "01",
+      "NombreCatedra": "HANDBOL MIXTO  I",
+      "Profesores": "VALENTIN ALEJANDRO ALBORNOZ DUARTE",
+      "Clases": "1/5 MULTICANCHA CAT, 3/5 MULTICANCHA CAT",
+      "cod": "ENLIB329",
+      "sección": "01",
+      "profesor": "VALENTIN ALEJANDRO ALBORNOZ DUARTE",
+      "nombre_curso": "HANDBOL MIXTO  I",
+      "horario": [
+        "CAT: Lun 14:00 - 15:20",
+        "CAT: Mie 14:00 - 15:20"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB340/01",
+      "CodCatedra": "ENLIB340",
+      "CodSeccion": "01",
+      "NombreCatedra": "NATACION MIXTA",
+      "Profesores": "ALVARO ANDRES COVARRUBIAS BASCUÑATE",
+      "Clases": "1/5 PISCINA CAT, 1/6 PISCINA CAT, 3/5 PISCINA CAT, 3/6 PISCINA CAT",
+      "cod": "ENLIB340",
+      "sección": "01",
+      "profesor": "ALVARO ANDRES COVARRUBIAS BASCUÑATE",
+      "nombre_curso": "NATACION MIXTA",
+      "horario": [
+        "CAT: Lun 14:00 - 15:20",
+        "CAT: Lun 15:30 - 16:50",
+        "CAT: Mie 14:00 - 15:20",
+        "CAT: Mie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB341/01",
+      "CodCatedra": "ENLIB341",
+      "CodSeccion": "01",
+      "NombreCatedra": "TAEKWONDO MIXTO",
+      "Profesores": "MARIO GUERRA SALINAS",
+      "Clases": "2/4 SALA 2 MULTIUSO CAT, 4/4 SALA 2 MULTIUSO CAT",
+      "cod": "ENLIB341",
+      "sección": "01",
+      "profesor": "MARIO GUERRA SALINAS",
+      "nombre_curso": "TAEKWONDO MIXTO",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "CAT: Jue 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB342/01",
+      "CodCatedra": "ENLIB342",
+      "CodSeccion": "01",
+      "NombreCatedra": "TENIS DE MESA MIXTO",
+      "Profesores": "MICHEL ANDRES AGUILERA VALDES",
+      "Clases": "1/6 SALA 2 MULTIUSO CAT, 3/6 SALA 2 MULTIUSO CAT",
+      "cod": "ENLIB342",
+      "sección": "01",
+      "profesor": "MICHEL ANDRES AGUILERA VALDES",
+      "nombre_curso": "TENIS DE MESA MIXTO",
+      "horario": [
+        "CAT: Lun 15:30 - 16:50",
+        "CAT: Mie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB343/01",
+      "CodCatedra": "ENLIB343",
+      "CodSeccion": "01",
+      "NombreCatedra": "TENIS MIXTA/O",
+      "Profesores": "RODRIGO ANDRES CASTRO ACEVEDO",
+      "Clases": "2/3 CLUB TENIS FEN CAT, 2/4 CLUB TENIS FEN CAT, 4/3 CLUB TENIS FEN CAT, 4/4 CLUB TENIS FEN CAT",
+      "cod": "ENLIB343",
+      "sección": "01",
+      "profesor": "RODRIGO ANDRES CASTRO ACEVEDO",
+      "nombre_curso": "TENIS MIXTA/O",
+      "horario": [
+        "CAT: Mar 11:00 - 12:20",
+        "CAT: Mar 12:30 - 13:50",
+        "CAT: Jue 11:00 - 12:20",
+        "CAT: Jue 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB344/01",
+      "CodCatedra": "ENLIB344",
+      "CodSeccion": "01",
+      "NombreCatedra": "VOLEIBOL MIXTO",
+      "Profesores": "",
+      "Clases": "2/6 MULTICANCHA CAT, 4/6 MULTICANCHA CAT",
+      "cod": "ENLIB344",
+      "sección": "01",
+      "profesor": "Sin Profesor",
+      "nombre_curso": "VOLEIBOL MIXTO",
+      "horario": [
+        "CAT: Mar 15:30 - 16:50",
+        "CAT: Jue 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB345/01",
+      "CodCatedra": "ENLIB345",
+      "CodSeccion": "01",
+      "NombreCatedra": "ENTRENAMIENTO FUNCIONAL",
+      "Profesores": "OSCAR RENATO ACUÑA BAZAN",
+      "Clases": "1/3 MULTICANCHA CAT, 3/3 MULTICANCHA CAT",
+      "cod": "ENLIB345",
+      "sección": "01",
+      "profesor": "OSCAR RENATO ACUÑA BAZAN",
+      "nombre_curso": "ENTRENAMIENTO FUNCIONAL",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB345/02",
+      "CodCatedra": "ENLIB345",
+      "CodSeccion": "02",
+      "NombreCatedra": "ENTRENAMIENTO FUNCIONAL",
+      "Profesores": "OSCAR RENATO ACUÑA BAZAN",
+      "Clases": "2/4 MULTICANCHA CAT, 4/4 MULTICANCHA CAT",
+      "cod": "ENLIB345",
+      "sección": "02",
+      "profesor": "OSCAR RENATO ACUÑA BAZAN",
+      "nombre_curso": "ENTRENAMIENTO FUNCIONAL",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "CAT: Jue 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB346/01",
+      "CodCatedra": "ENLIB346",
+      "CodSeccion": "01",
+      "NombreCatedra": "BAILES DE SALON VARONES",
+      "Profesores": "SUSANA ISABEL GONZALEZ GONZALEZ",
+      "Clases": "2/6 SALA 2 MULTIUSO CAT, 4/6 SALA 2 MULTIUSO CAT",
+      "cod": "ENLIB346",
+      "sección": "01",
+      "profesor": "SUSANA ISABEL GONZALEZ GONZALEZ",
+      "nombre_curso": "BAILES DE SALON VARONES",
+      "horario": [
+        "CAT: Mar 15:30 - 16:50",
+        "CAT: Jue 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB347/01",
+      "CodCatedra": "ENLIB347",
+      "CodSeccion": "01",
+      "NombreCatedra": "BAILES DE SALON DAMAS",
+      "Profesores": "SUSANA ISABEL GONZALEZ GONZALEZ",
+      "Clases": "2/6 SALA 2 MULTIUSO CAT, 4/6 SALA 2 MULTIUSO CAT",
+      "cod": "ENLIB347",
+      "sección": "01",
+      "profesor": "SUSANA ISABEL GONZALEZ GONZALEZ",
+      "nombre_curso": "BAILES DE SALON DAMAS",
+      "horario": [
+        "CAT: Mar 15:30 - 16:50",
+        "CAT: Jue 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB348/01",
+      "CodCatedra": "ENLIB348",
+      "CodSeccion": "01",
+      "NombreCatedra": "CANTO MIXTO",
+      "Profesores": "AXEL FRANCISCO HOLM KUTSCHER",
+      "Clases": "1/7 2DO PISO CASONA CAT, 3/7 2DO PISO CASONA CAT",
+      "cod": "ENLIB348",
+      "sección": "01",
+      "profesor": "AXEL FRANCISCO HOLM KUTSCHER",
+      "nombre_curso": "CANTO MIXTO",
+      "horario": [
+        "CAT: Lun 17:00 - 18:20",
+        "CAT: Mie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB349/01",
+      "CodCatedra": "ENLIB349",
+      "CodSeccion": "01",
+      "NombreCatedra": "FOTOGRAFÍA BÁSICA MIXTA",
+      "Profesores": "EDGAR ALAN PINTO CAVIEDES",
+      "Clases": "1/4 H-308 CAT, 3/4 H-308 CAT",
+      "cod": "ENLIB349",
+      "sección": "01",
+      "profesor": "EDGAR ALAN PINTO CAVIEDES",
+      "nombre_curso": "FOTOGRAFÍA BÁSICA MIXTA",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "CAT: Mie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB351/01",
+      "CodCatedra": "ENLIB351",
+      "CodSeccion": "01",
+      "NombreCatedra": "YOGA MIXTO",
+      "Profesores": "",
+      "Clases": "1/1 SALA 2 MULTIUSO CAT, 3/1 SALA 2 MULTIUSO CAT",
+      "cod": "ENLIB351",
+      "sección": "01",
+      "profesor": "Sin Profesor",
+      "nombre_curso": "YOGA MIXTO",
+      "horario": [
+        "CAT: Lun 08:00 - 09:20",
+        "CAT: Mie 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB351/02",
+      "CodCatedra": "ENLIB351",
+      "CodSeccion": "02",
+      "NombreCatedra": "YOGA MIXTO",
+      "Profesores": "",
+      "Clases": "1/2 SALA 2 MULTIUSO CAT, 3/2 SALA 2 MULTIUSO CAT",
+      "cod": "ENLIB351",
+      "sección": "02",
+      "profesor": "Sin Profesor",
+      "nombre_curso": "YOGA MIXTO",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "CAT: Mie 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB352/01",
+      "CodCatedra": "ENLIB352",
+      "CodSeccion": "01",
+      "NombreCatedra": "ZUMBA MIXTO",
+      "Profesores": "NATALIA SALAS LETELIER",
+      "Clases": "1/3 SALA 2 MULTIUSO CAT, 3/3 SALA 2 MULTIUSO CAT",
+      "cod": "ENLIB352",
+      "sección": "01",
+      "profesor": "NATALIA SALAS LETELIER",
+      "nombre_curso": "ZUMBA MIXTO",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB352/02",
+      "CodCatedra": "ENLIB352",
+      "CodSeccion": "02",
+      "NombreCatedra": "ZUMBA MIXTO",
+      "Profesores": "NATALIA SALAS LETELIER",
+      "Clases": "2/3 SALA 2 MULTIUSO CAT, 4/3 SALA 2 MULTIUSO CAT",
+      "cod": "ENLIB352",
+      "sección": "02",
+      "profesor": "NATALIA SALAS LETELIER",
+      "nombre_curso": "ZUMBA MIXTO",
+      "horario": [
+        "CAT: Mar 11:00 - 12:20",
+        "CAT: Jue 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB356/01",
+      "CodCatedra": "ENLIB356",
+      "CodSeccion": "01",
+      "NombreCatedra": "FITNESS Y SALUD",
+      "Profesores": "OSCAR RENATO ACUÑA BAZAN",
+      "Clases": "1/4 GIM FEN CAT, 3/4 GIM FEN CAT",
+      "cod": "ENLIB356",
+      "sección": "01",
+      "profesor": "OSCAR RENATO ACUÑA BAZAN",
+      "nombre_curso": "FITNESS Y SALUD",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "CAT: Mie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB356/02",
+      "CodCatedra": "ENLIB356",
+      "CodSeccion": "02",
+      "NombreCatedra": "FITNESS Y SALUD",
+      "Profesores": "OSCAR RENATO ACUÑA BAZAN",
+      "Clases": "2/3 MULTICANCHA CAT, 4/3 MULTICANCHA CAT",
+      "cod": "ENLIB356",
+      "sección": "02",
+      "profesor": "OSCAR RENATO ACUÑA BAZAN",
+      "nombre_curso": "FITNESS Y SALUD",
+      "horario": [
+        "CAT: Mar 11:00 - 12:20",
+        "CAT: Jue 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB357/01",
+      "CodCatedra": "ENLIB357",
+      "CodSeccion": "01",
+      "NombreCatedra": "CHI KUNG",
+      "Profesores": "MARIA VICTORIA CUMAR VALDES",
+      "Clases": "2/2 SALA 2 MULTIUSO CAT, 4/2 SALA 2 MULTIUSO CAT",
+      "cod": "ENLIB357",
+      "sección": "01",
+      "profesor": "MARIA VICTORIA CUMAR VALDES",
+      "nombre_curso": "CHI KUNG",
+      "horario": [
+        "CAT: Mar 09:30 - 10:50",
+        "CAT: Jue 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENLIB400/00",
+      "CodCatedra": "ENLIB400",
+      "CodSeccion": "00",
+      "NombreCatedra": "LIBRE IV",
+      "Profesores": "",
+      "Clases": "",
+      "cod": "ENLIB400",
+      "sección": "00",
+      "profesor": "Sin Profesor",
+      "nombre_curso": "LIBRE IV",
+      "horario": [
+        "Sin horario"
+      ]
+    },
+    {
+      "IdCurso": "ENMAC205/01",
+      "CodCatedra": "ENMAC205",
+      "CodSeccion": "01",
+      "NombreCatedra": "INTRODUCCION A LA MACROECONOMIA",
+      "Profesores": "EUGENIA PAULA ANDREASEN , HUMBERTO MARTÍNEZ BELTRÁN",
+      "Clases": "2/3  CAT, 4/3  CAT, 4/7  AYU",
+      "cod": "ENMAC205",
+      "sección": "01",
+      "profesor": "EUGENIA PAULA ANDREASEN , HUMBERTO MARTÍNEZ BELTRÁN",
+      "nombre_curso": "INTRODUCCION A LA MACROECONOMIA",
+      "horario": [
+        "CAT: Mar 11:00 - 12:20",
+        "CAT: Jue 11:00 - 12:20",
+        "AYU: Jue 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMAC205/02",
+      "CodCatedra": "ENMAC205",
+      "CodSeccion": "02",
+      "NombreCatedra": "INTRODUCCION A LA MACROECONOMIA",
+      "Profesores": "EUGENIA PAULA ANDREASEN , HUMBERTO MARTÍNEZ BELTRÁN",
+      "Clases": "2/4  CAT, 4/4  CAT, 4/7  AYU",
+      "cod": "ENMAC205",
+      "sección": "02",
+      "profesor": "EUGENIA PAULA ANDREASEN , HUMBERTO MARTÍNEZ BELTRÁN",
+      "nombre_curso": "INTRODUCCION A LA MACROECONOMIA",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "CAT: Jue 12:30 - 13:50",
+        "AYU: Jue 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMAC305/01",
+      "CodCatedra": "ENMAC305",
+      "CodSeccion": "01",
+      "NombreCatedra": "MACROECONOMIA I",
+      "Profesores": "CARLOS YESID RONDON MORENO",
+      "Clases": "1/1  CAT, 3/1  CAT, 4/7  AYU",
+      "cod": "ENMAC305",
+      "sección": "01",
+      "profesor": "CARLOS YESID RONDON MORENO",
+      "nombre_curso": "MACROECONOMIA I",
+      "horario": [
+        "CAT: Lun 08:00 - 09:20",
+        "CAT: Mie 08:00 - 09:20",
+        "AYU: Jue 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMAC355/02",
+      "CodCatedra": "ENMAC355",
+      "CodSeccion": "02",
+      "NombreCatedra": "MACROECONOMÍA II",
+      "Profesores": "NICOLAS EYZAGUIRRE GUZMAN",
+      "Clases": "1/2  CAT, 1/7  AYU, 3/2  CAT",
+      "cod": "ENMAC355",
+      "sección": "02",
+      "profesor": "NICOLAS EYZAGUIRRE GUZMAN",
+      "nombre_curso": "MACROECONOMÍA II",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "AYU: Lun 17:00 - 18:20",
+        "CAT: Mie 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMAC355/01",
+      "CodCatedra": "ENMAC355",
+      "CodSeccion": "01",
+      "NombreCatedra": "MACROECONOMÍA II",
+      "Profesores": "LUIS FELIPE CÉSPEDES CIFUENTES",
+      "Clases": "1/7  AYU, 2/1  CAT, 4/1  CAT",
+      "cod": "ENMAC355",
+      "sección": "01",
+      "profesor": "LUIS FELIPE CÉSPEDES CIFUENTES",
+      "nombre_curso": "MACROECONOMÍA II",
+      "horario": [
+        "AYU: Lun 17:00 - 18:20",
+        "CAT: Mar 08:00 - 09:20",
+        "CAT: Jue 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMAC405/01",
+      "CodCatedra": "ENMAC405",
+      "CodSeccion": "01",
+      "NombreCatedra": "MACROECONOMÍA III",
+      "Profesores": "ALEJANDRO JAVIER MICCO AGUAYO",
+      "Clases": "1/2  CAT, 3/2  CAT, 5/3  AYU",
+      "cod": "ENMAC405",
+      "sección": "01",
+      "profesor": "ALEJANDRO JAVIER MICCO AGUAYO",
+      "nombre_curso": "MACROECONOMÍA III",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "CAT: Mie 09:30 - 10:50",
+        "AYU: Vie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMAC455/01",
+      "CodCatedra": "ENMAC455",
+      "CodSeccion": "01",
+      "NombreCatedra": "MACROECONOMÍA IV",
+      "Profesores": "ROBERTO JAIME ALVAREZ ESPINOZA",
+      "Clases": "1/5  CAT, 3/5  CAT, 5/7  AYU",
+      "cod": "ENMAC455",
+      "sección": "01",
+      "profesor": "ROBERTO JAIME ALVAREZ ESPINOZA",
+      "nombre_curso": "MACROECONOMÍA IV",
+      "horario": [
+        "CAT: Lun 14:00 - 15:20",
+        "CAT: Mie 14:00 - 15:20",
+        "AYU: Vie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMAC455/02",
+      "CodCatedra": "ENMAC455",
+      "CodSeccion": "02",
+      "NombreCatedra": "MACROECONOMÍA IV",
+      "Profesores": "SANTIAGO GONZALO SANDOVAL VINELLI",
+      "Clases": "2/2  CAT, 4/2  CAT, 5/7  AYU",
+      "cod": "ENMAC455",
+      "sección": "02",
+      "profesor": "SANTIAGO GONZALO SANDOVAL VINELLI",
+      "nombre_curso": "MACROECONOMÍA IV",
+      "horario": [
+        "CAT: Mar 09:30 - 10:50",
+        "CAT: Jue 09:30 - 10:50",
+        "AYU: Vie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMAN629/01",
+      "CodCatedra": "ENMAN629",
+      "CodSeccion": "01",
+      "NombreCatedra": "LIDERAZGO ORGANIZACIONAL",
+      "Profesores": "ALEJANDRA ISABEL NUÑEZ CARBULLANCA, JOSE TOMAS SAFFIRIO MEZZANO",
+      "Clases": "2/6  CAT, 2/7  CAT",
+      "cod": "ENMAN629",
+      "sección": "01",
+      "profesor": "ALEJANDRA ISABEL NUÑEZ CARBULLANCA, JOSE TOMAS SAFFIRIO MEZZANO",
+      "nombre_curso": "LIDERAZGO ORGANIZACIONAL",
+      "horario": [
+        "CAT: Mar 15:30 - 16:50",
+        "CAT: Mar 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMAN676/01",
+      "CodCatedra": "ENMAN676",
+      "CodSeccion": "01",
+      "NombreCatedra": "ANÁLISIS CRÍTICO DE LA GESTIÓN ORGANIZACIONAL",
+      "Profesores": "FRANCISCO JAVIER VALENZUELA DIAZ",
+      "Clases": "4/6  CAT, 4/7  CAT",
+      "cod": "ENMAN676",
+      "sección": "01",
+      "profesor": "FRANCISCO JAVIER VALENZUELA DIAZ",
+      "nombre_curso": "ANÁLISIS CRÍTICO DE LA GESTIÓN ORGANIZACIONAL",
+      "horario": [
+        "CAT: Jue 15:30 - 16:50",
+        "CAT: Jue 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMAN677/01",
+      "CodCatedra": "ENMAN677",
+      "CodSeccion": "01",
+      "NombreCatedra": "PLANIFICACIÓN Y TOMA DE DECISIONES ESTRATÉGICAS EN GESTIÓN DE PERSONAS",
+      "Profesores": "ROBERTO JOSÉ CARVALHO ",
+      "Clases": "1/6  CAT, 1/7  CAT",
+      "cod": "ENMAN677",
+      "sección": "01",
+      "profesor": "ROBERTO JOSÉ CARVALHO ",
+      "nombre_curso": "PLANIFICACIÓN Y TOMA DE DECISIONES ESTRATÉGICAS EN GESTIÓN DE PERSONAS",
+      "horario": [
+        "CAT: Lun 15:30 - 16:50",
+        "CAT: Lun 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMAN740/01",
+      "CodCatedra": "ENMAN740",
+      "CodSeccion": "01",
+      "NombreCatedra": "INVESTIGACIÓN ACCIÓN II",
+      "Profesores": "FRANCISCO JAVIER VALENZUELA DIAZ, LYONEL LAULIE CERDA, MATIAS MOISES SANFUENTES ASTABURUAGA, PEDRO IGNACIO LEIVA NEUENSCHWANDER, ROBERTO JOSÉ CARVALHO , SEBASTIAN MAURICIO UGARTE GÓMEZ, VALENTINA GABRIELA REYES AHUMADA",
+      "Clases": "3/6  CAT, 3/7  CAT",
+      "cod": "ENMAN740",
+      "sección": "01",
+      "profesor": "FRANCISCO JAVIER VALENZUELA DIAZ, LYONEL LAULIE CERDA, MATIAS MOISES SANFUENTES ASTABURUAGA, PEDRO IGNACIO LEIVA NEUENSCHWANDER, ROBERTO JOSÉ CARVALHO , SEBASTIAN MAURICIO UGARTE GÓMEZ, VALENTINA GABRIELA REYES AHUMADA",
+      "nombre_curso": "INVESTIGACIÓN ACCIÓN II",
+      "horario": [
+        "CAT: Mie 15:30 - 16:50",
+        "CAT: Mie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMEC300/02",
+      "CodCatedra": "ENMEC300",
+      "CodSeccion": "02",
+      "NombreCatedra": "MÉTODOS CUANTITATIVOS I",
+      "Profesores": "JORGE ANTONIO SEPÚLVEDA VELÁSQUEZ",
+      "Clases": "1/1  CAT, 3/1  CAT, 5/3  AYU",
+      "cod": "ENMEC300",
+      "sección": "02",
+      "profesor": "JORGE ANTONIO SEPÚLVEDA VELÁSQUEZ",
+      "nombre_curso": "MÉTODOS CUANTITATIVOS I",
+      "horario": [
+        "CAT: Lun 08:00 - 09:20",
+        "CAT: Mie 08:00 - 09:20",
+        "AYU: Vie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMEC300/01",
+      "CodCatedra": "ENMEC300",
+      "CodSeccion": "01",
+      "NombreCatedra": "MÉTODOS CUANTITATIVOS I",
+      "Profesores": "PABLO EDUARDO TAPIA GRIÑEN",
+      "Clases": "1/3  CAT, 3/3  CAT, 5/3  AYU",
+      "cod": "ENMEC300",
+      "sección": "01",
+      "profesor": "PABLO EDUARDO TAPIA GRIÑEN",
+      "nombre_curso": "MÉTODOS CUANTITATIVOS I",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20",
+        "AYU: Vie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMEC300/03",
+      "CodCatedra": "ENMEC300",
+      "CodSeccion": "03",
+      "NombreCatedra": "MÉTODOS CUANTITATIVOS I",
+      "Profesores": "JORGE ANTONIO SEPÚLVEDA VELÁSQUEZ",
+      "Clases": "2/2  CAT, 4/2  CAT, 5/3  AYU",
+      "cod": "ENMEC300",
+      "sección": "03",
+      "profesor": "JORGE ANTONIO SEPÚLVEDA VELÁSQUEZ",
+      "nombre_curso": "MÉTODOS CUANTITATIVOS I",
+      "horario": [
+        "CAT: Mar 09:30 - 10:50",
+        "CAT: Jue 09:30 - 10:50",
+        "AYU: Vie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMEC305/01",
+      "CodCatedra": "ENMEC305",
+      "CodSeccion": "01",
+      "NombreCatedra": "ECONOMETRÍA APLICADA",
+      "Profesores": "VALENTINA AMANDA PAREDES HAZ",
+      "Clases": "1/5  CAT, 2/7  AYU, 3/5  CAT",
+      "cod": "ENMEC305",
+      "sección": "01",
+      "profesor": "VALENTINA AMANDA PAREDES HAZ",
+      "nombre_curso": "ECONOMETRÍA APLICADA",
+      "horario": [
+        "CAT: Lun 14:00 - 15:20",
+        "AYU: Mar 17:00 - 18:20",
+        "CAT: Mie 14:00 - 15:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMEC310/01",
+      "CodCatedra": "ENMEC310",
+      "CodSeccion": "01",
+      "NombreCatedra": "ECONOMETRÍA APLICADA",
+      "Profesores": "JAVIER CORTÉS ORIHUELA",
+      "Clases": "1/3  CAT, 2/8  AYU, 3/3  CAT",
+      "cod": "ENMEC310",
+      "sección": "01",
+      "profesor": "JAVIER CORTÉS ORIHUELA",
+      "nombre_curso": "ECONOMETRÍA APLICADA",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "AYU: Mar 18:30 - 19:50",
+        "CAT: Mie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMEC350/01",
+      "CodCatedra": "ENMEC350",
+      "CodSeccion": "01",
+      "NombreCatedra": "METODOS CUANTITATIVOS II",
+      "Profesores": "ANDRES GUSTAVO SAGNER TAPIA",
+      "Clases": "1/1  CAT, 2/7  AYU, 3/1  CAT",
+      "cod": "ENMEC350",
+      "sección": "01",
+      "profesor": "ANDRES GUSTAVO SAGNER TAPIA",
+      "nombre_curso": "METODOS CUANTITATIVOS II",
+      "horario": [
+        "CAT: Lun 08:00 - 09:20",
+        "AYU: Mar 17:00 - 18:20",
+        "CAT: Mie 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMEC350/02",
+      "CodCatedra": "ENMEC350",
+      "CodSeccion": "02",
+      "NombreCatedra": "METODOS CUANTITATIVOS II",
+      "Profesores": "VALENTINA AMANDA PAREDES HAZ",
+      "Clases": "1/4  CAT, 2/7  AYU, 3/4  CAT",
+      "cod": "ENMEC350",
+      "sección": "02",
+      "profesor": "VALENTINA AMANDA PAREDES HAZ",
+      "nombre_curso": "METODOS CUANTITATIVOS II",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "AYU: Mar 17:00 - 18:20",
+        "CAT: Mie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMEM105/03",
+      "CodCatedra": "ENMEM105",
+      "CodSeccion": "03",
+      "NombreCatedra": "METODOS MATEMATICOS I ",
+      "Profesores": "HUMBERTO CIPRIANO ZAMORANO",
+      "Clases": "1/3  CAT, 3/3  CAT, 5/1  AYU, 6/2  AYU",
+      "cod": "ENMEM105",
+      "sección": "03",
+      "profesor": "HUMBERTO CIPRIANO ZAMORANO",
+      "nombre_curso": "METODOS MATEMATICOS I ",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20",
+        "AYU: Vie 08:00 - 09:20",
+        "AYU: Sab 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMEM105/01",
+      "CodCatedra": "ENMEM105",
+      "CodSeccion": "01",
+      "NombreCatedra": "METODOS MATEMATICOS I ",
+      "Profesores": "HUMBERTO CIPRIANO ZAMORANO",
+      "Clases": "2/3  CAT, 4/3  CAT, 5/1  AYU, 6/2  AYU",
+      "cod": "ENMEM105",
+      "sección": "01",
+      "profesor": "HUMBERTO CIPRIANO ZAMORANO",
+      "nombre_curso": "METODOS MATEMATICOS I ",
+      "horario": [
+        "CAT: Mar 11:00 - 12:20",
+        "CAT: Jue 11:00 - 12:20",
+        "AYU: Vie 08:00 - 09:20",
+        "AYU: Sab 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMEM105/02",
+      "CodCatedra": "ENMEM105",
+      "CodSeccion": "02",
+      "NombreCatedra": "METODOS MATEMATICOS I ",
+      "Profesores": "JAIME EMERIC PALMA CUEVAS",
+      "Clases": "2/4  CAT, 4/4  CAT, 5/1  AYU, 6/2  AYU",
+      "cod": "ENMEM105",
+      "sección": "02",
+      "profesor": "JAIME EMERIC PALMA CUEVAS",
+      "nombre_curso": "METODOS MATEMATICOS I ",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "CAT: Jue 12:30 - 13:50",
+        "AYU: Vie 08:00 - 09:20",
+        "AYU: Sab 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMEM155/01",
+      "CodCatedra": "ENMEM155",
+      "CodSeccion": "01",
+      "NombreCatedra": "METODOS MATEMATICOS II",
+      "Profesores": "ALFREDO NICOLÁS PARRA ROSALES",
+      "Clases": "1/1  CAT, 3/1  CAT, 5/1  AYU, 6/2  AYU",
+      "cod": "ENMEM155",
+      "sección": "01",
+      "profesor": "ALFREDO NICOLÁS PARRA ROSALES",
+      "nombre_curso": "METODOS MATEMATICOS II",
+      "horario": [
+        "CAT: Lun 08:00 - 09:20",
+        "CAT: Mie 08:00 - 09:20",
+        "AYU: Vie 08:00 - 09:20",
+        "AYU: Sab 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMEM155/03",
+      "CodCatedra": "ENMEM155",
+      "CodSeccion": "03",
+      "NombreCatedra": "METODOS MATEMATICOS II",
+      "Profesores": "FABIAN ROLANDO DUARTE VASQUEZ",
+      "Clases": "1/3  CAT, 3/3  CAT, 5/1  AYU, 6/2  AYU",
+      "cod": "ENMEM155",
+      "sección": "03",
+      "profesor": "FABIAN ROLANDO DUARTE VASQUEZ",
+      "nombre_curso": "METODOS MATEMATICOS II",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20",
+        "AYU: Vie 08:00 - 09:20",
+        "AYU: Sab 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMEM155/05",
+      "CodCatedra": "ENMEM155",
+      "CodSeccion": "05",
+      "NombreCatedra": "METODOS MATEMATICOS II",
+      "Profesores": "HUMBERTO CIPRIANO ZAMORANO",
+      "Clases": "1/4  CAT, 3/4  CAT, 5/1  AYU, 6/2  AYU",
+      "cod": "ENMEM155",
+      "sección": "05",
+      "profesor": "HUMBERTO CIPRIANO ZAMORANO",
+      "nombre_curso": "METODOS MATEMATICOS II",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "CAT: Mie 12:30 - 13:50",
+        "AYU: Vie 08:00 - 09:20",
+        "AYU: Sab 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMEM155/02",
+      "CodCatedra": "ENMEM155",
+      "CodSeccion": "02",
+      "NombreCatedra": "METODOS MATEMATICOS II",
+      "Profesores": "JORGE RIVERA CAYUPI",
+      "Clases": "2/2  CAT, 4/2  CAT, 5/1  AYU, 6/2  AYU",
+      "cod": "ENMEM155",
+      "sección": "02",
+      "profesor": "JORGE RIVERA CAYUPI",
+      "nombre_curso": "METODOS MATEMATICOS II",
+      "horario": [
+        "CAT: Mar 09:30 - 10:50",
+        "CAT: Jue 09:30 - 10:50",
+        "AYU: Vie 08:00 - 09:20",
+        "AYU: Sab 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMEM155/04",
+      "CodCatedra": "ENMEM155",
+      "CodSeccion": "04",
+      "NombreCatedra": "METODOS MATEMATICOS II",
+      "Profesores": "JUAN PABLO TORRES MARTÍNEZ",
+      "Clases": "2/3  CAT, 4/3  CAT, 5/1  AYU, 6/2  AYU",
+      "cod": "ENMEM155",
+      "sección": "04",
+      "profesor": "JUAN PABLO TORRES MARTÍNEZ",
+      "nombre_curso": "METODOS MATEMATICOS II",
+      "horario": [
+        "CAT: Mar 11:00 - 12:20",
+        "CAT: Jue 11:00 - 12:20",
+        "AYU: Vie 08:00 - 09:20",
+        "AYU: Sab 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMEM155/06",
+      "CodCatedra": "ENMEM155",
+      "CodSeccion": "06",
+      "NombreCatedra": "METODOS MATEMATICOS II",
+      "Profesores": "AXEL RODRIGO VASQUEZ RIOS, MAXIMO AUGUSTO LIRA MEDINA",
+      "Clases": "2/4  CAT, 4/4  CAT, 5/1  AYU, 6/2  AYU",
+      "cod": "ENMEM155",
+      "sección": "06",
+      "profesor": "AXEL RODRIGO VASQUEZ RIOS, MAXIMO AUGUSTO LIRA MEDINA",
+      "nombre_curso": "METODOS MATEMATICOS II",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "CAT: Jue 12:30 - 13:50",
+        "AYU: Vie 08:00 - 09:20",
+        "AYU: Sab 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMEM205/02",
+      "CodCatedra": "ENMEM205",
+      "CodSeccion": "02",
+      "NombreCatedra": "METODOS MATEMATICOS III",
+      "Profesores": "AXEL RODRIGO VASQUEZ RIOS",
+      "Clases": "1/6  CAT, 3/6  CAT, 5/1  AYU, 6/4  AYU",
+      "cod": "ENMEM205",
+      "sección": "02",
+      "profesor": "AXEL RODRIGO VASQUEZ RIOS",
+      "nombre_curso": "METODOS MATEMATICOS III",
+      "horario": [
+        "CAT: Lun 15:30 - 16:50",
+        "CAT: Mie 15:30 - 16:50",
+        "AYU: Vie 08:00 - 09:20",
+        "AYU: Sab 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMEM205/01",
+      "CodCatedra": "ENMEM205",
+      "CodSeccion": "01",
+      "NombreCatedra": "METODOS MATEMATICOS III",
+      "Profesores": "HUMBERTO CIPRIANO ZAMORANO",
+      "Clases": "2/2  CAT, 4/2  CAT, 5/1  AYU, 6/3  AYU",
+      "cod": "ENMEM205",
+      "sección": "01",
+      "profesor": "HUMBERTO CIPRIANO ZAMORANO",
+      "nombre_curso": "METODOS MATEMATICOS III",
+      "horario": [
+        "CAT: Mar 09:30 - 10:50",
+        "CAT: Jue 09:30 - 10:50",
+        "AYU: Vie 08:00 - 09:20",
+        "AYU: Sab 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMEM250/07",
+      "CodCatedra": "ENMEM250",
+      "CodSeccion": "07",
+      "NombreCatedra": "METODOS MATEMATICOS AVANZADOS",
+      "Profesores": "ALFREDO NICOLÁS PARRA ROSALES",
+      "Clases": "1/2  CAT, 3/2  CAT, 5/1  AYU, 6/3  AYU",
+      "cod": "ENMEM250",
+      "sección": "07",
+      "profesor": "ALFREDO NICOLÁS PARRA ROSALES",
+      "nombre_curso": "METODOS MATEMATICOS AVANZADOS",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "CAT: Mie 09:30 - 10:50",
+        "AYU: Vie 08:00 - 09:20",
+        "AYU: Sab 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMEM250/08",
+      "CodCatedra": "ENMEM250",
+      "CodSeccion": "08",
+      "NombreCatedra": "METODOS MATEMATICOS AVANZADOS",
+      "Profesores": "AXEL RODRIGO VASQUEZ RIOS",
+      "Clases": "1/4  CAT, 3/4  CAT, 5/1  AYU, 6/3  AYU",
+      "cod": "ENMEM250",
+      "sección": "08",
+      "profesor": "AXEL RODRIGO VASQUEZ RIOS",
+      "nombre_curso": "METODOS MATEMATICOS AVANZADOS",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "CAT: Mie 12:30 - 13:50",
+        "AYU: Vie 08:00 - 09:20",
+        "AYU: Sab 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMEM250/03",
+      "CodCatedra": "ENMEM250",
+      "CodSeccion": "03",
+      "NombreCatedra": "METODOS MATEMATICOS AVANZADOS",
+      "Profesores": "AXEL RODRIGO VASQUEZ RIOS",
+      "Clases": "1/5  CAT, 3/5  CAT, 5/1  AYU, 6/3  AYU",
+      "cod": "ENMEM250",
+      "sección": "03",
+      "profesor": "AXEL RODRIGO VASQUEZ RIOS",
+      "nombre_curso": "METODOS MATEMATICOS AVANZADOS",
+      "horario": [
+        "CAT: Lun 14:00 - 15:20",
+        "CAT: Mie 14:00 - 15:20",
+        "AYU: Vie 08:00 - 09:20",
+        "AYU: Sab 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMEM250/06",
+      "CodCatedra": "ENMEM250",
+      "CodSeccion": "06",
+      "NombreCatedra": "METODOS MATEMATICOS AVANZADOS",
+      "Profesores": "FERNANDO PIZARRO MODESTI",
+      "Clases": "1/6  CAT, 3/6  CAT, 5/1  AYU, 6/3  AYU",
+      "cod": "ENMEM250",
+      "sección": "06",
+      "profesor": "FERNANDO PIZARRO MODESTI",
+      "nombre_curso": "METODOS MATEMATICOS AVANZADOS",
+      "horario": [
+        "CAT: Lun 15:30 - 16:50",
+        "CAT: Mie 15:30 - 16:50",
+        "AYU: Vie 08:00 - 09:20",
+        "AYU: Sab 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMEM250/04",
+      "CodCatedra": "ENMEM250",
+      "CodSeccion": "04",
+      "NombreCatedra": "METODOS MATEMATICOS AVANZADOS",
+      "Profesores": "MAXIMO AUGUSTO LIRA MEDINA",
+      "Clases": "2/3  CAT, 4/3  CAT, 5/1  AYU, 6/3  AYU",
+      "cod": "ENMEM250",
+      "sección": "04",
+      "profesor": "MAXIMO AUGUSTO LIRA MEDINA",
+      "nombre_curso": "METODOS MATEMATICOS AVANZADOS",
+      "horario": [
+        "CAT: Mar 11:00 - 12:20",
+        "CAT: Jue 11:00 - 12:20",
+        "AYU: Vie 08:00 - 09:20",
+        "AYU: Sab 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMEM250/01",
+      "CodCatedra": "ENMEM250",
+      "CodSeccion": "01",
+      "NombreCatedra": "METODOS MATEMATICOS AVANZADOS",
+      "Profesores": "HUMBERTO CIPRIANO ZAMORANO",
+      "Clases": "2/4  CAT, 4/4  CAT, 5/1  AYU, 6/3  AYU",
+      "cod": "ENMEM250",
+      "sección": "01",
+      "profesor": "HUMBERTO CIPRIANO ZAMORANO",
+      "nombre_curso": "METODOS MATEMATICOS AVANZADOS",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "CAT: Jue 12:30 - 13:50",
+        "AYU: Vie 08:00 - 09:20",
+        "AYU: Sab 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMEM250/05",
+      "CodCatedra": "ENMEM250",
+      "CodSeccion": "05",
+      "NombreCatedra": "METODOS MATEMATICOS AVANZADOS",
+      "Profesores": "FABIAN ROLANDO DUARTE VASQUEZ",
+      "Clases": "2/4  CAT, 4/4  CAT, 5/1  AYU, 6/3  AYU",
+      "cod": "ENMEM250",
+      "sección": "05",
+      "profesor": "FABIAN ROLANDO DUARTE VASQUEZ",
+      "nombre_curso": "METODOS MATEMATICOS AVANZADOS",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "CAT: Jue 12:30 - 13:50",
+        "AYU: Vie 08:00 - 09:20",
+        "AYU: Sab 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMEM250/02",
+      "CodCatedra": "ENMEM250",
+      "CodSeccion": "02",
+      "NombreCatedra": "METODOS MATEMATICOS AVANZADOS",
+      "Profesores": "HUMBERTO CIPRIANO ZAMORANO",
+      "Clases": "2/6  CAT, 4/6  CAT, 5/1  AYU, 6/3  AYU",
+      "cod": "ENMEM250",
+      "sección": "02",
+      "profesor": "HUMBERTO CIPRIANO ZAMORANO",
+      "nombre_curso": "METODOS MATEMATICOS AVANZADOS",
+      "horario": [
+        "CAT: Mar 15:30 - 16:50",
+        "CAT: Jue 15:30 - 16:50",
+        "AYU: Vie 08:00 - 09:20",
+        "AYU: Sab 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMES155/01",
+      "CodCatedra": "ENMES155",
+      "CodSeccion": "01",
+      "NombreCatedra": "ESTADÍSTICA I",
+      "Profesores": "JAVIER CORTÉS ORIHUELA",
+      "Clases": "1/1  CAT, 3/1  CAT, 5/3  AYU",
+      "cod": "ENMES155",
+      "sección": "01",
+      "profesor": "JAVIER CORTÉS ORIHUELA",
+      "nombre_curso": "ESTADÍSTICA I",
+      "horario": [
+        "CAT: Lun 08:00 - 09:20",
+        "CAT: Mie 08:00 - 09:20",
+        "AYU: Vie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMES155/02",
+      "CodCatedra": "ENMES155",
+      "CodSeccion": "02",
+      "NombreCatedra": "ESTADÍSTICA I",
+      "Profesores": "JAVIER CORTÉS ORIHUELA",
+      "Clases": "1/2  CAT, 3/2  CAT, 5/3  AYU",
+      "cod": "ENMES155",
+      "sección": "02",
+      "profesor": "JAVIER CORTÉS ORIHUELA",
+      "nombre_curso": "ESTADÍSTICA I",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "CAT: Mie 09:30 - 10:50",
+        "AYU: Vie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMES155/03",
+      "CodCatedra": "ENMES155",
+      "CodSeccion": "03",
+      "NombreCatedra": "ESTADÍSTICA I",
+      "Profesores": "VÍCTOR MANUEL MARTÍNEZ CAMARA",
+      "Clases": "1/6  CAT, 3/6  CAT, 5/3  AYU",
+      "cod": "ENMES155",
+      "sección": "03",
+      "profesor": "VÍCTOR MANUEL MARTÍNEZ CAMARA",
+      "nombre_curso": "ESTADÍSTICA I",
+      "horario": [
+        "CAT: Lun 15:30 - 16:50",
+        "CAT: Mie 15:30 - 16:50",
+        "AYU: Vie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMES250/06",
+      "CodCatedra": "ENMES250",
+      "CodSeccion": "06",
+      "NombreCatedra": "ANÁLISIS DE DATOS",
+      "Profesores": "PABLO FELIPE BARROS HERRERA",
+      "Clases": "1/1  CAT, 3/1  CAT, 5/2  AYU",
+      "cod": "ENMES250",
+      "sección": "06",
+      "profesor": "PABLO FELIPE BARROS HERRERA",
+      "nombre_curso": "ANÁLISIS DE DATOS",
+      "horario": [
+        "CAT: Lun 08:00 - 09:20",
+        "CAT: Mie 08:00 - 09:20",
+        "AYU: Vie 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMES250/01",
+      "CodCatedra": "ENMES250",
+      "CodSeccion": "01",
+      "NombreCatedra": "ANÁLISIS DE DATOS",
+      "Profesores": "EDUARDO MARTIN RODOLFO A. ENGEL GOETZ, JUAN DANIEL DÍAZ MAUREIRA",
+      "Clases": "1/2  CAT, 3/2  CAT, 5/2  AYU",
+      "cod": "ENMES250",
+      "sección": "01",
+      "profesor": "EDUARDO MARTIN RODOLFO A. ENGEL GOETZ, JUAN DANIEL DÍAZ MAUREIRA",
+      "nombre_curso": "ANÁLISIS DE DATOS",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "CAT: Mie 09:30 - 10:50",
+        "AYU: Vie 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMES250/05",
+      "CodCatedra": "ENMES250",
+      "CodSeccion": "05",
+      "NombreCatedra": "ANÁLISIS DE DATOS",
+      "Profesores": "TOMÁS ESTEBAN CORTÉS PACHECO",
+      "Clases": "1/2  CAT, 3/2  CAT, 5/2  AYU",
+      "cod": "ENMES250",
+      "sección": "05",
+      "profesor": "TOMÁS ESTEBAN CORTÉS PACHECO",
+      "nombre_curso": "ANÁLISIS DE DATOS",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "CAT: Mie 09:30 - 10:50",
+        "AYU: Vie 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMES250/07",
+      "CodCatedra": "ENMES250",
+      "CodSeccion": "07",
+      "NombreCatedra": "ANÁLISIS DE DATOS",
+      "Profesores": "PABLO FELIPE BARROS HERRERA",
+      "Clases": "1/2  CAT, 3/2  CAT, 5/2  AYU",
+      "cod": "ENMES250",
+      "sección": "07",
+      "profesor": "PABLO FELIPE BARROS HERRERA",
+      "nombre_curso": "ANÁLISIS DE DATOS",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "CAT: Mie 09:30 - 10:50",
+        "AYU: Vie 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMES250/02",
+      "CodCatedra": "ENMES250",
+      "CodSeccion": "02",
+      "NombreCatedra": "ANÁLISIS DE DATOS",
+      "Profesores": "EDUARDO MARTIN RODOLFO A. ENGEL GOETZ, JUAN DANIEL DÍAZ MAUREIRA",
+      "Clases": "1/3  CAT, 3/3  CAT, 5/2  AYU",
+      "cod": "ENMES250",
+      "sección": "02",
+      "profesor": "EDUARDO MARTIN RODOLFO A. ENGEL GOETZ, JUAN DANIEL DÍAZ MAUREIRA",
+      "nombre_curso": "ANÁLISIS DE DATOS",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20",
+        "AYU: Vie 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMES250/03",
+      "CodCatedra": "ENMES250",
+      "CodSeccion": "03",
+      "NombreCatedra": "ANÁLISIS DE DATOS",
+      "Profesores": "ESTEBAN ENRIQUE PUENTES ENCINA",
+      "Clases": "1/3  CAT, 3/3  CAT, 5/2  AYU",
+      "cod": "ENMES250",
+      "sección": "03",
+      "profesor": "ESTEBAN ENRIQUE PUENTES ENCINA",
+      "nombre_curso": "ANÁLISIS DE DATOS",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20",
+        "AYU: Vie 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMES250/04",
+      "CodCatedra": "ENMES250",
+      "CodSeccion": "04",
+      "NombreCatedra": "ANÁLISIS DE DATOS",
+      "Profesores": "ESTEBAN ENRIQUE PUENTES ENCINA",
+      "Clases": "1/4  CAT, 3/4  CAT, 5/2  AYU",
+      "cod": "ENMES250",
+      "sección": "04",
+      "profesor": "ESTEBAN ENRIQUE PUENTES ENCINA",
+      "nombre_curso": "ANÁLISIS DE DATOS",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "CAT: Mie 12:30 - 13:50",
+        "AYU: Vie 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMIC155/01",
+      "CodCatedra": "ENMIC155",
+      "CodSeccion": "01",
+      "NombreCatedra": "INTRO. MICROECONOMIA / INTRO.TEO.PRECIOS",
+      "Profesores": "ADRIANA PIAZZA CHIFFLET",
+      "Clases": "1/3  CAT, 3/3  CAT, 5/4  AYU",
+      "cod": "ENMIC155",
+      "sección": "01",
+      "profesor": "ADRIANA PIAZZA CHIFFLET",
+      "nombre_curso": "INTRO. MICROECONOMIA / INTRO.TEO.PRECIOS",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20",
+        "AYU: Vie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMIC155/03",
+      "CodCatedra": "ENMIC155",
+      "CodSeccion": "03",
+      "NombreCatedra": "INTRO. MICROECONOMIA / INTRO.TEO.PRECIOS",
+      "Profesores": "ANDRES GOMEZ-LOBO ECHENIQUE",
+      "Clases": "1/3  CAT, 3/3  CAT, 5/4  AYU",
+      "cod": "ENMIC155",
+      "sección": "03",
+      "profesor": "ANDRES GOMEZ-LOBO ECHENIQUE",
+      "nombre_curso": "INTRO. MICROECONOMIA / INTRO.TEO.PRECIOS",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20",
+        "AYU: Vie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMIC155/04",
+      "CodCatedra": "ENMIC155",
+      "CodSeccion": "04",
+      "NombreCatedra": "INTRO. MICROECONOMIA / INTRO.TEO.PRECIOS",
+      "Profesores": "ANDRES GOMEZ-LOBO ECHENIQUE",
+      "Clases": "1/4  CAT, 3/4  CAT, 5/4  AYU",
+      "cod": "ENMIC155",
+      "sección": "04",
+      "profesor": "ANDRES GOMEZ-LOBO ECHENIQUE",
+      "nombre_curso": "INTRO. MICROECONOMIA / INTRO.TEO.PRECIOS",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "CAT: Mie 12:30 - 13:50",
+        "AYU: Vie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMIC155/02",
+      "CodCatedra": "ENMIC155",
+      "CodSeccion": "02",
+      "NombreCatedra": "INTRO. MICROECONOMIA / INTRO.TEO.PRECIOS",
+      "Profesores": "ADRIANA PIAZZA CHIFFLET",
+      "Clases": "1/5  CAT, 3/5  CAT, 5/4  AYU",
+      "cod": "ENMIC155",
+      "sección": "02",
+      "profesor": "ADRIANA PIAZZA CHIFFLET",
+      "nombre_curso": "INTRO. MICROECONOMIA / INTRO.TEO.PRECIOS",
+      "horario": [
+        "CAT: Lun 14:00 - 15:20",
+        "CAT: Mie 14:00 - 15:20",
+        "AYU: Vie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMIC155/05",
+      "CodCatedra": "ENMIC155",
+      "CodSeccion": "05",
+      "NombreCatedra": "INTRO. MICROECONOMIA / INTRO.TEO.PRECIOS",
+      "Profesores": "MARIANA ZERPA REISCH",
+      "Clases": "2/2  CAT, 4/2  CAT, 5/4  AYU",
+      "cod": "ENMIC155",
+      "sección": "05",
+      "profesor": "MARIANA ZERPA REISCH",
+      "nombre_curso": "INTRO. MICROECONOMIA / INTRO.TEO.PRECIOS",
+      "horario": [
+        "CAT: Mar 09:30 - 10:50",
+        "CAT: Jue 09:30 - 10:50",
+        "AYU: Vie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMIC155/06",
+      "CodCatedra": "ENMIC155",
+      "CodSeccion": "06",
+      "NombreCatedra": "INTRO. MICROECONOMIA / INTRO.TEO.PRECIOS",
+      "Profesores": "MARIANA ZERPA REISCH",
+      "Clases": "2/3  CAT, 4/3  CAT, 5/4  AYU",
+      "cod": "ENMIC155",
+      "sección": "06",
+      "profesor": "MARIANA ZERPA REISCH",
+      "nombre_curso": "INTRO. MICROECONOMIA / INTRO.TEO.PRECIOS",
+      "horario": [
+        "CAT: Mar 11:00 - 12:20",
+        "CAT: Jue 11:00 - 12:20",
+        "AYU: Vie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMIC155/07",
+      "CodCatedra": "ENMIC155",
+      "CodSeccion": "07",
+      "NombreCatedra": "INTRO. MICROECONOMIA / INTRO.TEO.PRECIOS",
+      "Profesores": "JAVIERA SELMAN MUSALEM",
+      "Clases": "2/3  CAT, 4/3  CAT, 5/4  AYU",
+      "cod": "ENMIC155",
+      "sección": "07",
+      "profesor": "JAVIERA SELMAN MUSALEM",
+      "nombre_curso": "INTRO. MICROECONOMIA / INTRO.TEO.PRECIOS",
+      "horario": [
+        "CAT: Mar 11:00 - 12:20",
+        "CAT: Jue 11:00 - 12:20",
+        "AYU: Vie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMIC155/08",
+      "CodCatedra": "ENMIC155",
+      "CodSeccion": "08",
+      "NombreCatedra": "INTRO. MICROECONOMIA / INTRO.TEO.PRECIOS",
+      "Profesores": "JAVIERA SELMAN MUSALEM",
+      "Clases": "2/4  CAT, 4/4  CAT, 5/4  AYU",
+      "cod": "ENMIC155",
+      "sección": "08",
+      "profesor": "JAVIERA SELMAN MUSALEM",
+      "nombre_curso": "INTRO. MICROECONOMIA / INTRO.TEO.PRECIOS",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "CAT: Jue 12:30 - 13:50",
+        "AYU: Vie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMIC305/01",
+      "CodCatedra": "ENMIC305",
+      "CodSeccion": "01",
+      "NombreCatedra": "MICROECONOMÍA I",
+      "Profesores": "JORGE RIVERA CAYUPI",
+      "Clases": "2/3  CAT, 4/3  CAT, 5/4  AYU",
+      "cod": "ENMIC305",
+      "sección": "01",
+      "profesor": "JORGE RIVERA CAYUPI",
+      "nombre_curso": "MICROECONOMÍA I",
+      "horario": [
+        "CAT: Mar 11:00 - 12:20",
+        "CAT: Jue 11:00 - 12:20",
+        "AYU: Vie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMIC355/01",
+      "CodCatedra": "ENMIC355",
+      "CodSeccion": "01",
+      "NombreCatedra": "MICROECONOMÍA II",
+      "Profesores": "ALDO PATRICIO GONZALEZ TISSINETTI",
+      "Clases": "1/3  CAT, 3/3  CAT, 3/7  AYU",
+      "cod": "ENMIC355",
+      "sección": "01",
+      "profesor": "ALDO PATRICIO GONZALEZ TISSINETTI",
+      "nombre_curso": "MICROECONOMÍA II",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20",
+        "AYU: Mie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMIC355/02",
+      "CodCatedra": "ENMIC355",
+      "CodSeccion": "02",
+      "NombreCatedra": "MICROECONOMÍA II",
+      "Profesores": "PAOLA MONSERRAT BORDON TAPIA",
+      "Clases": "2/3  CAT, 3/7  AYU, 4/3  CAT",
+      "cod": "ENMIC355",
+      "sección": "02",
+      "profesor": "PAOLA MONSERRAT BORDON TAPIA",
+      "nombre_curso": "MICROECONOMÍA II",
+      "horario": [
+        "CAT: Mar 11:00 - 12:20",
+        "AYU: Mie 17:00 - 18:20",
+        "CAT: Jue 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMIC405/01",
+      "CodCatedra": "ENMIC405",
+      "CodSeccion": "01",
+      "NombreCatedra": "ECONOMIA DEL TRABAJO",
+      "Profesores": "DANTE CONTRERAS GUAJARDO",
+      "Clases": "1/6  CAT, 3/6  CAT, 5/6  AYU",
+      "cod": "ENMIC405",
+      "sección": "01",
+      "profesor": "DANTE CONTRERAS GUAJARDO",
+      "nombre_curso": "ECONOMIA DEL TRABAJO",
+      "horario": [
+        "CAT: Lun 15:30 - 16:50",
+        "CAT: Mie 15:30 - 16:50",
+        "AYU: Vie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMIC455/01",
+      "CodCatedra": "ENMIC455",
+      "CodSeccion": "01",
+      "NombreCatedra": "MICROECONOMÍA IV",
+      "Profesores": "FRANCISCO JOSÉ PINO EMHART",
+      "Clases": "1/3  CAT, 3/3  CAT, 5/2  AYU",
+      "cod": "ENMIC455",
+      "sección": "01",
+      "profesor": "FRANCISCO JOSÉ PINO EMHART",
+      "nombre_curso": "MICROECONOMÍA IV",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20",
+        "AYU: Vie 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMIC455/02",
+      "CodCatedra": "ENMIC455",
+      "CodSeccion": "02",
+      "NombreCatedra": "MICROECONOMÍA IV",
+      "Profesores": "JAVIER IGNACIO VÁSQUEZ CUBILLOS",
+      "Clases": "1/3  CAT, 3/3  CAT, 5/2  AYU",
+      "cod": "ENMIC455",
+      "sección": "02",
+      "profesor": "JAVIER IGNACIO VÁSQUEZ CUBILLOS",
+      "nombre_curso": "MICROECONOMÍA IV",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20",
+        "AYU: Vie 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMKT205/02",
+      "CodCatedra": "ENMKT205",
+      "CodSeccion": "02",
+      "NombreCatedra": "INTRODUCCIÓN AL MARKETING",
+      "Profesores": "RODRIGO ALEJANDRO URIBE BRAVO",
+      "Clases": "1/2  CAT, 3/2  CAT, 5/6  AYU",
+      "cod": "ENMKT205",
+      "sección": "02",
+      "profesor": "RODRIGO ALEJANDRO URIBE BRAVO",
+      "nombre_curso": "INTRODUCCIÓN AL MARKETING",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "CAT: Mie 09:30 - 10:50",
+        "AYU: Vie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMKT205/01",
+      "CodCatedra": "ENMKT205",
+      "CodSeccion": "01",
+      "NombreCatedra": "INTRODUCCIÓN AL MARKETING",
+      "Profesores": "EDUARDO IGNACIO TORRES MORAGA",
+      "Clases": "1/3  CAT, 3/3  CAT, 5/6  AYU",
+      "cod": "ENMKT205",
+      "sección": "01",
+      "profesor": "EDUARDO IGNACIO TORRES MORAGA",
+      "nombre_curso": "INTRODUCCIÓN AL MARKETING",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20",
+        "AYU: Vie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMKT205/03",
+      "CodCatedra": "ENMKT205",
+      "CodSeccion": "03",
+      "NombreCatedra": "INTRODUCCIÓN AL MARKETING",
+      "Profesores": "CRISTOBAL BERNARDO BARRA VILLALON",
+      "Clases": "2/2  CAT, 4/2  CAT, 5/6  AYU",
+      "cod": "ENMKT205",
+      "sección": "03",
+      "profesor": "CRISTOBAL BERNARDO BARRA VILLALON",
+      "nombre_curso": "INTRODUCCIÓN AL MARKETING",
+      "horario": [
+        "CAT: Mar 09:30 - 10:50",
+        "CAT: Jue 09:30 - 10:50",
+        "AYU: Vie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMKT205/04",
+      "CodCatedra": "ENMKT205",
+      "CodSeccion": "04",
+      "NombreCatedra": "INTRODUCCIÓN AL MARKETING",
+      "Profesores": "PEDRO HIDALGO CAMPOS",
+      "Clases": "2/4  CAT, 4/4  CAT, 5/6  AYU",
+      "cod": "ENMKT205",
+      "sección": "04",
+      "profesor": "PEDRO HIDALGO CAMPOS",
+      "nombre_curso": "INTRODUCCIÓN AL MARKETING",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "CAT: Jue 12:30 - 13:50",
+        "AYU: Vie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMKT205/05",
+      "CodCatedra": "ENMKT205",
+      "CodSeccion": "05",
+      "NombreCatedra": "INTRODUCCIÓN AL MARKETING",
+      "Profesores": "PATRICIO ISRAEL OLIVARES VALENZUELA",
+      "Clases": "2/6  CAT, 4/6  CAT, 5/6  AYU",
+      "cod": "ENMKT205",
+      "sección": "05",
+      "profesor": "PATRICIO ISRAEL OLIVARES VALENZUELA",
+      "nombre_curso": "INTRODUCCIÓN AL MARKETING",
+      "horario": [
+        "CAT: Mar 15:30 - 16:50",
+        "CAT: Jue 15:30 - 16:50",
+        "AYU: Vie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMKT355/00",
+      "CodCatedra": "ENMKT355",
+      "CodSeccion": "00",
+      "NombreCatedra": "MARKETING I",
+      "Profesores": "",
+      "Clases": "",
+      "cod": "ENMKT355",
+      "sección": "00",
+      "profesor": "Sin Profesor",
+      "nombre_curso": "MARKETING I",
+      "horario": [
+        "Sin horario"
+      ]
+    },
+    {
+      "IdCurso": "ENMKT405/03",
+      "CodCatedra": "ENMKT405",
+      "CodSeccion": "03",
+      "NombreCatedra": "MARKETING I",
+      "Profesores": "CRISTIAN ALEJANDRO BUZETA RIQUELME",
+      "Clases": "1/2  CAT, 3/2  CAT, 3/7  AYU",
+      "cod": "ENMKT405",
+      "sección": "03",
+      "profesor": "CRISTIAN ALEJANDRO BUZETA RIQUELME",
+      "nombre_curso": "MARKETING I",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "CAT: Mie 09:30 - 10:50",
+        "AYU: Mie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMKT405/04",
+      "CodCatedra": "ENMKT405",
+      "CodSeccion": "04",
+      "NombreCatedra": "MARKETING I",
+      "Profesores": "CRISTIAN ALEJANDRO BUZETA RIQUELME",
+      "Clases": "1/3  CAT, 3/3  CAT, 3/7  AYU",
+      "cod": "ENMKT405",
+      "sección": "04",
+      "profesor": "CRISTIAN ALEJANDRO BUZETA RIQUELME",
+      "nombre_curso": "MARKETING I",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20",
+        "AYU: Mie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMKT405/01",
+      "CodCatedra": "ENMKT405",
+      "CodSeccion": "01",
+      "NombreCatedra": "MARKETING I",
+      "Profesores": "PABLO CESAR FARIAS NAZEL",
+      "Clases": "2/3  CAT, 3/7  AYU, 4/3  CAT",
+      "cod": "ENMKT405",
+      "sección": "01",
+      "profesor": "PABLO CESAR FARIAS NAZEL",
+      "nombre_curso": "MARKETING I",
+      "horario": [
+        "CAT: Mar 11:00 - 12:20",
+        "AYU: Mie 17:00 - 18:20",
+        "CAT: Jue 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMKT405/02",
+      "CodCatedra": "ENMKT405",
+      "CodSeccion": "02",
+      "NombreCatedra": "MARKETING I",
+      "Profesores": "PABLO CESAR FARIAS NAZEL",
+      "Clases": "2/4  CAT, 3/7  AYU, 4/4  CAT",
+      "cod": "ENMKT405",
+      "sección": "02",
+      "profesor": "PABLO CESAR FARIAS NAZEL",
+      "nombre_curso": "MARKETING I",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "AYU: Mie 17:00 - 18:20",
+        "CAT: Jue 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMKT455/00",
+      "CodCatedra": "ENMKT455",
+      "CodSeccion": "00",
+      "NombreCatedra": "MARKETING II",
+      "Profesores": "",
+      "Clases": "",
+      "cod": "ENMKT455",
+      "sección": "00",
+      "profesor": "Sin Profesor",
+      "nombre_curso": "MARKETING II",
+      "horario": [
+        "Sin horario"
+      ]
+    },
+    {
+      "IdCurso": "ENMKT455/01",
+      "CodCatedra": "ENMKT455",
+      "CodSeccion": "01",
+      "NombreCatedra": "MARKETING II",
+      "Profesores": "LESLIER MAUREEN VALENZUELA FERNANDEZ",
+      "Clases": "2/2  CAT, 4/2  CAT, 5/4  AYU",
+      "cod": "ENMKT455",
+      "sección": "01",
+      "profesor": "LESLIER MAUREEN VALENZUELA FERNANDEZ",
+      "nombre_curso": "MARKETING II",
+      "horario": [
+        "CAT: Mar 09:30 - 10:50",
+        "CAT: Jue 09:30 - 10:50",
+        "AYU: Vie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMKT455/03",
+      "CodCatedra": "ENMKT455",
+      "CodSeccion": "03",
+      "NombreCatedra": "MARKETING II",
+      "Profesores": "CRISTOBAL BERNARDO BARRA VILLALON",
+      "Clases": "2/3  CAT, 4/3  CAT, 5/4  AYU",
+      "cod": "ENMKT455",
+      "sección": "03",
+      "profesor": "CRISTOBAL BERNARDO BARRA VILLALON",
+      "nombre_curso": "MARKETING II",
+      "horario": [
+        "CAT: Mar 11:00 - 12:20",
+        "CAT: Jue 11:00 - 12:20",
+        "AYU: Vie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMKT455/02",
+      "CodCatedra": "ENMKT455",
+      "CodSeccion": "02",
+      "NombreCatedra": "MARKETING II",
+      "Profesores": "PEDRO HIDALGO CAMPOS",
+      "Clases": "2/6  CAT, 4/6  CAT, 5/4  AYU",
+      "cod": "ENMKT455",
+      "sección": "02",
+      "profesor": "PEDRO HIDALGO CAMPOS",
+      "nombre_curso": "MARKETING II",
+      "horario": [
+        "CAT: Mar 15:30 - 16:50",
+        "CAT: Jue 15:30 - 16:50",
+        "AYU: Vie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENMKT625/01",
+      "CodCatedra": "ENMKT625",
+      "CodSeccion": "01",
+      "NombreCatedra": "GESTIÓN DE MARCA",
+      "Profesores": "SERGIO ANDRES OLAVARRIETA SOTO",
+      "Clases": "1/6  CAT, 1/7  CAT",
+      "cod": "ENMKT625",
+      "sección": "01",
+      "profesor": "SERGIO ANDRES OLAVARRIETA SOTO",
+      "nombre_curso": "GESTIÓN DE MARCA",
+      "horario": [
+        "CAT: Lun 15:30 - 16:50",
+        "CAT: Lun 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMKT642/01",
+      "CodCatedra": "ENMKT642",
+      "CodSeccion": "01",
+      "NombreCatedra": "MARKETING METRICS - BALANCED SCORECARD - CUADRO DE MANDO INTEGRAL",
+      "Profesores": "PABLO CESAR FARIAS NAZEL",
+      "Clases": "4/6  CAT, 4/7  CAT",
+      "cod": "ENMKT642",
+      "sección": "01",
+      "profesor": "PABLO CESAR FARIAS NAZEL",
+      "nombre_curso": "MARKETING METRICS - BALANCED SCORECARD - CUADRO DE MANDO INTEGRAL",
+      "horario": [
+        "CAT: Jue 15:30 - 16:50",
+        "CAT: Jue 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMKT670/01",
+      "CodCatedra": "ENMKT670",
+      "CodSeccion": "01",
+      "NombreCatedra": "METODOS MULTIVARIADOS: INTELIGENCIA DE MERCADO",
+      "Profesores": "ENRIQUE FRANCISCO MANZUR MOBAREC, RODRIGO ALEJANDRO URIBE BRAVO",
+      "Clases": "2/6  CAT, 2/7  CAT",
+      "cod": "ENMKT670",
+      "sección": "01",
+      "profesor": "ENRIQUE FRANCISCO MANZUR MOBAREC, RODRIGO ALEJANDRO URIBE BRAVO",
+      "nombre_curso": "METODOS MULTIVARIADOS: INTELIGENCIA DE MERCADO",
+      "horario": [
+        "CAT: Mar 15:30 - 16:50",
+        "CAT: Mar 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMKT681/01",
+      "CodCatedra": "ENMKT681",
+      "CodSeccion": "01",
+      "NombreCatedra": "ANÁLISIS DE DATOS PARA INVESTIGACIÓN EN MARKETING",
+      "Profesores": "CRISTOBAL BERNARDO BARRA VILLALON",
+      "Clases": "3/6  CAT, 3/7  CAT",
+      "cod": "ENMKT681",
+      "sección": "01",
+      "profesor": "CRISTOBAL BERNARDO BARRA VILLALON",
+      "nombre_curso": "ANÁLISIS DE DATOS PARA INVESTIGACIÓN EN MARKETING",
+      "horario": [
+        "CAT: Mie 15:30 - 16:50",
+        "CAT: Mie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENMKT709/01",
+      "CodCatedra": "ENMKT709",
+      "CodSeccion": "01",
+      "NombreCatedra": "MARKETING DIGITAL AVANZADO",
+      "Profesores": "RODRIGO NICOLÁS ROJO PIZARRO",
+      "Clases": "5/3  CAT, 5/4  CAT",
+      "cod": "ENMKT709",
+      "sección": "01",
+      "profesor": "RODRIGO NICOLÁS ROJO PIZARRO",
+      "nombre_curso": "MARKETING DIGITAL AVANZADO",
+      "horario": [
+        "CAT: Vie 11:00 - 12:20",
+        "CAT: Vie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENNEG105/01",
+      "CodCatedra": "ENNEG105",
+      "CodSeccion": "01",
+      "NombreCatedra": "GESTIÓN Y EMPRESA",
+      "Profesores": "FERNANDO GABRIEL SÁNCHEZ HENRÍQUEZ",
+      "Clases": "1/2  CAT, 3/2  CAT, 5/3  AYU",
+      "cod": "ENNEG105",
+      "sección": "01",
+      "profesor": "FERNANDO GABRIEL SÁNCHEZ HENRÍQUEZ",
+      "nombre_curso": "GESTIÓN Y EMPRESA",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "CAT: Mie 09:30 - 10:50",
+        "AYU: Vie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENNEG260/01",
+      "CodCatedra": "ENNEG260",
+      "CodSeccion": "01",
+      "NombreCatedra": "TALLER DE NEGOCIOS",
+      "Profesores": "NICOLE CONSUELO PINAUD VERDE-RAMO",
+      "Clases": "1/4  CAT",
+      "cod": "ENNEG260",
+      "sección": "01",
+      "profesor": "NICOLE CONSUELO PINAUD VERDE-RAMO",
+      "nombre_curso": "TALLER DE NEGOCIOS",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENNEG260/03",
+      "CodCatedra": "ENNEG260",
+      "CodSeccion": "03",
+      "NombreCatedra": "TALLER DE NEGOCIOS",
+      "Profesores": "MADELAINE CAMILA TOLEDO NÚÑEZ",
+      "Clases": "2/1  CAT",
+      "cod": "ENNEG260",
+      "sección": "03",
+      "profesor": "MADELAINE CAMILA TOLEDO NÚÑEZ",
+      "nombre_curso": "TALLER DE NEGOCIOS",
+      "horario": [
+        "CAT: Mar 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENNEG260/02",
+      "CodCatedra": "ENNEG260",
+      "CodSeccion": "02",
+      "NombreCatedra": "TALLER DE NEGOCIOS",
+      "Profesores": "NICOLE CONSUELO PINAUD VERDE-RAMO",
+      "Clases": "3/4  CAT",
+      "cod": "ENNEG260",
+      "sección": "02",
+      "profesor": "NICOLE CONSUELO PINAUD VERDE-RAMO",
+      "nombre_curso": "TALLER DE NEGOCIOS",
+      "horario": [
+        "CAT: Mie 12:30 - 13:50"
+      ]
+    },
+    {
+      "IdCurso": "ENNEG260/04",
+      "CodCatedra": "ENNEG260",
+      "CodSeccion": "04",
+      "NombreCatedra": "TALLER DE NEGOCIOS",
+      "Profesores": "MADELAINE CAMILA TOLEDO NÚÑEZ",
+      "Clases": "4/1  CAT",
+      "cod": "ENNEG260",
+      "sección": "04",
+      "profesor": "MADELAINE CAMILA TOLEDO NÚÑEZ",
+      "nombre_curso": "TALLER DE NEGOCIOS",
+      "horario": [
+        "CAT: Jue 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENNEG310/00",
+      "CodCatedra": "ENNEG310",
+      "CodSeccion": "00",
+      "NombreCatedra": "ECO. INTERN. (PA) - NEGOCIOS INTERNAC",
+      "Profesores": "",
+      "Clases": "",
+      "cod": "ENNEG310",
+      "sección": "00",
+      "profesor": "Sin Profesor",
+      "nombre_curso": "ECO. INTERN. (PA) - NEGOCIOS INTERNAC",
+      "horario": [
+        "Sin horario"
+      ]
+    },
+    {
+      "IdCurso": "ENNEG310/01",
+      "CodCatedra": "ENNEG310",
+      "CodSeccion": "01",
+      "NombreCatedra": "ECO. INTERN. (PA) - NEGOCIOS INTERNAC",
+      "Profesores": "ALEJANDRA OLGA VASQUEZ DELAMA",
+      "Clases": "1/3  CAT, 3/3  CAT, 5/7  AYU",
+      "cod": "ENNEG310",
+      "sección": "01",
+      "profesor": "ALEJANDRA OLGA VASQUEZ DELAMA",
+      "nombre_curso": "ECO. INTERN. (PA) - NEGOCIOS INTERNAC",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20",
+        "AYU: Vie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENNEG310/02",
+      "CodCatedra": "ENNEG310",
+      "CodSeccion": "02",
+      "NombreCatedra": "ECO. INTERN. (PA) - NEGOCIOS INTERNAC",
+      "Profesores": "ALEJANDRA OLGA VASQUEZ DELAMA",
+      "Clases": "1/4  CAT, 3/4  CAT, 5/7  AYU",
+      "cod": "ENNEG310",
+      "sección": "02",
+      "profesor": "ALEJANDRA OLGA VASQUEZ DELAMA",
+      "nombre_curso": "ECO. INTERN. (PA) - NEGOCIOS INTERNAC",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "CAT: Mie 12:30 - 13:50",
+        "AYU: Vie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENNEG310/03",
+      "CodCatedra": "ENNEG310",
+      "CodSeccion": "03",
+      "NombreCatedra": "ECO. INTERN. (PA) - NEGOCIOS INTERNAC",
+      "Profesores": "GONZALO IGNACIO PARDO CAMPOS",
+      "Clases": "2/3  CAT, 4/3  CAT, 5/7  AYU",
+      "cod": "ENNEG310",
+      "sección": "03",
+      "profesor": "GONZALO IGNACIO PARDO CAMPOS",
+      "nombre_curso": "ECO. INTERN. (PA) - NEGOCIOS INTERNAC",
+      "horario": [
+        "CAT: Mar 11:00 - 12:20",
+        "CAT: Jue 11:00 - 12:20",
+        "AYU: Vie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENNEG310/04",
+      "CodCatedra": "ENNEG310",
+      "CodSeccion": "04",
+      "NombreCatedra": "ECO. INTERN. (PA) - NEGOCIOS INTERNAC",
+      "Profesores": "GONZALO IGNACIO PARDO CAMPOS",
+      "Clases": "2/4  CAT, 4/4  CAT, 5/7  AYU",
+      "cod": "ENNEG310",
+      "sección": "04",
+      "profesor": "GONZALO IGNACIO PARDO CAMPOS",
+      "nombre_curso": "ECO. INTERN. (PA) - NEGOCIOS INTERNAC",
+      "horario": [
+        "CAT: Mar 12:30 - 13:50",
+        "CAT: Jue 12:30 - 13:50",
+        "AYU: Vie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENNEG315/01",
+      "CodCatedra": "ENNEG315",
+      "CodSeccion": "01",
+      "NombreCatedra": "PLANIFICACION Y DISEÑO ORGANIZACIONAL",
+      "Profesores": "ANTONIO DEL CARMEN FARIAS LANDABUR",
+      "Clases": "2/3  CAT, 4/3  CAT, 5/6  AYU",
+      "cod": "ENNEG315",
+      "sección": "01",
+      "profesor": "ANTONIO DEL CARMEN FARIAS LANDABUR",
+      "nombre_curso": "PLANIFICACION Y DISEÑO ORGANIZACIONAL",
+      "horario": [
+        "CAT: Mar 11:00 - 12:20",
+        "CAT: Jue 11:00 - 12:20",
+        "AYU: Vie 15:30 - 16:50"
+      ]
+    },
+    {
+      "IdCurso": "ENNEG355/00",
+      "CodCatedra": "ENNEG355",
+      "CodSeccion": "00",
+      "NombreCatedra": "CREACION NUEVAS EMPRESAS/PEQUEÑA EMPRESA",
+      "Profesores": "",
+      "Clases": "",
+      "cod": "ENNEG355",
+      "sección": "00",
+      "profesor": "Sin Profesor",
+      "nombre_curso": "CREACION NUEVAS EMPRESAS/PEQUEÑA EMPRESA",
+      "horario": [
+        "Sin horario"
+      ]
+    },
+    {
+      "IdCurso": "ENNEG355/01",
+      "CodCatedra": "ENNEG355",
+      "CodSeccion": "01",
+      "NombreCatedra": "CREACION NUEVAS EMPRESAS/PEQUEÑA EMPRESA",
+      "Profesores": "NICOLE CONSUELO PINAUD VERDE-RAMO",
+      "Clases": "1/2  CAT, 3/2  CAT, 5/2  AYU",
+      "cod": "ENNEG355",
+      "sección": "01",
+      "profesor": "NICOLE CONSUELO PINAUD VERDE-RAMO",
+      "nombre_curso": "CREACION NUEVAS EMPRESAS/PEQUEÑA EMPRESA",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "CAT: Mie 09:30 - 10:50",
+        "AYU: Vie 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENNEG355/03",
+      "CodCatedra": "ENNEG355",
+      "CodSeccion": "03",
+      "NombreCatedra": "CREACION NUEVAS EMPRESAS/PEQUEÑA EMPRESA",
+      "Profesores": "NICOLE CONSUELO PINAUD VERDE-RAMO",
+      "Clases": "1/3  CAT, 3/3  CAT, 5/2  AYU",
+      "cod": "ENNEG355",
+      "sección": "03",
+      "profesor": "NICOLE CONSUELO PINAUD VERDE-RAMO",
+      "nombre_curso": "CREACION NUEVAS EMPRESAS/PEQUEÑA EMPRESA",
+      "horario": [
+        "CAT: Lun 11:00 - 12:20",
+        "CAT: Mie 11:00 - 12:20",
+        "AYU: Vie 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENNEG355/02",
+      "CodCatedra": "ENNEG355",
+      "CodSeccion": "02",
+      "NombreCatedra": "CREACION NUEVAS EMPRESAS/PEQUEÑA EMPRESA",
+      "Profesores": "PEDRO RODRIGO FUENTES DÍAZ",
+      "Clases": "1/6  CAT, 3/6  CAT, 5/2  AYU",
+      "cod": "ENNEG355",
+      "sección": "02",
+      "profesor": "PEDRO RODRIGO FUENTES DÍAZ",
+      "nombre_curso": "CREACION NUEVAS EMPRESAS/PEQUEÑA EMPRESA",
+      "horario": [
+        "CAT: Lun 15:30 - 16:50",
+        "CAT: Mie 15:30 - 16:50",
+        "AYU: Vie 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENNEG405/00",
+      "CodCatedra": "ENNEG405",
+      "CodSeccion": "00",
+      "NombreCatedra": "NEGOCIOS PARA ECONOMIA I",
+      "Profesores": "",
+      "Clases": "",
+      "cod": "ENNEG405",
+      "sección": "00",
+      "profesor": "Sin Profesor",
+      "nombre_curso": "NEGOCIOS PARA ECONOMIA I",
+      "horario": [
+        "Sin horario"
+      ]
+    },
+    {
+      "IdCurso": "ENNEG425/03",
+      "CodCatedra": "ENNEG425",
+      "CodSeccion": "03",
+      "NombreCatedra": "DIRECCIÓN DE EMPRESAS ESTRATÉGICAS / POLIT.NEGOCIOS",
+      "Profesores": "EDUARDO RAMÓN KOHLER ESCOBAR",
+      "Clases": "1/2  CAT, 3/2  CAT, 5/3  AYU",
+      "cod": "ENNEG425",
+      "sección": "03",
+      "profesor": "EDUARDO RAMÓN KOHLER ESCOBAR",
+      "nombre_curso": "DIRECCIÓN DE EMPRESAS ESTRATÉGICAS / POLIT.NEGOCIOS",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "CAT: Mie 09:30 - 10:50",
+        "AYU: Vie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENNEG425/01",
+      "CodCatedra": "ENNEG425",
+      "CodSeccion": "01",
+      "NombreCatedra": "DIRECCIÓN DE EMPRESAS ESTRATÉGICAS / POLIT.NEGOCIOS",
+      "Profesores": "EDUARDO RAMÓN KOHLER ESCOBAR",
+      "Clases": "1/4  CAT, 3/4  CAT, 5/3  AYU",
+      "cod": "ENNEG425",
+      "sección": "01",
+      "profesor": "EDUARDO RAMÓN KOHLER ESCOBAR",
+      "nombre_curso": "DIRECCIÓN DE EMPRESAS ESTRATÉGICAS / POLIT.NEGOCIOS",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "CAT: Mie 12:30 - 13:50",
+        "AYU: Vie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENNEG425/02",
+      "CodCatedra": "ENNEG425",
+      "CodSeccion": "02",
+      "NombreCatedra": "DIRECCIÓN DE EMPRESAS ESTRATÉGICAS / POLIT.NEGOCIOS",
+      "Profesores": "ISMAEL ENRIQUE OLIVA BECERRA",
+      "Clases": "1/4  CAT, 3/4  CAT, 5/3  AYU",
+      "cod": "ENNEG425",
+      "sección": "02",
+      "profesor": "ISMAEL ENRIQUE OLIVA BECERRA",
+      "nombre_curso": "DIRECCIÓN DE EMPRESAS ESTRATÉGICAS / POLIT.NEGOCIOS",
+      "horario": [
+        "CAT: Lun 12:30 - 13:50",
+        "CAT: Mie 12:30 - 13:50",
+        "AYU: Vie 11:00 - 12:20"
+      ]
+    },
+    {
+      "IdCurso": "ENNEG455/00",
+      "CodCatedra": "ENNEG455",
+      "CodSeccion": "00",
+      "NombreCatedra": "NEGOCIOS PARA ECONOMIA II",
+      "Profesores": "",
+      "Clases": "",
+      "cod": "ENNEG455",
+      "sección": "00",
+      "profesor": "Sin Profesor",
+      "nombre_curso": "NEGOCIOS PARA ECONOMIA II",
+      "horario": [
+        "Sin horario"
+      ]
+    },
+    {
+      "IdCurso": "ENOPE300/01",
+      "CodCatedra": "ENOPE300",
+      "CodSeccion": "01",
+      "NombreCatedra": "INVESTIGACIÓN OPERATIVA",
+      "Profesores": "JAIME ANDRES MIRANDA PINO",
+      "Clases": "2/7  CAT, 3/6  AYU, 4/7  CAT",
+      "cod": "ENOPE300",
+      "sección": "01",
+      "profesor": "JAIME ANDRES MIRANDA PINO",
+      "nombre_curso": "INVESTIGACIÓN OPERATIVA",
+      "horario": [
+        "CAT: Mar 17:00 - 18:20",
+        "AYU: Mie 15:30 - 16:50",
+        "CAT: Jue 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENOPE415/01",
+      "CodCatedra": "ENOPE415",
+      "CodSeccion": "01",
+      "NombreCatedra": "GESTIÓN ESTRATEGICA DE OPERACIONES",
+      "Profesores": "SIMON EMILIO MATURANA MOLINA",
+      "Clases": "1/1  CAT, 1/8  AYU, 3/1  CAT",
+      "cod": "ENOPE415",
+      "sección": "01",
+      "profesor": "SIMON EMILIO MATURANA MOLINA",
+      "nombre_curso": "GESTIÓN ESTRATEGICA DE OPERACIONES",
+      "horario": [
+        "CAT: Lun 08:00 - 09:20",
+        "AYU: Lun 18:30 - 19:50",
+        "CAT: Mie 08:00 - 09:20"
+      ]
+    },
+    {
+      "IdCurso": "ENOPE415/02",
+      "CodCatedra": "ENOPE415",
+      "CodSeccion": "02",
+      "NombreCatedra": "GESTIÓN ESTRATEGICA DE OPERACIONES",
+      "Profesores": "MARCELO OSVALDO OLIVARES ACUÑA",
+      "Clases": "1/2  CAT, 1/8  AYU, 3/2  CAT",
+      "cod": "ENOPE415",
+      "sección": "02",
+      "profesor": "MARCELO OSVALDO OLIVARES ACUÑA",
+      "nombre_curso": "GESTIÓN ESTRATEGICA DE OPERACIONES",
+      "horario": [
+        "CAT: Lun 09:30 - 10:50",
+        "AYU: Lun 18:30 - 19:50",
+        "CAT: Mie 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENSTA630/01",
+      "CodCatedra": "ENSTA630",
+      "CodSeccion": "01",
+      "NombreCatedra": "ECONOMETRIA II",
+      "Profesores": "ROMULO AUGUSTO FELIX CHUMACERO ESCUDERO",
+      "Clases": "2/2  CAT, 2/3  CAT, 4/2  CAT",
+      "cod": "ENSTA630",
+      "sección": "01",
+      "profesor": "ROMULO AUGUSTO FELIX CHUMACERO ESCUDERO",
+      "nombre_curso": "ECONOMETRIA II",
+      "horario": [
+        "CAT: Mar 09:30 - 10:50",
+        "CAT: Mar 11:00 - 12:20",
+        "CAT: Jue 09:30 - 10:50"
+      ]
+    },
+    {
+      "IdCurso": "ENTAL255/01",
+      "CodCatedra": "ENTAL255",
+      "CodSeccion": "01",
+      "NombreCatedra": "TALLER DE INTEGRACIÓN PROFESIONAL",
+      "Profesores": "GUILLERMO PATRICIO REBOLLEDO SANCHEZ",
+      "Clases": "3/7 Aula Magna CAT",
+      "cod": "ENTAL255",
+      "sección": "01",
+      "profesor": "GUILLERMO PATRICIO REBOLLEDO SANCHEZ",
+      "nombre_curso": "TALLER DE INTEGRACIÓN PROFESIONAL",
+      "horario": [
+        "CAT: Mie 17:00 - 18:20"
+      ]
+    },
+    {
+      "IdCurso": "ENTAL285/01",
+      "CodCatedra": "ENTAL285",
+      "CodSeccion": "01",
+      "NombreCatedra": "TALLER DE INTEGRACIÓN PROFESIONAL",
+      "Profesores": "JAIME ANDRES MIRANDA PINO",
+      "Clases": "3/7  CAT",
+      "cod": "ENTAL285",
+      "sección": "01",
+      "profesor": "JAIME ANDRES MIRANDA PINO",
+      "nombre_curso": "TALLER DE INTEGRACIÓN PROFESIONAL",
+      "horario": [
+        "CAT: Mie 17:00 - 18:20"
+      ]
+    }
+  ]
+}

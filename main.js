@@ -13,7 +13,8 @@ var ENDPOINT;
 //ENDPOINT = 'https://cdn.glitch.global/5c86d7f5-cdbd-4acb-980c-620ba3e55c14/2022-12-27T09-33-49.json?v=1672133866246'; // Otoño 2023
 //ENDPOINT = "https://cdn.glitch.global/5c86d7f5-cdbd-4acb-980c-620ba3e55c14/2023-06-15T09-50-13.json?v=1686824249442"; //Primavera 2023
 //ENDPOINT = "https://cdn.glitch.global/5c86d7f5-cdbd-4acb-980c-620ba3e55c14/2023-12-28T03-34-44.json?v=1703734666939"; // Otoño 2024
-ENDPOINT = "https://cdn.glitch.global/5c86d7f5-cdbd-4acb-980c-620ba3e55c14/2024-06-12T12-12-24.json?v=1718194630471"; // Primavera 2024
+//ENDPOINT = "https://cdn.glitch.global/5c86d7f5-cdbd-4acb-980c-620ba3e55c14/2024-06-12T12-12-24.json?v=1718194630471"; // Primavera 2024
+ENDPOINT = "assets/data/listado_cursos.json"
 // periodo es utilizado para desplegar títulos en algunas secciones de la web.
 const periodo = "Primavera 2024";
 
@@ -126,10 +127,12 @@ function getLastUpdated(endpoint, utc) {
 const listaCursos = {
   cursos: [],
   seleccionados: [],
+  fecha_data: null,
   getCursos: async function (url) {
     const res = await fetch(url);
     let data = await res.json();
-    this.cursos = data;
+    this.cursos = data.cursos;
+    this.fecha_data = data.fecha;
     console.log("Cursos obtenidos con éxito.");
     // Hacemos el llamado a la función que despliega la lista de cursos.
     view.displayCursos();
@@ -525,7 +528,7 @@ const view = {
     document.querySelector(
       "#numero-cursos"
     ).innerHTML = `Cursos totales: ${listaCursos.cursos.length}`;
-    $1("#last-updated").innerHTML = getLastUpdated(ENDPOINT, utc_chile);
+    $1("#last-updated").innerHTML = listaCursos.fecha_data;
     console.log("Tabla desplegada.");
   },
   createButton: function (texto, clase) {
